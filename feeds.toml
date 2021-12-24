@@ -27,3 +27,43 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitUntil = "networkidle"
+
+[m_cine21_column]
+title = "씨네21 모바일 ─ 칼럼"
+url = "http://m.cine21.com/news/lists/?s=1"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
+
+[m_cine21_review]
+title = "씨네21 모바일 ─ 리뷰"
+url = "http://m.cine21.com/news/lists/?s=3"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
+
+[m_cine21_review]
+title = "씨네21 모바일 ─ 리뷰"
+url = "http://m.cine21.com/news/lists/?s=3"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
+
+[m_cine21_culture]
+title = "씨네21 모바일 ─ 컬쳐"
+url = "http://m.cine21.com/news/lists/?s=7"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
