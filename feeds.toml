@@ -87,3 +87,23 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitUntil = "networkidle"
+
+[m_cine21_dailynews_top]
+title = "씨네21 모바일 ─ 데일리뉴스 하이라이트"
+url = "http://m.cine21.com/news/issue"
+entrySelector = "div.topnews"
+titleSelector = "div.topnews_tit span"
+linkSelector = "a"
+contentSelector = "div.topnews_tit"
+imageSelector = "a img"
+waitUntil = "networkidle"
+
+[m_cine21_dailynews]
+title = "씨네21 모바일 ─ 데일리뉴스"
+url = "http://m.cine21.com/news/issue"
+entrySelector = "ul.lst_card li"
+titleSelector = "div.tit p"
+linkSelector = "a"
+contentSelector = "div.tit"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
