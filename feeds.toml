@@ -67,3 +67,23 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitUntil = "networkidle"
+
+[m_cine21_interview]
+title = "씨네21 모바일 ─ 인터뷰"
+url = "http://m.cine21.com/news/lists/?s=4"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
+
+[m_cine21_filmfest]
+title = "씨네21 모바일 ─ 영화제"
+url = "http://m.cine21.com/news/lists/?s=8"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
