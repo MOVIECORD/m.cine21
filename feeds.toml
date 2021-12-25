@@ -6,7 +6,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.category"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_top2 li"
 
 [news_special]
 title = "씨네21 모바일 ─ 스페셜"
@@ -16,7 +16,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_critic]
 title = "씨네21 모바일 ─ 평론"
@@ -26,7 +26,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_column]
 title = "씨네21 모바일 ─ 칼럼"
@@ -36,7 +36,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_review]
 title = "씨네21 모바일 ─ 리뷰"
@@ -46,7 +46,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_culture]
 title = "씨네21 모바일 ─ 컬쳐"
@@ -56,7 +56,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_interview]
 title = "씨네21 모바일 ─ 인터뷰"
@@ -66,7 +66,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_filmfest]
 title = "씨네21 모바일 ─ 영화제"
@@ -76,7 +76,7 @@ titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_bigimg li"
 
 [news_dailynews_top]
 title = "씨네21 모바일 ─ 데일리뉴스 하이라이트"
@@ -86,7 +86,7 @@ titleSelector = "div.topnews_tit span"
 linkSelector = "a"
 contentSelector = "div.topnews_tit"
 imageSelector = "a img"
-waitUntil = "networkidle"
+waitForSelector = "div.topnews"
 
 [news_dailynews]
 title = "씨네21 모바일 ─ 데일리뉴스"
@@ -96,7 +96,7 @@ titleSelector = "div.tit p"
 linkSelector = "a"
 contentSelector = "div.tit"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_card li"
 
 [review_starrating]
 title = "씨네21 모바일 ─ 별점"
@@ -106,7 +106,7 @@ titleSelector = "div.tit p"
 linkSelector = "div.card_wrap a"
 contentSelector = "div.ico_star p"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_card li"
 
 [photo_cover]
 title = "씨네21 모바일 ─ 사진 ─ 커버"
@@ -116,7 +116,7 @@ titleSelector = "div.cover_num"
 linkSelector = "div.thub img"
 contentSelector = "div.cover_num"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_card li"
 
 [photo_person]
 title = "씨네21 모바일 ─ 사진 ─ 인물"
@@ -126,4 +126,4 @@ titleSelector = "div.name"
 linkSelector = "a"
 contentSelector = "div.role"
 imageSelector = "div.thub img"
-waitUntil = "networkidle"
+waitForSelector = "ul.lst_card li"
