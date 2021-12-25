@@ -117,3 +117,13 @@ linkSelector = "div.card_wrap a"
 contentSelector = "div.ico_star p"
 imageSelector = "div.thub img"
 waitUntil = "networkidle"
+
+[m_cine21_photo_cover]
+title = "씨네21 모바일 ─ 사진 ─ 커버"
+url = "http://m.cine21.com/photo/cover"
+entrySelector = "ul.lst_card li"
+titleSelector = "div.cover_num"
+linkSelector = "div.thub img"
+contentSelector = "div.cover_num"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
