@@ -7,3 +7,93 @@ linkSelector = "a"
 contentSelector = "div.category"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_top2 li"
+
+[news_special]
+title = "씨네21 모바일 ─ 스페셜"
+url = "http://m.cine21.com/news/lists/?s=2"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_critic]
+title = "씨네21 모바일 ─ 평론"
+url = "http://m.cine21.com/news/lists/?s=5"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_column]
+title = "씨네21 모바일 ─ 칼럼"
+url = "http://m.cine21.com/news/lists/?s=1"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_review]
+title = "씨네21 모바일 ─ 리뷰"
+url = "http://m.cine21.com/news/lists/?s=3"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_culture]
+title = "씨네21 모바일 ─ 컬쳐"
+url = "http://m.cine21.com/news/lists/?s=7"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_interview]
+title = "씨네21 모바일 ─ 인터뷰"
+url = "http://m.cine21.com/news/lists/?s=4"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_filmfest]
+title = "씨네21 모바일 ─ 영화제"
+url = "http://m.cine21.com/news/lists/?s=8"
+entrySelector = "ul.lst_bigimg li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.cont"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_bigimg li"
+
+[news_dailynews_top]
+title = "씨네21 모바일 ─ 데일리뉴스 하이라이트"
+url = "http://m.cine21.com/news/issue"
+entrySelector = "div.topnews"
+titleSelector = "div.topnews_tit span"
+linkSelector = "a"
+contentSelector = "div.topnews_tit"
+imageSelector = "a img"
+waitForSelector = "div.topnews"
+
+[news_dailynews]
+title = "씨네21 모바일 ─ 데일리뉴스"
+url = "http://m.cine21.com/news/issue"
+entrySelector = "ul.lst_card li"
+titleSelector = "div.tit p"
+linkSelector = "a"
+contentSelector = "div.tit"
+imageSelector = "div.thub img"
+waitForSelector = "ul.lst_card li"
