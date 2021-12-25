@@ -7,7 +7,6 @@ linkSelector = "a"
 contentSelector = "div.category"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_top2 li"
-onFail = "stale"
 
 [news_special]
 title = "씨네21 모바일 ─ 스페셜"
@@ -18,7 +17,6 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
 
 [news_critic]
 title = "씨네21 모바일 ─ 평론"
@@ -29,7 +27,6 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
 
 [news_column]
 title = "씨네21 모바일 ─ 칼럼"
@@ -40,7 +37,6 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
 
 [news_review]
 title = "씨네21 모바일 ─ 리뷰"
@@ -51,7 +47,6 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
 
 [news_culture]
 title = "씨네21 모바일 ─ 컬쳐"
@@ -62,7 +57,6 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
 
 [news_interview]
 title = "씨네21 모바일 ─ 인터뷰"
@@ -73,7 +67,6 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
 
 [news_filmfest]
 title = "씨네21 모바일 ─ 영화제"
@@ -84,26 +77,3 @@ linkSelector = "a"
 contentSelector = "div.cont"
 imageSelector = "div.thub img"
 waitForSelector = "ul.lst_bigimg li"
-onFail = "stale"
-
-[news_dailynews_top]
-title = "씨네21 모바일 ─ 데일리뉴스 하이라이트"
-url = "http://m.cine21.com/news/issue"
-entrySelector = "div.topnews"
-titleSelector = "div.topnews_tit span"
-linkSelector = "a"
-contentSelector = "div.topnews_tit"
-imageSelector = "a img"
-waitForSelector = "div.topnews"
-onFail = "stale"
-
-[news_dailynews]
-title = "씨네21 모바일 ─ 데일리뉴스"
-url = "http://m.cine21.com/news/issue"
-entrySelector = "ul.lst_card li"
-titleSelector = "div.tit p"
-linkSelector = "a"
-contentSelector = "div.tit"
-imageSelector = "div.thub img"
-waitForSelector = "ul.lst_card li"
-onFail = "stale"
