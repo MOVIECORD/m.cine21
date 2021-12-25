@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 02:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 03:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -618,6 +618,14 @@
             <pubDate>Sat, 25 Dec 2021 02:38:46 GMT</pubDate>
             <content:encoded><![CDATA[<p>거리로 나선 영화인 “영화산업 붕괴 직전"</p>]]></content:encoded>
             <enclosure url="http://image.cine21.com/resize/cine21/issue/1994053909_UaCND5mh_229b10ad83799d2ce88a590b759a1054cb50b1de[W578-].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[<고요의 바다>부터 <돈 룩 업>까지 금주의 넷플릭스 신작 (씨네21 모바일 ─ 데일리뉴스 하이라이트)]]></title>
+            <link>http://m.cine21.com/news/issue/view/?mag_id=1634</link>
+            <guid>http://m.cine21.com/news/issue/view/?mag_id=1634</guid>
+            <pubDate>Sat, 25 Dec 2021 02:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>&lt;고요의 바다&gt;부터 &lt;돈 룩 업&gt;까지 금주의 넷플릭스 신작</span>]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/issue/990848990_5qb1Lv8H_04a19a3dec8bbf576d8943f6a1a9b1e40ce78c3f[W578-].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
