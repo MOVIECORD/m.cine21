@@ -127,3 +127,13 @@ linkSelector = "div.thub img"
 contentSelector = "div.cover_num"
 imageSelector = "div.thub img"
 waitUntil = "networkidle"
+
+[m_cine21_photo_person]
+title = "씨네21 모바일 ─ 사진 ─ 인물"
+url = "http://m.cine21.com/photo/person"
+entrySelector = "ul.lst_card li"
+titleSelector = "div.name"
+linkSelector = "a"
+contentSelector = "div.role"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
