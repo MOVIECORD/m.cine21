@@ -4,7 +4,7 @@
         <title>씨네21 모바일 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 09:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 13:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 25 Dec 2021 02:28:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/JZurA/btroM8HhKaO/AGKOaipnbJiCP29D2Ggf5K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구치 가문 청부살해 실화 다룬 '하우스 오브 구찌' 출연진 기자회견: 구치가의 사랑과 죽음]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99365</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99365</guid>
+            <pubDate>Tue, 28 Dec 2021 13:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/s5g93/btroVqPNMAa/4akqqxE29abfkKn5ckiWX0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화산업의 생존권을 보장하라]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 25 Dec 2021 02:28:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/RU2fq/btrn6GMqu0Q/GqFHhqUiRDHZGrGZnBHWx1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹메이커> 설경구‧이선균‧김성오‧전배수‧서은수, <씨네21> 송년호 표지 장식]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99308</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99308</guid>
-            <pubDate>Sat, 25 Dec 2021 02:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/XA0uJ/btrn20qtxAH/4AI7GZJonJeIfkKS8eWajk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
