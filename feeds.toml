@@ -1,10 +1,9 @@
-[news]
-title = "씨네21 모바일 ─ 뉴스"
-url = "http://m.cine21.com/news/lists/?s=0"
-entrySelector = "ul.lst_top2 li"
+[contents]
+title = "씨네21 모바일"
+url = "http://m.cine21.com/news/contents/"
+entrySelector = "li.nml"
 titleSelector = "div.tit"
 linkSelector = "a"
 contentSelector = "div.category"
 imageSelector = "div.thub img"
-waitForSelector = "ul.lst_top2 li"
-onFail = "stale"
+waitUntil = "networkidle"
