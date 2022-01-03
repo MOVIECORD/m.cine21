@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 01:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] 제42회 런던영화비평가협회상 후보 발표… '파워 오브 도그' '로스트 도터' 등 여성감독 작품 강세]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99405</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99405</guid>
+            <pubDate>Mon, 03 Jan 2022 05:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/1exy4/btrpHFcDdY9/xtQi1hRfPZ6HyMcuke7Ptk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘웨스트 사이드 스토리’ 스티븐 스필버그 감독 X ‘영웅’ 윤제균 감독 대담]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99399</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 29 Dec 2021 02:44:28 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/qL8Fk/btrn6jjEJ8r/mpFi4tGK2SGcWilH0Wjx71/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모던코리아: 짐승' 로테르담국제영화제 초청]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99314</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99314</guid>
-            <pubDate>Fri, 31 Dec 2021 13:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/3Mdtv/btroaMZeuCd/xqr9pvGqkYLXxvUh1QjYhk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
