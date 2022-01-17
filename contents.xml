@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 자국 영화 선호하던 경향에서 벗어나... '스파이더맨: 노 웨이 홈' 흥행 고공 행진]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99481</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99481</guid>
+            <pubDate>Mon, 17 Jan 2022 05:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dV546a/btrq0w6tK1u/FjrKLHzYZp6qwfEA5St6J1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] 돼지와 나를 찾는, 포틀랜드로의 여정 '피그']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99479</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jan 2022 05:10:28 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/1exy4/btrpHFcDdY9/xtQi1hRfPZ6HyMcuke7Ptk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘웨스트 사이드 스토리’ 스티븐 스필버그 감독 X ‘영웅’ 윤제균 감독 대담]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99399</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99399</guid>
-            <pubDate>Fri, 31 Dec 2021 05:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/b2nkdg/btrpcNcPX3F/tpqm2uL20vf25WG2SbzGnk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
