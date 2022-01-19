@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 09:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 13:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강동한 넷플릭스 한국 콘텐츠 총괄 VP, “TV와 영화업계 크로스오버 더욱 확장될 것”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99522</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99522</guid>
+            <pubDate>Wed, 19 Jan 2022 13:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b2Wxm4/btrq6KSVzxm/qzrVTOGZyoFlgxbpgTyamk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시리즈 ‘소년심판’, 영화 ’정이’ '서울대작전’ 등 넷플릭스 올해 신작 25편 공개]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99521</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99521</guid>
+            <pubDate>Wed, 19 Jan 2022 13:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bNDv5z/btrrazCSKBR/dATHpbhbWN60S6FGXxE8Nk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 자국 영화 선호하던 경향에서 벗어나... '스파이더맨: 노 웨이 홈' 흥행 고공 행진]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99481</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 07 Jan 2022 09:09:52 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/enKAOl/btrpW8m1jaA/bF8JauoLZwCwXoBJTKJWz1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화체육관광부, 영화진흥위원회 신임 위원 임명]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99422</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99422</guid>
-            <pubDate>Fri, 07 Jan 2022 09:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/q9BwQ/btrp0lTSrrc/5BMRoykxH5J8Gf7irxQIBk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] 제42회 런던영화비평가협회상 후보 발표… '파워 오브 도그' '로스트 도터' 등 여성감독 작품 강세]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99405</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99405</guid>
-            <pubDate>Mon, 03 Jan 2022 05:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/1exy4/btrpHFcDdY9/xtQi1hRfPZ6HyMcuke7Ptk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
