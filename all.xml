@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 13:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 01:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한달에 한편] 1월의 영화, 유솔 작가가 작업한 '봄날은 간다' 포스터 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99535</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99535</guid>
+            <pubDate>Sat, 22 Jan 2022 01:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[한달에 한편]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cZ33li/btrrozbem7a/ep2gIj8M0px1tUdKunVgYK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] 소년과 성인 어디쯤에 놓인 10대의 사랑 '리코리쉬 피자' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99531</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dUJCEi/btrqGfllJT6/ZBZv8XvH8NOrzxMqfQYMB1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영엽 ‘씨네21’ 새 대표이사 선임 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99472</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99472</guid>
-            <pubDate>Thu, 13 Jan 2022 13:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ncdzy/btrqCbCw32m/KQo1YDh7FJAuOKmEJ7NjDK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
