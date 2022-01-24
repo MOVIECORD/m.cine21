@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 22 Jan 2022 01:47:13 GMT</pubDate>
             <content:encoded><![CDATA[한달에 한편]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cZ33li/btrrozbem7a/ep2gIj8M0px1tUdKunVgYK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베이징] 90년대생 여성 신인감독이 그린 중년의 사랑 이야기 '애정신화' 조용한 흥행]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99534</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99534</guid>
+            <pubDate>Mon, 24 Jan 2022 09:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/C9aOs/btrrDwkbFSN/WKPcfKQVQfVeSMC8GyWkRk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming Soon] 소년과 성인 어디쯤에 놓인 10대의 사랑 '리코리쉬 피자']]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/zyZVZ/btrqMkrEzFx/cUswJ2svVRV5qKqwThLia1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 오영수, 골든글로브 남우조연상 수상]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99475</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99475</guid>
-            <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dUJCEi/btrqGfllJT6/ZBZv8XvH8NOrzxMqfQYMB1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
