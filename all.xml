@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming Soon] 어른들을 위한 잔혹 동화 '나이트메어 앨리' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99578</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99578</guid>
+            <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/8SAPp/btrsrUsvR0H/acNvQYPfsaN5MF38EkjPZ0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 CEO 테드 서랜도스, '오징어 게임' 시즌2 제작 공식 인정 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99575</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99575</guid>
+            <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/p8hTW/btrsnJ5LrrY/72lFE58rmsKV2L2x9l3Rhk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국상영관협회, 정부에 한국영화 개봉 지원책 마련 촉구 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99574</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99574</guid>
+            <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/0XkaO/btrsqBNanUK/pWIF9cDGdzDAZNsWv7U4L0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['같은 속옷을 입는 두 여자' '비밀의 언덕' 베를린국제영화제 초청 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99573</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99573</guid>
+            <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bVpPNK/btrsxID0COa/PhFCb1YSXTmfGeKdJO9CbK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 후보, 문화예술 분야 6대 공약 발표 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99572</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99572</guid>
+            <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bYcBza/btrskEKtCt5/dgrls5b6Cnk6SLJwzRRNYk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한달에 한편] 1월의 영화, 유솔 작가가 작업한 '봄날은 간다' 포스터 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99535</link>
@@ -86,46 +126,6 @@
             <pubDate>Wed, 19 Jan 2022 13:12:55 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bNDv5z/btrrazCSKBR/dATHpbhbWN60S6FGXxE8Nk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 자국 영화 선호하던 경향에서 벗어나... '스파이더맨: 노 웨이 홈' 흥행 고공 행진 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99481</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99481</guid>
-            <pubDate>Mon, 17 Jan 2022 05:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dV546a/btrq0w6tK1u/FjrKLHzYZp6qwfEA5St6J1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] 돼지와 나를 찾는, 포틀랜드로의 여정 '피그' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99479</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99479</guid>
-            <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/kZZhd/btrqHcV6WgQ/yJK764qpgCsDwgQUX8QANK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마지막 영화관' 피터 보그다노비치 감독 1월6일 별세 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99478</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99478</guid>
-            <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bkn6e4/btrqHTWaDS3/rK4RBYv9yJGrfNagLm9D70/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 시드니 포이티어 향년 94살로 별세 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99477</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99477</guid>
-            <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dx19T9/btrqLYbkdNb/VGrst0LXwam0j6v4qVxQcK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화진흥위원회 신임 위원장에 박기용 감독 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99476</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99476</guid>
-            <pubDate>Fri, 14 Jan 2022 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/zyZVZ/btrqMkrEzFx/cUswJ2svVRV5qKqwThLia1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
