@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로마] 다미아노, 파비오 딘노첸초 쌍둥이 형제 감독의 세 번째 영화 '아메리카 라티나']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99581</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99581</guid>
+            <pubDate>Mon, 07 Feb 2022 09:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/clMrcD/btrsIaATtUL/k1EPB7D3akaJPBF15F2BVk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] 어른들을 위한 잔혹 동화 '나이트메어 앨리']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99578</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 19 Jan 2022 13:12:55 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/b2Wxm4/btrq6KSVzxm/qzrVTOGZyoFlgxbpgTyamk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시리즈 ‘소년심판’, 영화 ’정이’ '서울대작전’ 등 넷플릭스 올해 신작 25편 공개]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99521</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99521</guid>
-            <pubDate>Wed, 19 Jan 2022 13:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bNDv5z/btrrazCSKBR/dATHpbhbWN60S6FGXxE8Nk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
