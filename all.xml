@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 09:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브, 오리지널 콘텐츠 30여편 공개 예정… 티빙, 바이아컴CBS 투자 받아 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99652</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99652</guid>
+            <pubDate>Fri, 18 Feb 2022 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/wSJ4E/btrtyt2cVwa/QkTrqd4LVKw96sbOJEQ8uK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[씨네21 트위터 스페이스, '킹메이커' 변성현 감독과의 대화 진행 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99646</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bYcBza/btrskEKtCt5/dgrls5b6Cnk6SLJwzRRNYk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한달에 한편] 1월의 영화, 유솔 작가가 작업한 '봄날은 간다' 포스터 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99535</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99535</guid>
-            <pubDate>Sat, 22 Jan 2022 01:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[한달에 한편]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cZ33li/btrrozbem7a/ep2gIj8M0px1tUdKunVgYK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
