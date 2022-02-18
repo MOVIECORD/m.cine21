@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 01:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨네21 트위터 스페이스, '킹메이커' 변성현 감독과의 대화 진행 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99646</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99646</guid>
+            <pubDate>Fri, 18 Feb 2022 05:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/qF8XH/btrtyt8k33X/MHtXwF9u2W7EQIUuNSQ0B1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍상수 감독 <소설가의 영화>로 베를린 은곰상 수상 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99645</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 22 Jan 2022 01:47:13 GMT</pubDate>
             <content:encoded><![CDATA[한달에 한편]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cZ33li/btrrozbem7a/ep2gIj8M0px1tUdKunVgYK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] 90년대생 여성 신인감독이 그린 중년의 사랑 이야기 '애정신화' 조용한 흥행 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99534</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99534</guid>
-            <pubDate>Mon, 24 Jan 2022 09:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/C9aOs/btrrDwkbFSN/WKPcfKQVQfVeSMC8GyWkRk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
