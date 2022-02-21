@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] 개막작 프랑수아 오종의 '페터 폰 칸트'로 문 연 제71회 베를린국제영화제]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99654</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99654</guid>
+            <pubDate>Mon, 21 Feb 2022 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/d5nAvG/btrtXZYDMu4/esAoh8HNE9M7yX4R4gq1o0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브, 오리지널 콘텐츠 30여편 공개 예정… 티빙, 바이아컴CBS 투자 받아]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99652</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bVpPNK/btrsxID0COa/PhFCb1YSXTmfGeKdJO9CbK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 후보, 문화예술 분야 6대 공약 발표]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99572</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99572</guid>
-            <pubDate>Fri, 04 Feb 2022 09:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bYcBza/btrskEKtCt5/dgrls5b6Cnk6SLJwzRRNYk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
