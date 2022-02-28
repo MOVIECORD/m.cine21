@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 05:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오징어 게임' 이정재, 정호연 ‘SAG’ 드라마 배우상 휩쓸었다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99720</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99720</guid>
+            <pubDate>Mon, 28 Feb 2022 05:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bCaUY1/btruoMlRKIl/V3yiHOuPeirrawTgEytRc1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] 원치 않는 임신을 한 어린 학생이 어떤 선택을 할 수 있을까 '레벤느망' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99702</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Feb 2022 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cbAkSN/btrs4M71LkF/3YpLiE6X0OdKhKp0FC1QVk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정지영, 이창동, 문성근, 이준동… 영화인 253명, 이재명 더불어민주당 대선 후보 지지 선언 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99614</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99614</guid>
-            <pubDate>Fri, 11 Feb 2022 09:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/zmsiz/btrs2ejS6kJ/72a9mjXmCPkJuiFlTadf6k/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
