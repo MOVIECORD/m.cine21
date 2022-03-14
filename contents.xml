@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 평론가들이 꼽은 올해의 영화는 '파워 오브 도그' 시리즈는 '석세션'...'오징어 게임' 2관왕]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99801</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99801</guid>
+            <pubDate>Mon, 14 Mar 2022 05:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/wjVbp/btrvMeuaaXj/zItYzVHdxc8z3RFB4vuV4K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파리] 새로운 미디어 크로놀로지 법안 합의에 엇갈리는 외국계 스트리밍 기업]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99777</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99777</guid>
+            <pubDate>Mon, 14 Mar 2022 05:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b7TRp9/btrvMeVo0H9/5kX6636Sl2bwukTa2v1Urk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨네21 트위터 스페이스] 산문집 '호호호' 출간한 윤가은 감독]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99775</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 05:09:40 GMT</pubDate>
             <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/2VuRs/btru3MqPQFJ/tg9ckpYeRF5Ovqa4VPsaiK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 이정재, 정호연 ‘SAG’ 드라마 배우상 휩쓸었다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99720</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99720</guid>
-            <pubDate>Mon, 28 Feb 2022 05:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bCaUY1/btruoMlRKIl/V3yiHOuPeirrawTgEytRc1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 스티븐 소더버그 감독의 신작 '키미', 스릴러의 재미 끌어올린 수작]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99705</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99705</guid>
-            <pubDate>Mon, 28 Feb 2022 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/djPvVJ/btruAjQgYH7/rdaDa37CUYu9dpIhEjwXh0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
