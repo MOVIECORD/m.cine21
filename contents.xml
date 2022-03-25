@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 09:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영진위 2월 한국 영화산업 결산 발표… 1월 대비 매출 44.4%, 관객수 42.9% 감소]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99846</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99846</guid>
+            <pubDate>Fri, 25 Mar 2022 09:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/X82ji/btrxgwfsbNj/7yRBY1CdQ6E3pKCD7Hxj51/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 발리우드 화제작 3편을 통해 보는 인도영화계 뉴스]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99815</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 23 Mar 2022 02:25:36 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ccAaP3/btru0vXV0Cd/KMh4qFWAPpGubqaqt97sG0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 아이디, 플루토TV와 파트너십 맺고 콘텐츠 플랫폼 확대]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99735</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99735</guid>
-            <pubDate>Wed, 23 Mar 2022 02:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/eBfSMn/btru5cQOg9p/soVM0AKGVqkzPjBbtovoNk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
