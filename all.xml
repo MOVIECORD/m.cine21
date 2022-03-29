@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['문나이트' 모하메드 디아브 감독 인터뷰 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99854</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99854</guid>
+            <pubDate>Tue, 29 Mar 2022 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/c7sLfG/btrxVEJT4xN/OVnN9kciWKY5VJJxgkskUK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['문나이트' 배우 오스카 아이작 인터뷰 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99853</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99853</guid>
+            <pubDate>Tue, 29 Mar 2022 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/SVajY/btrxO8E2BGA/DpQ2KzV6xYGLDKK11xOlK1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니+가 선보이는 마블 오리지널 시리즈 '문나이트' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99852</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99852</guid>
+            <pubDate>Tue, 29 Mar 2022 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bO1Qq4/btrxJrSIsrX/TxGYrps5WK4XXgsRsId5t1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 20여년 만에 재회한 유덕화와 양조위의 '골드핑거' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99850</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 11 Mar 2022 09:10:16 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/yaDE5/btrvAVoLg83/iFK7NdYPNAWo5Bb9LdlL41/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령 당선인의 문화예술 정책은? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99770</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99770</guid>
-            <pubDate>Fri, 11 Mar 2022 09:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/r93ke/btrvJyesdAv/Ou9VXuzcqaKnfbFIDbD3g1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] 넷플릭스, 영국에서 상업영화 창작자 지원하는 ‘브레이크아웃’ 프로젝트 시작 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99741</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99741</guid>
-            <pubDate>Mon, 07 Mar 2022 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/eciplY/btru9pXO4dK/niSH3rTbarGrSK7DrY1iy1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] 다이애나 왕세자비가 아닌 다이애나 스펜서에 관한 이야기 '스펜서' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99738</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99738</guid>
-            <pubDate>Wed, 23 Mar 2022 02:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bIlfBE/btru9polAqS/V28AJkZyA4rQyMzP4Klkmk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
