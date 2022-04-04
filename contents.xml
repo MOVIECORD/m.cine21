@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로마] 관객들 사이에 호평받는 키아라 벨로시 감독의 '칼친쿨로']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=99894</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=99894</guid>
+            <pubDate>Mon, 04 Apr 2022 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cibb2o/btryfjmSDvf/8vIxNvpkrzLK7tX7lg3081/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원승환 인디스페이스 관장 인터뷰 “취향을 발견하는 공간이 되길”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99892</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Mar 2022 09:10:17 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/lZS7J/btrwJDelBVa/8aPGUnn1kQVo6RZNN54VS0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘시네마테크KOFA가 주목한 2021년 한국영화’ 기획전]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99810</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99810</guid>
-            <pubDate>Fri, 18 Mar 2022 09:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bRHk3v/btrwivu9Q7V/FTFSlOcGV7xAwa8S92jurK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
