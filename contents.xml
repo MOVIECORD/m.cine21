@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 02:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산국제단편영화제, 미투 가해자로 지목된 감독 심사위원으로 위촉]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100048</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100048</guid>
+            <pubDate>Tue, 26 Apr 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/8Ef0u/btrAxlODeYE/UCYpkMIYjkEZNkJifoKu5K/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 알렉산드로 도브젠코 국립센터, 국제사회에 지지와 도움 호소]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=99995</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 09:10:36 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cqEbWf/btry6wdi0NP/t2aOVmH0UWk4HkfKXYoq81/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] 자크 오디아르 감독이 돌아왔다 '파리, 13구']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99931</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99931</guid>
-            <pubDate>Fri, 08 Apr 2022 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bECXOd/btryLHgcnzZ/5gRl30fsD9af5QV5ZBKTo1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
