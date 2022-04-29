@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 02:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 공포 옴니버스 영화 '서울괴담' 트위터 블루룸 라이브 Q&A]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100066</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100066</guid>
+            <pubDate>Fri, 29 Apr 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/ceRMT5/btrAL56IRQD/l3hc8tcMw6wgjNK7zX2fCk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 산문집 '오늘도 자람' 출간한 소리꾼 이자람]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100065</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100065</guid>
+            <pubDate>Fri, 29 Apr 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bibNJ7/btrAKUdymot/1SbkMC9vtEal4kOHiMLRF0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산국제단편영화제, 미투 가해자로 지목된 감독 심사위원으로 위촉]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100048</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Apr 2022 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/c5miLk/btrzvdqwa0g/t1WMk08G7IEFNpaQwGCtrK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실 '세이렌: 악당과 계약 가족이 되었다' 설이수 작가와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99954</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99954</guid>
-            <pubDate>Thu, 21 Apr 2022 02:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/lA5qs/btrzuX18LuG/4GdOqJhIOp6NCOWkYdJWN1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LA] 아카데미 시상식에서 크리스 록에 대한 폭행으로 이슈된 윌 스미스]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99934</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99934</guid>
-            <pubDate>Mon, 11 Apr 2022 09:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cqEbWf/btry6wdi0NP/t2aOVmH0UWk4HkfKXYoq81/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
