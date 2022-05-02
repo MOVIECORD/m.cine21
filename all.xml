@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 03:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴욕] 다큐멘터리 <토니 호크: 언틸 더 휠스 폴 오프>가 담아낸 스케이트보드계의 전설 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100074</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100074</guid>
+            <pubDate>Mon, 02 May 2022 05:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/yS8VG/btrARFgYUIY/Kc4xBCuvXFjFFKOhRKtKu1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산국제단편영화제, 국제경쟁 심사위원으로 미투 논란 있었던 사루나스 바르타스 감독 선임 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100070</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Apr 2022 05:11:23 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/wF1Uh/btrzJ32uvCC/2KN54jgDxWBVPA7k1jTyA0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] 닥터 스트레인지 월드에 새로운 무드 '닥터 스트레인지: 대혼돈의 멀티버스' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99960</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99960</guid>
-            <pubDate>Fri, 15 Apr 2022 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/7gUD4/btrzvAlGAA4/sAR0zrWLSlYL1jg9HomAjK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
