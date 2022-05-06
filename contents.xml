@@ -4,16 +4,32 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 09:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 미디어 플랫폼에 진심이 아니라고?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100115</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100115</guid>
+            <pubDate>Fri, 06 May 2022 09:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cbqKrx/btrBmPW2Wal/4NUbphrZmsTRp7ig8m9lqK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장가, 드디어 부활하나]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100114</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100114</guid>
+            <pubDate>Fri, 06 May 2022 09:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/o1762/btrBqB4gOiD/SZLjC6DW0nr4tNyYAZkgqk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: Apple TV+ 시리즈 '파친코']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100113</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100113</guid>
             <pubDate>Fri, 06 May 2022 05:10:56 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0506/11_26_36__6274875cacca7[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cqcy9G/btrBpoxxZSU/WzxpXOWm7aV4dQ4dHX7jW0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: '빵 좋아하는 악당들의 행성' '고래 233마리' 곽재식 작가와의 대화]]></title>
@@ -21,7 +37,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=100112</guid>
             <pubDate>Fri, 06 May 2022 05:10:56 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/article/2022/0506/11_14_50__6274849aa8b71[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/zSd9c/btrBjXAV8py/qDiVO3tsXrUKOUCsJKtvk1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴욕] 다큐멘터리 <토니 호크: 언틸 더 휠스 폴 오프>가 담아낸 스케이트보드계의 전설]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 09:11:10 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bxuFME/btrAbjDT0dp/1L0m05VbsDVpiL99tsJYbk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1분기 매출액 전년 대비 52% 증가… “한국영화 기획단계부터 멈춤” 우려]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99992</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99992</guid>
-            <pubDate>Fri, 22 Apr 2022 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bY6gQm/btrAbaUywe2/PRAJY0iXwb49WLrxAcXxEk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: 요나스 포헤르 라스무센 감독의 '나의 집은 어디인가']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99991</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99991</guid>
-            <pubDate>Fri, 22 Apr 2022 05:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/PCfPL/btrz60MtfrF/hFqFoCZMv4jtHKhL75YOZ1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
