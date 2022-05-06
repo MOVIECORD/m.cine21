@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 02:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: Apple TV+ 시리즈 '파친코']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100113</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100113</guid>
+            <pubDate>Fri, 06 May 2022 05:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0506/11_26_36__6274875cacca7[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: '빵 좋아하는 악당들의 행성' '고래 233마리' 곽재식 작가와의 대화]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100112</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100112</guid>
+            <pubDate>Fri, 06 May 2022 05:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/article/2022/0506/11_14_50__6274849aa8b71[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] 다큐멘터리 <토니 호크: 언틸 더 휠스 폴 오프>가 담아낸 스케이트보드계의 전설]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100074</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 05:30:51 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/PCfPL/btrz60MtfrF/hFqFoCZMv4jtHKhL75YOZ1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: '유부녀 킬러' YOON, 검둥 작가와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99990</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99990</guid>
-            <pubDate>Fri, 22 Apr 2022 05:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/uMMP0/btrAajRE1u9/YNmuIbRpWCcttOnE4wEoLK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베를린] 80살 맞은 독일의 페미니스트 1세대 감독 마르가레테 폰 트로타 감독]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99962</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99962</guid>
-            <pubDate>Mon, 18 Apr 2022 05:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/wF1Uh/btrzJ32uvCC/2KN54jgDxWBVPA7k1jTyA0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
