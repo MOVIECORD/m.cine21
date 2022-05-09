@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 02:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] '탑건: 매버릭' 72번째 '로열 필름 퍼포먼스' 작품으로 선정 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100116</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100116</guid>
+            <pubDate>Mon, 09 May 2022 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/QYW1m/btrBFXMJ8zI/Ba94PqTnQxLLKpKvAs0kek/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 미디어 플랫폼에 진심이 아니라고? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100115</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 09:11:10 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bo7aO0/btrz6CSjgPe/TjSQGH94faawxyiFRXYGo1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심' '브로커' 등 한국영화 4편 칸국제영화제 초청 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=99993</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=99993</guid>
-            <pubDate>Fri, 22 Apr 2022 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bxuFME/btrAbjDT0dp/1L0m05VbsDVpiL99tsJYbk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
