@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 06:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 07:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,30 @@
             <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ciSHBw/btrCHNi4ses/37kkNOCutOWGfoBacfKKS1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오비완 케노비' 데버라 차우 감독, "서부극과 사무라이 영화들에서 영감을 받았다" (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100198</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100198</guid>
+            <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cXQTlY/btrCYjhSqhC/PsSbjSljw8QPHQ3oSfqvj1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오비완 케노비' 출연한 배우 이완 맥그리거 "스테이지크래프트 기술 덕에 몰입이 쉬워졌다" (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100197</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100197</guid>
+            <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dwhg9E/btrC0OIq9hi/KiyfkGrIWahkgFMSyhCPiK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니+ 리미티드 시리즈 '오비완 케노비' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100196</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100196</guid>
+            <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/JsCId/btrC2De6KlE/KCxZwoBrrX7JTi7pOF9jrK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming soon] 어떤 부녀의 드라마 '카시오페아' (씨네21 모바일)]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/H90Oy/btrB4cQqx3q/ycBOE8hKnVJNWIgt4TugC0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] '탑건: 매버릭' 72번째 '로열 필름 퍼포먼스' 작품으로 선정 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100116</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100116</guid>
-            <pubDate>Mon, 09 May 2022 05:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/QYW1m/btrBFXMJ8zI/Ba94PqTnQxLLKpKvAs0kek/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 미디어 플랫폼에 진심이 아니라고? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100115</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100115</guid>
-            <pubDate>Fri, 06 May 2022 09:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cbqKrx/btrBmPW2Wal/4NUbphrZmsTRp7ig8m9lqK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장가, 드디어 부활하나 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100114</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100114</guid>
-            <pubDate>Fri, 06 May 2022 09:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/o1762/btrBqB4gOiD/SZLjC6DW0nr4tNyYAZkgqk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
