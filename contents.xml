@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니톡] 김희선이 말하는 ‘내일’의 위로]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100231</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100231</guid>
+            <pubDate>Thu, 26 May 2022 05:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/JRN4t/btrC9Kez1vN/DknxSD8KTS4KMm4ySs63U0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안나라수마나라, 몰아볼까?] 살짝 ‘유치’해도(×) 위로받기 원하면(○)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100230</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100230</guid>
+            <pubDate>Thu, 26 May 2022 05:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b5ggLF/btrDcEdNUl9/dNPw8sBRKpcfdFKipuiaTk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: SBS 드라마 '어게인 마이 라이프' 원작 웹소설을 쓴 이해날 작가와의 대화]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100229</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/pb3BU/btrB0PbcOZ2/gFSNfZbk011mHIF2MgwKy0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] 가스파 노에의 첫 전체관람가 작품 '소용돌이']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100150</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100150</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ceN2lo/btrB6KnqQVV/CUstrlWm4JT9kJTaMnqNKK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무주산골영화제,서울국제환경영화제, 제천국제음악영화제 등 여름 영화 축제 잇따라 개막]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100149</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100149</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bBmRUa/btrB49sgsUk/2k8MEC0lIkKg6FahZtdZV0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
