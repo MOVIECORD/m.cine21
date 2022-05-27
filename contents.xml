@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유, 강동원, 송강호의 유사가족 이야기 ‘브로커’…칸 “따뜻” vs “얄팍”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100242</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100242</guid>
+            <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/OQsGg/btrDexGdaSE/MuLrG2rN7hgXcuLwfLxxu0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이얼, ‘식도암 투병’ 끝 별세…동료·팬 추모 물결]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100241</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100241</guid>
+            <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/CD6rG/btrDfXEqTw8/fuHqdz9OrbRLvY9agSHsik/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸에서 잡은 ‘별의 순간’…‘혹성’의 방해에서 탈출하라]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100233</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/XVinU/btrCVO2lLwc/RKfkkxKcz05WTWXXKHhqM1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 개봉작, 사회적 거리두기 전면 해제 이후 순항 중]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100184</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100184</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/lCgxn/btrCHB9MFDw/kuX6oRWIq5Zr10hFCdaiX0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 2022 젊은작가상 대상 '초파리 돌보기' 임슬아 작가와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100183</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100183</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cgITDC/btrCDBXnPMM/rxI0m3akJcvEYIBjdvMhj1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
