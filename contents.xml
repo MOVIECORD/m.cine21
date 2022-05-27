@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 01:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸에서 잡은 ‘별의 순간’…‘혹성’의 방해에서 탈출하라]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100233</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100233</guid>
+            <pubDate>Fri, 27 May 2022 01:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/9e8WD/btrDhgRc5IL/9FA1VrysRk1ZmAAoJg0Mfk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정주리 감독 “영화 구상 때부터 배두나는 굳건한 동지”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100232</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100232</guid>
+            <pubDate>Fri, 27 May 2022 01:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/BN35y/btrDaTjCwVy/I1xEChB3bS7T0L2MKmTjl0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[미니톡] 김희선이 말하는 ‘내일’의 위로]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100231</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cgITDC/btrCDBXnPMM/rxI0m3akJcvEYIBjdvMhj1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸 공개 앞둔 이정재 감독 데뷔작 '헌트'에 대해 알려진 몇 가지 사실들]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100181</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100181</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/b0LuCu/btrCp90WI7p/HuzKEZqfxn9FUc7O5ye9T0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] '마녀'의 후속편 '마녀 Part2. The Other One']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100151</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100151</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/pb3BU/btrB0PbcOZ2/gFSNfZbk011mHIF2MgwKy0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
