@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 07:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 08:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박근혜 정부 ‘블랙리스트’ 영화사에…법원 “국가가 손해배상하라” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100257</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100257</guid>
+            <pubDate>Fri, 27 May 2022 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/baQjj0/btrDjELosV6/sHs8G6kPKzjFcyFKAA6XFk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, 강동원, 송강호의 유사가족 이야기 ‘브로커’…칸 “따뜻” vs “얄팍” (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100242</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dwhg9E/btrC0OIq9hi/KiyfkGrIWahkgFMSyhCPiK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 리미티드 시리즈 '오비완 케노비' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100196</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100196</guid>
-            <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/JsCId/btrC2De6KlE/KCxZwoBrrX7JTi7pOF9jrK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
