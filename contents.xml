@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/CD6rG/btrDfXEqTw8/fuHqdz9OrbRLvY9agSHsik/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 칸국제영화제]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100238</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100238</guid>
+            <pubDate>Fri, 27 May 2022 07:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dmghjX/btrDiiW1Dcp/6tDuEleHISLnjNALc0Xphk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칸에서 순항 중인 한국 영화들: '헤어질 결심' 192개국 선판매, '브로커' 171개국 선판매 기록]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100236</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100236</guid>
+            <pubDate>Fri, 27 May 2022 07:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bklzSx/btrDhgyaQiz/Zh98u3OKhYSCbAtP3B8muK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: 로런 해더웨이 감독의 '더 노비스']]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/JsCId/btrC2De6KlE/KCxZwoBrrX7JTi7pOF9jrK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] 어떤 부녀의 드라마 '카시오페아']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100187</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100187</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bqw8UZ/btrCGSEI8Bt/XVrJwWx3dkwdJVrL3DBkMK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 힘주기의 전략]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100186</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100186</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ctpIkH/btrCEojB695/jebEK7dYBvfTGjOnLekmK0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
