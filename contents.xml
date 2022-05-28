@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 20:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 21:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칸영화제] 고레에다 히로카즈 감독의 '브로커’ 첫 시사 첫 반응]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100262</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100262</guid>
+            <pubDate>Sat, 28 May 2022 21:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Q9dCJ/btrDkDmrKdJ/HcitEncc3DwR2f4zmE3Jq1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱 칸영화제 감독상, 송강호 남우주연상의 영예 안아]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100261</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100261</guid>
+            <pubDate>Sat, 28 May 2022 21:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/WKlLQ/btrDlGbWcrk/IzP3UjqwgpV4P9LrQpi3Ok/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박근혜 정부 ‘블랙리스트’ 영화사에…법원 “국가가 손해배상하라”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100257</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ciSHBw/btrCHNi4ses/37kkNOCutOWGfoBacfKKS1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오비완 케노비' 데버라 차우 감독, "서부극과 사무라이 영화들에서 영감을 받았다"]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100198</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100198</guid>
-            <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cXQTlY/btrCYjhSqhC/PsSbjSljw8QPHQ3oSfqvj1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오비완 케노비' 출연한 배우 이완 맥그리거 "스테이지크래프트 기술 덕에 몰입이 쉬워졌다"]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100197</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100197</guid>
-            <pubDate>Tue, 24 May 2022 07:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dwhg9E/btrC0OIq9hi/KiyfkGrIWahkgFMSyhCPiK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
