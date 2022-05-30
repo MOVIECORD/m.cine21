@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 04:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="http://k.kakaocdn.net/dn/dmghjX/btrDiiW1Dcp/6tDuEleHISLnjNALc0Xphk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[베이징] 또다시 극장 문 닫으며 기대작 줄줄이 개봉 연기 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100237</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100237</guid>
+            <pubDate>Mon, 30 May 2022 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/BB9x4/btrDxV0SgVY/RqFqemSstK5sN9MpLHktoK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[칸에서 순항 중인 한국 영화들: '헤어질 결심' 192개국 선판매, '브로커' 171개국 선판매 기록 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100236</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100236</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 26 May 2022 05:17:49 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/JRN4t/btrC9Kez1vN/DknxSD8KTS4KMm4ySs63U0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안나라수마나라, 몰아볼까?] 살짝 ‘유치’해도(×) 위로받기 원하면(○) (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100230</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100230</guid>
-            <pubDate>Thu, 26 May 2022 05:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/b5ggLF/btrDcEdNUl9/dNPw8sBRKpcfdFKipuiaTk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
