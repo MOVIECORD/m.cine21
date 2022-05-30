@@ -4,9 +4,33 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 01:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 03:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘깐느 박’찬욱 “코로나로 깨닫게 된 극장의 소중함 지켜나갈 것”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100269</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100269</guid>
+            <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/eqA6tM/btrDqdAKYrw/zI2htaSnnu2kPd5B9a2Kyk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호 “좋은 작품에 끊임없이 도전하다 수상도 하게 되는 것”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100267</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100267</guid>
+            <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Psxnd/btrDpQfwvUt/vH3Z2y5BtBr8Zg0uqqeoPK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘해방일지’ 이기우 “약하다는 느낌에서 벗어나기…해방클럽 계속된다”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100266</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100266</guid>
+            <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bjQhZq/btrDtuCbm4S/BwQaUvDc2rmKHdrasc5Nhk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칸영화제] 고레에다 히로카즈 감독의 '브로커’ 첫 시사 첫 반응]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100262</link>
@@ -102,30 +126,6 @@
             <pubDate>Thu, 26 May 2022 05:17:49 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/b5ggLF/btrDcEdNUl9/dNPw8sBRKpcfdFKipuiaTk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: SBS 드라마 '어게인 마이 라이프' 원작 웹소설을 쓴 이해날 작가와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100229</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100229</guid>
-            <pubDate>Wed, 25 May 2022 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/YrCBU/btrC471pJcQ/POomoI1qrE7ilODtA1zqx0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸 공개 앞둔 박찬욱 감독의 <헤어질 결심>에 대해 알려진 몇 가지 사실들]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100222</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100222</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/RYO7M/btrCKhrHZha/aQ8LmkhVo1MK3PsbeUz1BK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칸영화제] 이정재의 감독 데뷔작 <헌트> 첫시사 첫반응]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100206</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100206</guid>
-            <pubDate>Tue, 24 May 2022 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ciSHBw/btrCHNi4ses/37kkNOCutOWGfoBacfKKS1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
