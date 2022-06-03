@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 05:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 06:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 디즈니+에 소리 소문 없이 스며든 훌루 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100284</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100284</guid>
+            <pubDate>Fri, 03 Jun 2022 06:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bBwRrO/btrDU1znnDb/iQ9ac2RloQKkSKF6HnsMPk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칸의 화제작들, 국내 관객 찾아온다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100283</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100283</guid>
+            <pubDate>Fri, 03 Jun 2022 06:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/muyAn/btrDVjmeVsL/ugSs9r0NSKSEYxfvz8j0IK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] '카시오페아' 신연식 감독과의 대화 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100282</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/CD6rG/btrDfXEqTw8/fuHqdz9OrbRLvY9agSHsik/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 칸국제영화제 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100238</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100238</guid>
-            <pubDate>Fri, 27 May 2022 07:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dmghjX/btrDiiW1Dcp/6tDuEleHISLnjNALc0Xphk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] 또다시 극장 문 닫으며 기대작 줄줄이 개봉 연기 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100237</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100237</guid>
-            <pubDate>Mon, 30 May 2022 05:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/BB9x4/btrDxV0SgVY/RqFqemSstK5sN9MpLHktoK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
