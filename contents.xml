@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 00:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 02:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: '사이버 지옥: N번방을 무너뜨려라' 감독 및 출연자들과의 대화]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100303</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100303</guid>
+            <pubDate>Sat, 04 Jun 2022 02:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/2pEhY/btrDU1nqOVQ/gWCGvUKuFN9KaOrxoVLz00/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 디즈니+에 소리 소문 없이 스며든 훌루]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100284</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/OQsGg/btrDexGdaSE/MuLrG2rN7hgXcuLwfLxxu0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이얼, ‘식도암 투병’ 끝 별세…동료·팬 추모 물결]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100241</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100241</guid>
-            <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/CD6rG/btrDfXEqTw8/fuHqdz9OrbRLvY9agSHsik/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
