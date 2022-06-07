@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 04 Jun 2022 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/2pEhY/btrDU1nqOVQ/gWCGvUKuFN9KaOrxoVLz00/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니+ 시리즈 '미즈 마블' 배우 이만 벨라니 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100289</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100289</guid>
+            <pubDate>Tue, 07 Jun 2022 07:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cU6WiB/btrD3ySTDPR/TXev5sOeTurYQ7SGUJiCRK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 디즈니+에 소리 소문 없이 스며든 훌루 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 May 2022 08:16:31 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/baQjj0/btrDjELosV6/sHs8G6kPKzjFcyFKAA6XFk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 강동원, 송강호의 유사가족 이야기 ‘브로커’…칸 “따뜻” vs “얄팍” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100242</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100242</guid>
-            <pubDate>Fri, 27 May 2022 04:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/OQsGg/btrDexGdaSE/MuLrG2rN7hgXcuLwfLxxu0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
