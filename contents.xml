@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 04:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 05:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: 코고나다 감독의 '애프터 양']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100325</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100325</guid>
+            <pubDate>Fri, 10 Jun 2022 05:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0610/10_29_16__62a29e6c8a762[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘범죄도시 2’ 900만 돌파…팬데믹 이후 첫 ‘1000만 영화’ 눈앞]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100320</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 28 May 2022 21:11:45 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/Q9dCJ/btrDkDmrKdJ/HcitEncc3DwR2f4zmE3Jq1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 칸영화제 감독상, 송강호 남우주연상의 영예 안아]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100261</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100261</guid>
-            <pubDate>Sat, 28 May 2022 21:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/WKlLQ/btrDlGbWcrk/IzP3UjqwgpV4P9LrQpi3Ok/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
