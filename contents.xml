@@ -4,16 +4,32 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기운찬 ‘극장의 부활’, 기죽는 ‘OTT의 독주’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100340</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100340</guid>
+            <pubDate>Fri, 10 Jun 2022 06:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cCWPfi/btrEtcA8SuW/yEB0Nc2twVo6Zn2gCATP1k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시2' 천만 관객 눈앞에]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100326</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100326</guid>
+            <pubDate>Fri, 10 Jun 2022 06:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cQ1r9D/btrEtMaypQD/xUOLC17UughALgEBTo2pdk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: 코고나다 감독의 '애프터 양']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100325</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100325</guid>
             <pubDate>Fri, 10 Jun 2022 05:10:53 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0610/10_29_16__62a29e6c8a762[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/ca86hT/btrEoWFCGPN/nXlsA2kgLgIRoeUvneqHzK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘범죄도시 2’ 900만 돌파…팬데믹 이후 첫 ‘1000만 영화’ 눈앞]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/Psxnd/btrDpQfwvUt/vH3Z2y5BtBr8Zg0uqqeoPK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘해방일지’ 이기우 “약하다는 느낌에서 벗어나기…해방클럽 계속된다”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100266</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100266</guid>
-            <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bjQhZq/btrDtuCbm4S/BwQaUvDc2rmKHdrasc5Nhk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칸영화제] 고레에다 히로카즈 감독의 '브로커’ 첫 시사 첫 반응]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100262</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100262</guid>
-            <pubDate>Sat, 28 May 2022 21:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Q9dCJ/btrDkDmrKdJ/HcitEncc3DwR2f4zmE3Jq1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
