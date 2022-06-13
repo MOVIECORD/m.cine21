@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 04:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Jun 2022 06:15:07 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cCWPfi/btrEtcA8SuW/yEB0Nc2twVo6Zn2gCATP1k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로마] 알레시오 델라 발레 감독 데뷔작 '아메리칸 나이트' 화제]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100327</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100327</guid>
+            <pubDate>Mon, 13 Jun 2022 05:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cgO0ZJ/btrEzKrcUWv/azxO0I7Z5KguaW8h5aw8c1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['범죄도시2' 천만 관객 눈앞에]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/eqA6tM/btrDqdAKYrw/zI2htaSnnu2kPd5B9a2Kyk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호 “좋은 작품에 끊임없이 도전하다 수상도 하게 되는 것”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100267</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100267</guid>
-            <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Psxnd/btrDpQfwvUt/vH3Z2y5BtBr8Zg0uqqeoPK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
