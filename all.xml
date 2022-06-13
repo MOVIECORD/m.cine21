@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 ‘오징어 게임’ 시작된다…시즌2 확정, 내용은? (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100351</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100351</guid>
+            <pubDate>Mon, 13 Jun 2022 07:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Vd4vs/btrEHi8G0lG/k0hHxV4FcAix31e4jtTPYK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석의 핵주먹 일냈다…‘범죄도시2’ 1000만 관객 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100350</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100350</guid>
+            <pubDate>Mon, 13 Jun 2022 07:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dsKIHz/btrEHTgvD73/ZqRKKwz7FGmoxYN30FoHQK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기운찬 ‘극장의 부활’, 기죽는 ‘OTT의 독주’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100340</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 31 May 2022 05:19:26 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/TJtz8/btrDy1n9D0a/fISHTxOYztjNvHZvsb1ZR0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘추앙’의 힘 알려준 드라마…배우들 “추앙한다, 나의 해방일지” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100277</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100277</guid>
-            <pubDate>Tue, 31 May 2022 05:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/s24eT/btrDxWNSAhz/aWEesi3GTzusBh5FKgt5k0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘깐느 박’찬욱 “코로나로 깨닫게 된 극장의 소중함 지켜나갈 것” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100269</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100269</guid>
-            <pubDate>Mon, 30 May 2022 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/eqA6tM/btrDqdAKYrw/zI2htaSnnu2kPd5B9a2Kyk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
