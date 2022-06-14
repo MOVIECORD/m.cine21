@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 06:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“마동석이 8할, 손석구는 신의 한 수”…‘범죄도시2’ 이상용 감독 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100365</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100365</guid>
+            <pubDate>Tue, 14 Jun 2022 07:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/blvmvy/btrEHUg3uNW/NaIgQbKAURlVOdKI5cCEe1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박찬욱, 송강호 등 만난 윤석열 대통령, 영화계 지원 약속 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100352</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 02 Jun 2022 07:13:45 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/b39JMa/btrDHHvCFkY/JKIzKd3O9ZvL7sJMCgssGK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘파친코’ 코고나다의 독특한 ‘가족 SF’ …“상상력의 원천” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100279</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100279</guid>
-            <pubDate>Thu, 02 Jun 2022 07:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dKKkbH/btrDP0mQ8m5/wxksEcrRTAUjpkudhLzH2k/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
