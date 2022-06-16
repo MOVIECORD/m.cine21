@@ -4,9 +4,33 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘대면 축제’로 돌아온 부천국제판타스틱영화제 다음달 7일 개막]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100368</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100368</guid>
+            <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bkvQhy/btrEXFoUzJ9/GnwPTkKYDxiklF3WYK7fXK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“1개 구독료로 2개 보세요”…국내외 OTT 콜라보에 ‘통합설’도]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100367</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100367</guid>
+            <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dtkGtJ/btrEXWqoSZo/tGwlrGvIs1Tp3eq0iwtrtK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘빈센조’ 박재범 작가 “뻔뻔하게 정의를 구현하면 어떨까 했어요”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100366</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100366</guid>
+            <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bFa9b9/btrESX5qPFx/98JC5oTqiO70a4MI16sUfk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“마동석이 8할, 손석구는 신의 한 수”…‘범죄도시2’ 이상용 감독]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100365</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 03 Jun 2022 06:16:16 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bBwRrO/btrDU1znnDb/iQ9ac2RloQKkSKF6HnsMPk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸의 화제작들, 국내 관객 찾아온다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100283</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100283</guid>
-            <pubDate>Fri, 03 Jun 2022 06:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/muyAn/btrDVjmeVsL/ugSs9r0NSKSEYxfvz8j0IK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] '카시오페아' 신연식 감독과의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100282</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100282</guid>
-            <pubDate>Fri, 03 Jun 2022 05:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/FmV1N/btrDP0ITzxC/Ghli5tdzlMfZ4SQjbAwoUK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결말, 어땠어?] 그래서 구씨는 어디로?…날 결말에서 해방시켜줘]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100280</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100280</guid>
-            <pubDate>Thu, 02 Jun 2022 07:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/b39JMa/btrDHHvCFkY/JKIzKd3O9ZvL7sJMCgssGK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
