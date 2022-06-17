@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 04:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] <마녀 Part2. The Other One> 트위터 블루룸 라이브]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100371</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100371</guid>
+            <pubDate>Fri, 17 Jun 2022 05:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dLi4ES/btrEZ95Kyew/CnX42Ikugc3YYhkcLK0zlk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[씨네21, 카카오모빌리티와 업무 협약 체결, 카카오 택시에서 디지털 콘텐츠 선보인다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100369</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 04 Jun 2022 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/2pEhY/btrDU1nqOVQ/gWCGvUKuFN9KaOrxoVLz00/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 시리즈 '미즈 마블' 배우 이만 벨라니]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100289</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100289</guid>
-            <pubDate>Tue, 07 Jun 2022 07:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cU6WiB/btrD3ySTDPR/TXev5sOeTurYQ7SGUJiCRK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
