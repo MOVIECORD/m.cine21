@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="http://k.kakaocdn.net/dn/blvmvy/btrEHUg3uNW/NaIgQbKAURlVOdKI5cCEe1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경희사이버대학교 문화창조대학원 문화예술경영전공 강윤주 교수, 소셜드라마클럽 희말라야로 희곡 읽기 대중화에 나서]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100354</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100354</guid>
+            <pubDate>Mon, 20 Jun 2022 03:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/I3JhL/btrE5frib3E/UeB4KjR1OmUWqVm8CcoCPK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박찬욱, 송강호 등 만난 윤석열 대통령, 영화계 지원 약속]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100352</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100352</guid>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 10 Jun 2022 06:15:07 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cCWPfi/btrEtcA8SuW/yEB0Nc2twVo6Zn2gCATP1k/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로마] 알레시오 델라 발레 감독 데뷔작 '아메리칸 나이트' 화제]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100327</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100327</guid>
-            <pubDate>Mon, 13 Jun 2022 05:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cgO0ZJ/btrEzKrcUWv/azxO0I7Z5KguaW8h5aw8c1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
