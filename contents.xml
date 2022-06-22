@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 01:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 03:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 크루즈 “중년들, ‘탑건2’ 보며 울어도 된다”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100414</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100414</guid>
+            <pubDate>Wed, 22 Jun 2022 03:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/qJrGJ/btrFpGgBL2N/M0eWdxrkyuTn89j1Eypyw0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“전국~ 노래자랑” 송해, 스크린으로 다시 만난다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100404</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 20 Jun 2022 03:12:23 GMT</pubDate>
             <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/I3JhL/btrE5frib3E/UeB4KjR1OmUWqVm8CcoCPK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱, 송강호 등 만난 윤석열 대통령, 영화계 지원 약속]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100352</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100352</guid>
-            <pubDate>Tue, 14 Jun 2022 03:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bO7bb3/btrEJvAfvId/w5WDvUwVWP2u542MZdWKA0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
