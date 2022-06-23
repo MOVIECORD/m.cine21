@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 00:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하회탈 쓴 인질강도단…한국판 ‘종이의 집’, 제2의 ‘오겜’ 될까 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100416</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100416</guid>
+            <pubDate>Thu, 23 Jun 2022 03:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/u0hZ0/btrFufYmA4D/ymYvluvOFLo60QwzbWmCz1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화로 잇는 평창올림픽 평화정신…평창국제평화영화제 23일 개막 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100415</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100415</guid>
+            <pubDate>Thu, 23 Jun 2022 03:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/nJr8p/btrFuwS323P/tYK6obobss7LklzJTk3nzK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톰 크루즈 “중년들, ‘탑건2’ 보며 울어도 된다” (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100414</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bFa9b9/btrESX5qPFx/98JC5oTqiO70a4MI16sUfk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“마동석이 8할, 손석구는 신의 한 수”…‘범죄도시2’ 이상용 감독 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100365</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100365</guid>
-            <pubDate>Tue, 14 Jun 2022 07:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/blvmvy/btrEHUg3uNW/NaIgQbKAURlVOdKI5cCEe1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경희사이버대학교 문화창조대학원 문화예술경영전공 강윤주 교수, 소셜드라마클럽 희말라야로 희곡 읽기 대중화에 나서 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100354</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100354</guid>
-            <pubDate>Mon, 20 Jun 2022 03:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/I3JhL/btrE5frib3E/UeB4KjR1OmUWqVm8CcoCPK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
