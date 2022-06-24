@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 01:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오수재, 어땠어?] ‘왜 서현진인가’ 보여주긴 하는데…연애는 좀 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100420</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100420</guid>
+            <pubDate>Fri, 24 Jun 2022 03:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/beAH3H/btrFACk5C7H/M3iNzBeFkaWghJvOkcABK0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최동훈의 상상은 현실이 된다…고려시대 배경 SF ‘외계+인’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100419</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100419</guid>
+            <pubDate>Fri, 24 Jun 2022 03:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cUbi7T/btrFBKpn19n/Suj8k27rICw7GXLaF9NDOk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하회탈 쓴 인질강도단…한국판 ‘종이의 집’, 제2의 ‘오겜’ 될까 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100416</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bkvQhy/btrEXFoUzJ9/GnwPTkKYDxiklF3WYK7fXK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“1개 구독료로 2개 보세요”…국내외 OTT 콜라보에 ‘통합설’도 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100367</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100367</guid>
-            <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dtkGtJ/btrEXWqoSZo/tGwlrGvIs1Tp3eq0iwtrtK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘빈센조’ 박재범 작가 “뻔뻔하게 정의를 구현하면 어떨까 했어요” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100366</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100366</guid>
-            <pubDate>Thu, 16 Jun 2022 06:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bFa9b9/btrESX5qPFx/98JC5oTqiO70a4MI16sUfk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
