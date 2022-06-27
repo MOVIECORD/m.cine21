@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="http://k.kakaocdn.net/dn/qJrGJ/btrFpGgBL2N/M0eWdxrkyuTn89j1Eypyw0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경희사이버대학교 실용음악학과, 디지털 음원 ‘Wake Up’ 발매]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100413</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100413</guid>
+            <pubDate>Mon, 27 Jun 2022 03:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/wQjwM/btrFHFCrGxk/pAJckInPx2oh5LhkrjQRPK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“전국~ 노래자랑” 송해, 스크린으로 다시 만난다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100404</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100404</guid>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 17 Jun 2022 06:15:39 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/N5m3L/btrE3UsfTZB/fNovcnsVqv1o96KM1dl6zK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령, 영화인 만찬 행사서 영화발전기금 국고 지원 등 논의]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100372</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100372</guid>
-            <pubDate>Fri, 17 Jun 2022 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/y71cy/btrE21FVrl8/hWJkwlSTiA9QqHhW3UojK0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
