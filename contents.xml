@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 04 Jul 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/BqRUq/btrGhY9kt2w/dXhzbhz4E1DrYYfbpu16a1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BERLIN] 독일영화상 시상식, <디어 토마스> 9개 부문 수상]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100469</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100469</guid>
+            <pubDate>Mon, 04 Jul 2022 05:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/xsUXR/btrGlTNuBCJ/DX0GNbBykdqjHK2kuOEaHk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 산문집 <어금니 깨물기>를 펴낸 김소연 시인과의 대화]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 27 Jun 2022 06:18:41 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cp9JoE/btrFOfQWWKM/W8BJ6ToczKk68dKhTJJ6Jk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 살릴까 했던 ‘종이의 집’…한국 현지화 실패한 이유]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100436</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100436</guid>
-            <pubDate>Mon, 27 Jun 2022 06:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bT2J52/btrFLEcpze2/A6zYuQ9sWA3q16hylzajSK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
