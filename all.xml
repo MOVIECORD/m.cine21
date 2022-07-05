@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Mon, 04 Jul 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/BqRUq/btrGhY9kt2w/dXhzbhz4E1DrYYfbpu16a1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엘비스' 배우 오스틴 버틀러 인터뷰 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100473</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100473</guid>
+            <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/2QMeJ/btrGurKyu7J/2GCkW4GludrXcLG0TdJBHK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엘비스' 배즈 루어먼 감독 인터뷰 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100472</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100472</guid>
+            <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/s08G2/btrGxilMQnM/s8fyRyLHRrm5sKvBeH9Em1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엘비스' 엘비스 프레슬리, 미국의 한 시대를 비추는 거울 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100471</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100471</guid>
+            <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/rf2St/btrGvUrWvg4/nocKqpaphBiXTf0Ok4rXV0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BERLIN] 독일영화상 시상식, <디어 토마스> 9개 부문 수상 (씨네21 모바일)]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/nU3w6/btrF9HAALkE/1CD3jaPr75YiflTKybXJck/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경희사이버대학교, 2022학년도 2학기 1차 신·편입생 모집 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100455</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100455</guid>
-            <pubDate>Mon, 04 Jul 2022 03:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/caDlNs/btrGg1ejX0E/aESKHoPjGBpvBdqgwz8Nl1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명량’ 최민식 잇는 ‘한산’ 박해일의 이순신…그 다음은? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100452</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100452</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ba1Rbh/btrFWdFsfHH/CyDKRGUqWyCumzyMYXpAyK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량 100%! 캠핑장과 감자창고에서 즐기는 자연 속 영화제 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100438</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100438</guid>
-            <pubDate>Mon, 27 Jun 2022 06:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bd4Ggu/btrFHFQF4NU/ysVebXrBQEUx83EG57kwsK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
