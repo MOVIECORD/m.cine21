@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 01:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 03:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Jul 2022 01:02:31 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/blklRC/btrGtZ7BBpm/isD5Gk9ZJyDdXw5dnksrd1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대 가장 많은 대만 영화가 참가하는 부천국제판타스틱영화제]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100477</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100477</guid>
+            <pubDate>Wed, 06 Jul 2022 03:45:08 GMT</pubDate>
+            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bteLcR/btrGzZ7kHmU/EAEx8knGMcKDU48tSkQsQK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“세상에 함부로 지어진 이름이 없다는 것, 그걸 알게 해주는 게 배우”]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bXFste/btrGaHHdIsr/kvdZjBtsZ8kbZnp8HKJFY0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부: 마이크 밀스 감독의 '컴온 컴온']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100457</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100457</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/nU3w6/btrF9HAALkE/1CD3jaPr75YiflTKybXJck/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
