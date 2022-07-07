@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름 극장가 빅4 대전…‘천만의 후예’는 누굴까 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100523</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100523</guid>
+            <pubDate>Thu, 07 Jul 2022 05:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cJoqGx/btrGGbfUPdA/wkFKFDza3uPyKZ6I3wEkcK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘돼지의 왕’ 드라마 최초 ‘판타지아 필름 영화제’ 초청 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100522</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100522</guid>
+            <pubDate>Thu, 07 Jul 2022 05:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cJLT3J/btrGFHlRb8Q/EFvWoZnG5vs1MqbACQn510/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박찬욱이 숨겨놓은 것들…‘헤어질 결심’ N차 관람 부른다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100478</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bf9BZ4/btrGfprF7Q2/RnV754lGpLps94J22gwZCk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름은 고전영화와 함께 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100459</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100459</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/baU0jr/btrGfUkdjvt/SiYkmSwiJwbp3U9TUnBQ31/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 왓챠 오리지널 드라마 '최종병기 앨리스' 트위터 블루룸 라이브 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100458</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100458</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bXFste/btrGaHHdIsr/kvdZjBtsZ8kbZnp8HKJFY0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
