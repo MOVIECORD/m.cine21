@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] '모어' 주인공 모어와의 대화 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100528</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100528</guid>
+            <pubDate>Fri, 08 Jul 2022 05:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/5mEGn/btrGLC5FCMA/PXUqkKKK6iAjgMI7Y5JH4K/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 극장가 빅4 대전…‘천만의 후예’는 누굴까 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100523</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/lk4kS/btrGe2qfs2q/peDWbkn6fJ107Q0WwrJLfk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스의 '엄브렐러 아카데미' 그리고 광고 모델 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100460</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100460</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bf9BZ4/btrGfprF7Q2/RnV754lGpLps94J22gwZCk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
