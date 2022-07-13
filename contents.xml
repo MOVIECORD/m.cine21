@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 01:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 03:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘오징어 게임’ 비영어권 최초로 에미상 작품상·남우주연상 후보 올라]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100568</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100568</guid>
+            <pubDate>Wed, 13 Jul 2022 03:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/9xHMX/btrG8RHZDm0/L9b0OvzujkDIsEUoJz6Tw1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘엘비스’에서 K팝 산업의 빛과 그림자를 보다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100567</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100567</guid>
+            <pubDate>Wed, 13 Jul 2022 03:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/OTz5k/btrG8AsY8eH/wH1N7ucGysBOYZyrmwdOqK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] 극장에서는 왜 안 틀지?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100530</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 04 Jul 2022 05:24:40 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/xsUXR/btrGlTNuBCJ/DX0GNbBykdqjHK2kuOEaHk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 산문집 <어금니 깨물기>를 펴낸 김소연 시인과의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100468</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100468</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/lrBLd/btrGgrbaRMV/xuKOHA0Auem32q2B0epHzK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평창국제평화영화제 문성근 이사장, 방은진 집행위원장 인터뷰]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100463</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100463</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Fhau6/btrGfxDhlWw/mlykAMfYCZAnsPYmTAa8ok/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
