@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 09:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 10:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우영우는 그냥 나온 게 아니다, 박은빈의 ‘청춘 24년’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100581</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100581</guid>
+            <pubDate>Thu, 14 Jul 2022 10:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/k6ZJq/btrHfAzZhCw/VR0qtOCsMOaSZWLoEFM4uK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“시공간 넘어 ‘XR’ 유쾌한 체험, 영화보다 인기 끌 날 오겠죠”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100580</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/2QMeJ/btrGurKyu7J/2GCkW4GludrXcLG0TdJBHK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엘비스' 배즈 루어먼 감독 인터뷰]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100472</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100472</guid>
-            <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/s08G2/btrGxilMQnM/s8fyRyLHRrm5sKvBeH9Em1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
