@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“시공간 넘어 ‘XR’ 유쾌한 체험, 영화보다 인기 끌 날 오겠죠” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100580</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100580</guid>
+            <pubDate>Thu, 14 Jul 2022 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/kal4b/btrHiT6tD9K/7JDmMwHEyQ0AWR5JCYxNqk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘라라랜드’ 음악감독의 오케스트라…여름밤 제천은 영화음악의 도시 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100579</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100579</guid>
+            <pubDate>Thu, 14 Jul 2022 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bTtxC8/btrHew5L8Gv/8hPSkPs5HklpqM7ECxTLgk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘오징어 게임’ 비영어권 최초로 에미상 작품상·남우주연상 후보 올라 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100568</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/s08G2/btrGxilMQnM/s8fyRyLHRrm5sKvBeH9Em1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엘비스' 엘비스 프레슬리, 미국의 한 시대를 비추는 거울 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100471</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100471</guid>
-            <pubDate>Tue, 05 Jul 2022 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/rf2St/btrGvUrWvg4/nocKqpaphBiXTf0Ok4rXV0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BERLIN] 독일영화상 시상식, <디어 토마스> 9개 부문 수상 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100469</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100469</guid>
-            <pubDate>Mon, 04 Jul 2022 05:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/xsUXR/btrGlTNuBCJ/DX0GNbBykdqjHK2kuOEaHk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
