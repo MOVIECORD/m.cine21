@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제27회 <씨네21> 영화평론상 시상식 열려 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100607</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100607</guid>
+            <pubDate>Mon, 18 Jul 2022 09:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[소식]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/t0iQJ/btrHCx25Z97/mkdF29cqkHkOwwKWkmI0EK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절대적 사랑과 희생, 그게 모성의 전부는 아니야 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100606</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 07 Jul 2022 05:21:28 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cJLT3J/btrGFHlRb8Q/EFvWoZnG5vs1MqbACQn510/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱이 숨겨놓은 것들…‘헤어질 결심’ N차 관람 부른다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100478</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100478</guid>
-            <pubDate>Tue, 05 Jul 2022 01:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/blklRC/btrGtZ7BBpm/isD5Gk9ZJyDdXw5dnksrd1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
