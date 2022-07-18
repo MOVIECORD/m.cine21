@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 01:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 03:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[절대적 사랑과 희생, 그게 모성의 전부는 아니야 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100606</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100606</guid>
+            <pubDate>Mon, 18 Jul 2022 03:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/0TmWC/btrHtgtFnkn/wMX5IjDi4C6jXeiQFLOR6K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재력으로 사들인 학벌, 그것을 훔쳐 간 ‘사회적 괴물’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100605</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100605</guid>
+            <pubDate>Mon, 18 Jul 2022 03:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bWVANI/btrHAxg4jxF/eGWBdEIz1Yf0GoLcwSGJJ0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] OTT, 다시 광고의 시대 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100585</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 05 Jul 2022 01:02:31 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/blklRC/btrGtZ7BBpm/isD5Gk9ZJyDdXw5dnksrd1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 가장 많은 대만 영화가 참가하는 부천국제판타스틱영화제 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100477</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100477</guid>
-            <pubDate>Wed, 06 Jul 2022 03:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bteLcR/btrGzZ7kHmU/EAEx8knGMcKDU48tSkQsQK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“세상에 함부로 지어진 이름이 없다는 것, 그걸 알게 해주는 게 배우” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100476</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100476</guid>
-            <pubDate>Mon, 04 Jul 2022 03:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/xqliq/btrGrXOYa3G/ziuPCMnKKKDV9BTkbZ7o5K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
