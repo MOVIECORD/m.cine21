@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘명량’에 없던 거북선 맹활약, 통쾌한 학익진…‘한산’에 다 모였다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100618</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100618</guid>
+            <pubDate>Thu, 21 Jul 2022 07:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/d51Dxt/btrHQIwOOGN/ltIV0YuvCSru6P0khLDMyk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박은빈의 ‘우영우’를 보여주다…25년 연기 내공의 깊이를 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100614</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Jul 2022 05:19:39 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/5mEGn/btrGLC5FCMA/PXUqkKKK6iAjgMI7Y5JH4K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 극장가 빅4 대전…‘천만의 후예’는 누굴까 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100523</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100523</guid>
-            <pubDate>Thu, 07 Jul 2022 05:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cJoqGx/btrGGbfUPdA/wkFKFDza3uPyKZ6I3wEkcK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
