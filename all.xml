@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 22 Jul 2022 08:17:53 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dexsGM/btrHZpjcQEt/XiiyK9LcyC1KN6RIcuu3I0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[런던] 극장에 복장 규정이? (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100625</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100625</guid>
+            <pubDate>Mon, 25 Jul 2022 05:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dnoXdT/btrH08JHyfl/EckjBnPFKzV03FCVurd9U1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[되살아난 극장가 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 14 Jul 2022 09:13:19 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/kal4b/btrHiT6tD9K/7JDmMwHEyQ0AWR5JCYxNqk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘라라랜드’ 음악감독의 오케스트라…여름밤 제천은 영화음악의 도시 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100579</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100579</guid>
-            <pubDate>Thu, 14 Jul 2022 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bTtxC8/btrHew5L8Gv/8hPSkPs5HklpqM7ECxTLgk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
