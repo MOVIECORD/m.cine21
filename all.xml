@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 22 Jul 2022 05:22:21 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bO67sw/btrHYYMw6Bc/2Ez2NVHN8gjHBsKVdSOLR1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경희사이버대학교, 2022학년도 2학기 2차 신·편입생 모집 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100620</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100620</guid>
+            <pubDate>Mon, 25 Jul 2022 03:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/otZ7T/btrH0O5kplw/kOh31nV9jsSEy2WK0zBfnk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘명량’에 없던 거북선 맹활약, 통쾌한 학익진…‘한산’에 다 모였다 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 14 Jul 2022 09:13:19 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bTtxC8/btrHew5L8Gv/8hPSkPs5HklpqM7ECxTLgk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘오징어 게임’ 비영어권 최초로 에미상 작품상·남우주연상 후보 올라 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100568</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100568</guid>
-            <pubDate>Wed, 13 Jul 2022 03:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/9xHMX/btrG8RHZDm0/L9b0OvzujkDIsEUoJz6Tw1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
