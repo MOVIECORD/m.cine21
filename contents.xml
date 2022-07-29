@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 에세이 '하고 싶은 말이 많고요, 구릅니다' 김지우 작가와의 대화]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100656</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100656</guid>
+            <pubDate>Fri, 29 Jul 2022 05:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bL2JQG/btrInEVUWOw/ltN26XQAxxOJ9kuVh9JWs1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] 연출과 공동 각본, 주연까지 맡은 이정재 감독의 첫 연출작 '헌트']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100626</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 14 Jul 2022 10:14:56 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/k6ZJq/btrHfAzZhCw/VR0qtOCsMOaSZWLoEFM4uK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“시공간 넘어 ‘XR’ 유쾌한 체험, 영화보다 인기 끌 날 오겠죠”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100580</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100580</guid>
-            <pubDate>Thu, 14 Jul 2022 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/kal4b/btrHiT6tD9K/7JDmMwHEyQ0AWR5JCYxNqk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
