@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 15년간 이어가는 세계관의 명과 암 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100658</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100658</guid>
+            <pubDate>Fri, 29 Jul 2022 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/c8tNO0/btrIn0kftFC/rg0Z6o06KDH64n4CrOGfTK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강릉국제영화제, 개최 중단 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100657</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100657</guid>
+            <pubDate>Fri, 29 Jul 2022 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bDhY12/btrIoKVNqrc/nwTFnvm9fsesfbzaMxlSAk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 에세이 '하고 싶은 말이 많고요, 구릅니다' 김지우 작가와의 대화 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100656</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Jul 2022 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/6q4Uf/btrHn9uqjfZ/0mqRYDUZur42qoAViEqk01/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘오징어 게임‘ 비영어권 작품 최초 에미상 14개 부문 노미네이트 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100584</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100584</guid>
-            <pubDate>Fri, 15 Jul 2022 06:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/sQe0R/btrHnVXwJjJ/2sB65TBVkMFYFapIp3kSt0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우는 그냥 나온 게 아니다, 박은빈의 ‘청춘 24년’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100581</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100581</guid>
-            <pubDate>Thu, 14 Jul 2022 10:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/k6ZJq/btrHfAzZhCw/VR0qtOCsMOaSZWLoEFM4uK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
