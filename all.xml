@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 03 Aug 2022 01:11:41 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/P0LFP/btrIOSEwbz4/FPk6PkBS6kiwHyHXWSKYl1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 감독 "쿠팡플레이 '안나' 훼손" VS 쿠팡플레이 "계약에 명시된 권리" (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100686</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100686</guid>
+            <pubDate>Wed, 03 Aug 2022 09:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/B6AsE/btrIISMP4MG/9M6Qko8fWY9h0rU1hKw5WK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파리] 프랑수아 오종, <페터 폰 칸트>로 파스빈더를 스크린에 부활시키다 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 19 Jul 2022 03:54:53 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/QKekV/btrHuUrKg4g/KkDZknFBdkzO7ujd4cc7FK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제27회 <씨네21> 영화평론상 시상식 열려 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100607</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100607</guid>
-            <pubDate>Mon, 18 Jul 2022 09:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[소식]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/t0iQJ/btrHCx25Z97/mkdF29cqkHkOwwKWkmI0EK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
