@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아다마스, 어땠어?] 엇박자 많지만…‘지성 1인2역’ 일단 볼래 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100690</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100690</guid>
+            <pubDate>Thu, 04 Aug 2022 06:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cRg4YO/btrIUmTm97s/3ahoFYG8KYrbBt15jkow20/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘우리 ( )에서 만나’…서울국제여성영화제 25일 개막 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100689</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 25 Jul 2022 03:42:38 GMT</pubDate>
             <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/otZ7T/btrH0O5kplw/kOh31nV9jsSEy2WK0zBfnk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명량’에 없던 거북선 맹활약, 통쾌한 학익진…‘한산’에 다 모였다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100618</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100618</guid>
-            <pubDate>Thu, 21 Jul 2022 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/d51Dxt/btrHQIwOOGN/ltIV0YuvCSru6P0khLDMyk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
