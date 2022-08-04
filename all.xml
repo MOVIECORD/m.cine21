@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘우리 ( )에서 만나’…서울국제여성영화제 25일 개막 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100689</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100689</guid>
+            <pubDate>Thu, 04 Aug 2022 05:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/boPIPS/btrIXxUmkv7/Iuv5OZagpm7sfU1B0lyrE1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월드클래스 ‘우영우’ 17개국서 1위…세계인도 사로잡았다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100688</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 21 Jul 2022 07:11:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/d51Dxt/btrHQIwOOGN/ltIV0YuvCSru6P0khLDMyk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박은빈의 ‘우영우’를 보여주다…25년 연기 내공의 깊이를 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100614</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100614</guid>
-            <pubDate>Tue, 19 Jul 2022 03:54:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/QKekV/btrHuUrKg4g/KkDZknFBdkzO7ujd4cc7FK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
