@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 드라마 <구경이> 대본집 출간 앞둔 이정흠 PD, 플레인아카이브 장지선·임유청 편집자와의 대화]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100692</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100692</guid>
+            <pubDate>Fri, 05 Aug 2022 05:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/diOSi1/btrIYC2YgF5/2PxRKmkgO80PwbV6XihTK1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아다마스, 어땠어?] 엇박자 많지만…‘지성 1인2역’ 일단 볼래]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100690</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Jul 2022 05:22:21 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bO67sw/btrHYYMw6Bc/2Ez2NVHN8gjHBsKVdSOLR1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경희사이버대학교, 2022학년도 2학기 2차 신·편입생 모집]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100620</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100620</guid>
-            <pubDate>Mon, 25 Jul 2022 03:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[culture &amp; life]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/otZ7T/btrH0O5kplw/kOh31nV9jsSEy2WK0zBfnk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
