@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우영우 같은 친구 있다면…그 장애여성은 “제비”와 헤어졌을까]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100723</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100723</guid>
+            <pubDate>Tue, 09 Aug 2022 07:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/article/2022/0809/16_10_04__62f2084cc030f[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[책&생각] ‘쓴소리+★’이 영화 평론의 전부? 애정 없으면 못할 일!]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100701</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 06:16:47 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bDhY12/btrIoKVNqrc/nwTFnvm9fsesfbzaMxlSAk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 에세이 '하고 싶은 말이 많고요, 구릅니다' 김지우 작가와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100656</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100656</guid>
-            <pubDate>Fri, 29 Jul 2022 05:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bL2JQG/btrInEVUWOw/ltN26XQAxxOJ9kuVh9JWs1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
