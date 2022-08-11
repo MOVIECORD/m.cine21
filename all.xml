@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 01:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 03:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘비상선언’ 흥행 비상…극과 극 평가에 ‘수상한’ 악평 논란까지 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100729</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100729</guid>
+            <pubDate>Thu, 11 Aug 2022 03:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bZzH3M/btrJncX9Pnp/JUExat4CHkyQfryLvQw0H0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]  ‘안나’ 이주영 감독 “쿠팡플레이, 뭐든 돈으로 사면된다고 생각” (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100728</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100728</guid>
             <pubDate>Thu, 11 Aug 2022 01:01:59 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bTewoi/btrJq4Lklsc/AqN3JyMKodE2bpEsh4cJ4K/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/c0KAvx/btrJqq17HCD/XfvOi1eWgGrA1R5jzIPtx1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우영우 같은 친구 있다면…그 장애여성은 “제비”와 헤어졌을까 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 01 Aug 2022 05:20:30 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/jWeyy/btrIzaMVxbn/EizoAHCLVyafUl6Dvq5bf0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 15년간 이어가는 세계관의 명과 암 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100658</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100658</guid>
-            <pubDate>Fri, 29 Jul 2022 06:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/c8tNO0/btrIn0kftFC/rg0Z6o06KDH64n4CrOGfTK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
