@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 방송사가 아닌 OTT가 살아남는 법은? '기묘한 이야기']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100733</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100733</guid>
+            <pubDate>Fri, 12 Aug 2022 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cJvT33/btrJxqaoPNn/03G3dkybSXGDgWn0wfoJqK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CGV명동역 씨네라이브러리 2년간 더 운영한다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100732</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 03 Aug 2022 01:11:41 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bSutPv/btrIFIb315p/nTdDbqt5Dls0TjpSxLZen1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘다큐의 꿈을 찾아서’…EBS 국제다큐영화제 22일 개막]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100687</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100687</guid>
-            <pubDate>Wed, 03 Aug 2022 01:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/P0LFP/btrIOSEwbz4/FPk6PkBS6kiwHyHXWSKYl1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
