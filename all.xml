@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 04:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 05:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 중국 청년영화의 미래 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100734</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100734</guid>
+            <pubDate>Mon, 15 Aug 2022 05:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/XmYPS/btrJASk81FA/JlkXPeYz8Yr0WVHU32ps4K/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 방송사가 아닌 OTT가 살아남는 법은? '기묘한 이야기' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100733</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 04 Aug 2022 05:26:57 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/boPIPS/btrIXxUmkv7/Iuv5OZagpm7sfU1B0lyrE1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월드클래스 ‘우영우’ 17개국서 1위…세계인도 사로잡았다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100688</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100688</guid>
-            <pubDate>Wed, 03 Aug 2022 01:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bSutPv/btrIFIb315p/nTdDbqt5Dls0TjpSxLZen1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
