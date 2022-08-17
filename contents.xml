@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:54:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[활주로에 내려앉은 ‘라라랜드’…제천의 밤이 빛났다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100769</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100769</guid>
+            <pubDate>Wed, 17 Aug 2022 03:54:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/ecEiS4/btrJRyMnVZS/Q2RMAS2b5PLsewWpEXMNsK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가수왕’ 남진, 74편 영화 찍은 ‘배우왕’이기도 합니다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100768</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100768</guid>
+            <pubDate>Wed, 17 Aug 2022 03:54:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cWx0WO/btrJSMiQg2U/0h5GydK8Lypxgd1D1ICXxk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 중국 청년영화의 미래]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100734</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 05 Aug 2022 05:29:03 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/diOSi1/btrIYC2YgF5/2PxRKmkgO80PwbV6XihTK1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아다마스, 어땠어?] 엇박자 많지만…‘지성 1인2역’ 일단 볼래]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100690</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100690</guid>
-            <pubDate>Thu, 04 Aug 2022 06:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cRg4YO/btrIUmTm97s/3ahoFYG8KYrbBt15jkow20/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우리 ( )에서 만나’…서울국제여성영화제 25일 개막]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100689</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100689</guid>
-            <pubDate>Thu, 04 Aug 2022 05:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/boPIPS/btrIXxUmkv7/Iuv5OZagpm7sfU1B0lyrE1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
