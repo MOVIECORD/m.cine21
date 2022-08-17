@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 06:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준기·문채원 ‘악의 꽃’, 인도서 리메이크…K드라마 최초]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100770</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100770</guid>
+            <pubDate>Wed, 17 Aug 2022 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/nLnUQ/btrJSMRDaMu/jC2yBvPWSEuEEsctePEFh1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[활주로에 내려앉은 ‘라라랜드’…제천의 밤이 빛났다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100769</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 05 Aug 2022 06:15:57 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dpnyiJ/btrI2pBINWD/cYmNBIkaiFxo8ZvGcmi4jK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 드라마 <구경이> 대본집 출간 앞둔 이정흠 PD, 플레인아카이브 장지선·임유청 편집자와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100692</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100692</guid>
-            <pubDate>Fri, 05 Aug 2022 05:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/diOSi1/btrIYC2YgF5/2PxRKmkgO80PwbV6XihTK1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
