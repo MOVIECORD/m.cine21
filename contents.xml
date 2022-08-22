@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 05:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 06:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로마] 영화제는 역사의 바람을 타고]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100782</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100782</guid>
+            <pubDate>Mon, 22 Aug 2022 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bxDp8K/btrJ80brbVy/jZzVb8k9QZ2reCPHwoMN71/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 극장가의 승자는?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100781</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 05 Aug 2022 06:15:57 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/3EM4k/btrIXB4D4Ki/Ab6TsKk6zPLEqYACBF8cX1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LA카운티 미술관 ‘아트+필름 갈라’ 박찬욱 감독 수상]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100700</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100700</guid>
-            <pubDate>Fri, 05 Aug 2022 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cTsa06/btrIUlBfC2K/ERyxVfYUC9UkbYgCopikvK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
