@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 14:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=100816</guid>
             <pubDate>Wed, 24 Aug 2022 08:16:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/event/2022/0824/16_46_38__6305d75ee630e[X640,380].jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/j5CgZ/btrKuyr8Hf5/oGwJdRW11x0oOTh8whvp1k/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘비상선언’ ‘한산’, 영화관서 쿠플로 직행…콘텐츠 블랙홀 되나]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=100807</guid>
             <pubDate>Wed, 24 Aug 2022 01:12:33 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/article/2022/0824/10_16_28__63057becc1c2d[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bjzMQS/btrKuU9bgvQ/31M3oEtFIkQUHzU4z3p8rK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1988년 서울의 바이브가 충만한 ‘서울대작전’ 첫 시사 첫 반응]]></title>
