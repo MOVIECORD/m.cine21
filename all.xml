@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 05:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] ‘드래곤볼 슈퍼: 슈퍼 히어로’를 성공시킨 OTT 크런치롤의 전략 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100821</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100821</guid>
+            <pubDate>Fri, 26 Aug 2022 06:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cHyjdZ/btrKFsYPRzR/72HEwoBiCUnwN4l6jcQaXK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평창국제평화영화제, 이대로 사라지나 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100820</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100820</guid>
+            <pubDate>Fri, 26 Aug 2022 06:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/FAcoX/btrKF7GjWvR/PTiv3kjEnawRGhbFDHTaPk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“사과받았다” vs “사실 아니다” 이주영 감독과 쿠팡플레이, ‘안나’ 재편집 두고 여전히 상반된 주장 펼쳐 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100819</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 17 Aug 2022 03:54:46 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cWx0WO/btrJSMiQg2U/0h5GydK8Lypxgd1D1ICXxk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] 중국 청년영화의 미래 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100734</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100734</guid>
-            <pubDate>Mon, 15 Aug 2022 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/XmYPS/btrJASk81FA/JlkXPeYz8Yr0WVHU32ps4K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 방송사가 아닌 OTT가 살아남는 법은? '기묘한 이야기' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100733</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100733</guid>
-            <pubDate>Fri, 12 Aug 2022 06:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cJvT33/btrJxqaoPNn/03G3dkybSXGDgWn0wfoJqK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
