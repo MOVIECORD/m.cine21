@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 26 Aug 2022 07:18:30 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/uY5Yf/btrKFwmOTUi/m4TQx6iYEg76mX2cDktacK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[L.A.] 스트리밍과 SNS의 전성시대]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100822</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100822</guid>
+            <pubDate>Mon, 29 Aug 2022 06:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bpmoqZ/btrKLgxOm82/fenH6IjteHhWEX8iJCKuL1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] ‘드래곤볼 슈퍼: 슈퍼 히어로’를 성공시킨 OTT 크런치롤의 전략]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Aug 2022 05:23:40 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/oBTqQ/btrJ6O1OTTy/vkfeiDwrvUE5ik1rI8cHn1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 시즌 시네마틱 리얼 다큐멘터리 '어나더 레코드: 이제훈' 트위터 블루룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100778</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100778</guid>
-            <pubDate>Fri, 19 Aug 2022 03:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/lfQPG/btrJ3h4shwA/VtxEGQzQmHYj7lDMB6cXN0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
