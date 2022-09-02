@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 05:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘천만 영화감독들 마침내 국회로: 정당한 보상을 논하다’ 정책토론회 열려]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100867</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100867</guid>
+            <pubDate>Fri, 02 Sep 2022 06:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/ccXm0B/btrLgiOJfJL/ZlNzBh5PRcWkGkWx7KAp2K/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 영화 산문집 <묘사하는 마음>을 펴낸 김혜리 작가와의 대화]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100838</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Aug 2022 06:18:03 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/u3MPY/btrJ2msxCl3/SCDcVkjr1peIpaQI2LtU20/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진통 겪는 ‘익스트림무비’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100780</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100780</guid>
-            <pubDate>Fri, 19 Aug 2022 05:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/oBTqQ/btrJ6O1OTTy/vkfeiDwrvUE5ik1rI8cHn1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
