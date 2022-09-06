@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 06 Sep 2022 04:18:29 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bc3Wzt/btrLuldNWzL/Eq1lTXR2WynTq0xqOSuh8k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이상한 변호사 우영우’ 넷플릭스 영어 더빙 현장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100881</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100881</guid>
+            <pubDate>Tue, 06 Sep 2022 07:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bhoUoP/btrLwBgltzH/4zal9KfEFnCe1tKZEQxjnK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베를린] 1988년 제38회 베를린국제영화제에서 상영된 한국 단편영화 6편 상영회 열려 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 24 Aug 2022 01:12:33 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cvFhbC/btrKpTWK8XX/W9xiaQu9iVwzzGAtn78xsk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아날로그식 액션이 열차의 속도감과 만나다, '불릿 트레인' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100787</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100787</guid>
-            <pubDate>Tue, 23 Aug 2022 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/T0T04/btrKpD63rR3/EO45cMnGW9kpNB0C0t2Glk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
