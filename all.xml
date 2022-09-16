@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] '오! 마이 고스트' 트위터 블루룸 라이브 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100920</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100920</guid>
+            <pubDate>Fri, 16 Sep 2022 08:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/yp6yd/btrMjD47xIL/mRfS4l0wFBYcCLxSpgFxuK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] <시맨틱에러: 더 무비> 김수정 감독, 안겸서 촬영감독, 조은영 음악감독, 김혜정 왓챠 이사와의 대화 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100919</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 Aug 2022 06:33:04 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cHyjdZ/btrKFsYPRzR/72HEwoBiCUnwN4l6jcQaXK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평창국제평화영화제, 이대로 사라지나 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100820</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100820</guid>
-            <pubDate>Fri, 26 Aug 2022 06:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/FAcoX/btrKF7GjWvR/PTiv3kjEnawRGhbFDHTaPk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
