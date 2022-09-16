@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누벨바그의 거장, 별이 되다 - 장뤽 고다르, 향년 91살로 별세 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100916</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100916</guid>
+            <pubDate>Fri, 16 Sep 2022 06:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bCuSGe/btrMgmb1H0Y/kugbYJGBVo3Kz2rOwr1t0K/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 이정재, 에미상 남우주연상…아시아 배우 최초 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100910</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 24 Aug 2022 08:16:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/j5CgZ/btrKuyr8Hf5/oGwJdRW11x0oOTh8whvp1k/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘비상선언’ ‘한산’, 영화관서 쿠플로 직행…콘텐츠 블랙홀 되나 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100807</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100807</guid>
-            <pubDate>Wed, 24 Aug 2022 01:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bjzMQS/btrKuU9bgvQ/31M3oEtFIkQUHzU4z3p8rK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
