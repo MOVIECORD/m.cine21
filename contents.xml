@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 07:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 08:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼박스, '비상선언' 역바이럴 정황에 대한 공식 입장 밝혔다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100950</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100950</guid>
+            <pubDate>Wed, 21 Sep 2022 08:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/uRJRx/btrMFigwt1l/pMN46ojURL3Emibkd74zGK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘테슬라처럼’ 이젠 차에서도 본다…웨이브-현대차 MOU 체결]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100938</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 Aug 2022 07:18:30 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/uY5Yf/btrKFwmOTUi/m4TQx6iYEg76mX2cDktacK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[L.A.] 스트리밍과 SNS의 전성시대]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100822</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100822</guid>
-            <pubDate>Mon, 29 Aug 2022 06:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bpmoqZ/btrKLgxOm82/fenH6IjteHhWEX8iJCKuL1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
