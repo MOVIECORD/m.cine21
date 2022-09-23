@@ -4,9 +4,33 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 05:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 06:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화계 역바이럴 의혹의 진실은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100964</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100964</guid>
+            <pubDate>Fri, 23 Sep 2022 06:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/boy1zK/btrMRrc14No/FEACkZSFFPPGhfDAKWyZkk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] ‘어쩌다 전원일기’ 트위터 블루룸 라이브]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100963</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100963</guid>
+            <pubDate>Fri, 23 Sep 2022 06:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dp8yQf/btrMQDkvqnF/GnOxDKAHy5Lb0Z7pHsHvSk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 프랑수아 오종 감독의 ‘다 잘된 거야’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100962</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100962</guid>
+            <pubDate>Fri, 23 Sep 2022 06:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dTLjFg/btrMPOfsT1Q/G2PtN6HiIzpfeiZtieCvXk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] '아바타: 리마스터링' 배우 샘 워딩턴, 조이 살다나, 스티븐 랭, 미셸 로드리게스 인터뷰]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100961</link>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 06 Sep 2022 07:35:03 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bhoUoP/btrLwBgltzH/4zal9KfEFnCe1tKZEQxjnK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베를린] 1988년 제38회 베를린국제영화제에서 상영된 한국 단편영화 6편 상영회 열려]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100871</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100871</guid>
-            <pubDate>Mon, 05 Sep 2022 05:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/czPKjy/btrLufDDGN4/856dGK0bEOT9NGSqnBwZL1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘천만 영화감독들 마침내 국회로: 정당한 보상을 논하다’ 정책토론회 열려]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100867</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100867</guid>
-            <pubDate>Fri, 02 Sep 2022 06:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ccXm0B/btrLgiOJfJL/ZlNzBh5PRcWkGkWx7KAp2K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 영화 산문집 <묘사하는 마음>을 펴낸 김혜리 작가와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100838</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100838</guid>
-            <pubDate>Sat, 27 Aug 2022 03:58:55 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/EPVz4/btrKGoo78SE/8afKfmSPjeujqQcwKP8fiK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
