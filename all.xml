@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 01:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 04:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['2차 송환’ 김동원 “90살 장기수, 더 늦기 전에 고향 보내드려야” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100973</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100973</guid>
+            <pubDate>Mon, 26 Sep 2022 04:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/article/2022/0926/11_09_30__633109dad6e10[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화계 역바이럴 의혹의 진실은? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100964</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 06 Sep 2022 04:18:29 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bc3Wzt/btrLuldNWzL/Eq1lTXR2WynTq0xqOSuh8k/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이상한 변호사 우영우’ 넷플릭스 영어 더빙 현장 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100881</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100881</guid>
-            <pubDate>Tue, 06 Sep 2022 07:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bhoUoP/btrLwBgltzH/4zal9KfEFnCe1tKZEQxjnK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
