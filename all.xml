@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 04:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 06:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 26 Sep 2022 04:21:09 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://image.cine21.com/resize/cine21/article/2022/0926/11_09_30__633109dad6e10[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴욕] 호러영화 풍년 맞은 미국, 신작 <바바리안> 특히 주목 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100967</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100967</guid>
+            <pubDate>Mon, 26 Sep 2022 06:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0923/17_32_07__632d6f0788575[X640,380].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화계 역바이럴 의혹의 진실은? (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 13 Sep 2022 04:15:39 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cU9Ap2/btrLXOzrAEx/kAJLo9UaMs9GMpEVcQ8CIK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정재, 정우성이 출연한 2022 영화 온라인 합법유통 촉진 캠페인 영상 공개 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100900</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100900</guid>
-            <pubDate>Tue, 06 Sep 2022 04:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bc3Wzt/btrLuldNWzL/Eq1lTXR2WynTq0xqOSuh8k/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
