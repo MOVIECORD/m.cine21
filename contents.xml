@@ -4,9 +4,49 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 06:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 07:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 미디어 플랫폼의 플러스 전략]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101014</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101014</guid>
+            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0930/16_03_43__633694cf0ad90[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] '티켓 투 파라다이스']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101013</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101013</guid>
+            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/0930/16_00_51__63369423c9958[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산국제영화제, 예매권 결제 오류... 거센 항의의 목소리]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101012</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101012</guid>
+            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0930/15_13_18__633688fe081f5[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 연극 <82년생 김지영> 트위터 블루룸 라이브]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101011</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101011</guid>
+            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/0930/14_55_21__633684c9766c3[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 박진영, 백아연 배우와 함께한 ‘프린세스 아야’ 트위터 블루룸 라이브]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101010</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101010</guid>
+            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/0930/14_46_55__633682cf8ffc9[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["도지사, 시장의 말 한 마디로 영화제의 미래 결정할 수 있나" 강릉, 평창에 이은 부천국제판타스틱영화제 존폐 논란]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101009</link>
@@ -86,46 +126,6 @@
             <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ejwkZ7/btrMDgaL1dr/bTrp8kJ9XIIgwyI8rfkMnk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] '오! 마이 고스트' 트위터 블루룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100920</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100920</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/yp6yd/btrMjD47xIL/mRfS4l0wFBYcCLxSpgFxuK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] <시맨틱에러: 더 무비> 김수정 감독, 안겸서 촬영감독, 조은영 음악감독, 김혜정 왓챠 이사와의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100919</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100919</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bqJqED/btrMjDRfnCK/kEkDgYLaJlfIXKF5mgIKv1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 미래는 FAST 플랫폼의 시대?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100918</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100918</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/TvXK9/btrMhVFxCGN/jzxg3W1pyjHpuWdZ3XAkk0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임', 새로운 역사를 쓰다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100917</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100917</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/59raI/btrMfeeMHyC/nelJ2HgB0Yy9DIWMKAY261/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누벨바그의 거장, 별이 되다 - 장뤽 고다르, 향년 91살로 별세]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100916</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100916</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bCuSGe/btrMgmb1H0Y/kugbYJGBVo3Kz2rOwr1t0K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
