@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 04:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 05:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] 제66회 BFI런던영화제 라인업 공개, 박찬욱 감독의 ‘헤어질 결심’ 상영]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101020</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101020</guid>
+            <pubDate>Mon, 03 Oct 2022 05:38:52 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/0930/17_24_43__6336a7cb869f2[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 미디어 플랫폼의 플러스 전략]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101014</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/uRJRx/btrMFigwt1l/pMN46ojURL3Emibkd74zGK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘테슬라처럼’ 이젠 차에서도 본다…웨이브-현대차 MOU 체결]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100938</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100938</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ejwkZ7/btrMDgaL1dr/bTrp8kJ9XIIgwyI8rfkMnk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
