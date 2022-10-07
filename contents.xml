@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 06:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제27회 부산국제영화제 개막⋯ 10월5일부터 14일까지 열흘간]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101120</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101120</guid>
+            <pubDate>Fri, 07 Oct 2022 06:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1007/12_16_28__633f9a0c86dd8[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] '미혹' 박효주, 김민재 배우와 함께한 트위터 블루룸 라이브]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101118</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/boy1zK/btrMRrc14No/FEACkZSFFPPGhfDAKWyZkk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '아바타: 리마스터링' 배우 샘 워딩턴, 조이 살다나, 스티븐 랭, 미셸 로드리게스 인터뷰]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100961</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100961</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dAh2CY/btrMRrcAD3c/PROEbQ3KPBhPgpEQoqpjk0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
