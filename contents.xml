@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 03:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 04:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="http://k.kakaocdn.net/dn/cgGDXy/btrNvqxxqLs/yd1bClzRn3HeCwDWyogEk1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['2차 송환’ 김동원 “90살 장기수, 더 늦기 전에 고향 보내드려야”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100973</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100973</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/mhynp/btrM37Tk95B/JBrL3PKMQIX4WzPP2GRf9K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴욕] 호러영화 풍년 맞은 미국, 신작 <바바리안> 특히 주목]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=100967</link>
             <guid>http://m.cine21.com/news/view/?mag_id=100967</guid>
@@ -88,12 +80,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/ruBoT/btrM7kc31uE/7s8pEvQWG7ij86IyKANKyk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화계 역바이럴 의혹의 진실은?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100964</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100964</guid>
+            <title><![CDATA['2차 송환’ 김동원 “90살 장기수, 더 늦기 전에 고향 보내드려야”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100973</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100973</guid>
             <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/boy1zK/btrMRrc14No/FEACkZSFFPPGhfDAKWyZkk/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/mhynp/btrM37Tk95B/JBrL3PKMQIX4WzPP2GRf9K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 프랑수아 오종 감독의 ‘다 잘된 거야’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100962</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100962</guid>
+            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dTLjFg/btrMPOfsT1Q/G2PtN6HiIzpfeiZtieCvXk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] ‘어쩌다 전원일기’ 트위터 블루룸 라이브]]></title>
@@ -104,12 +104,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/dp8yQf/btrMQDkvqnF/GnOxDKAHy5Lb0Z7pHsHvSk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 프랑수아 오종 감독의 ‘다 잘된 거야’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100962</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100962</guid>
+            <title><![CDATA[영화계 역바이럴 의혹의 진실은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=100964</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=100964</guid>
             <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dTLjFg/btrMPOfsT1Q/G2PtN6HiIzpfeiZtieCvXk/img.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/boy1zK/btrMRrc14No/FEACkZSFFPPGhfDAKWyZkk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '아바타: 리마스터링' 배우 샘 워딩턴, 조이 살다나, 스티븐 랭, 미셸 로드리게스 인터뷰]]></title>
