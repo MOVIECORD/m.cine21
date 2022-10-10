@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 04:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 05:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 환생하라 극장이여, 인도의 ‘내셔널 시네마 데이’ 열려 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101124</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101124</guid>
+            <pubDate>Mon, 10 Oct 2022 05:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/1007/12_48_14__633fa17e1e914[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제27회 부산국제영화제 개막⋯ 10월5일부터 14일까지 열흘간 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101120</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dp8yQf/btrMQDkvqnF/GnOxDKAHy5Lb0Z7pHsHvSk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화계 역바이럴 의혹의 진실은? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100964</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100964</guid>
-            <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/boy1zK/btrMRrc14No/FEACkZSFFPPGhfDAKWyZkk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
