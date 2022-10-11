@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 06:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 07:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] ‘안도르’ 배우 디에고 루나,"때로는 스릴러처럼, 때로는 정치극처럼"]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101127</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101127</guid>
+            <pubDate>Tue, 11 Oct 2022 07:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1007/12_59_20__633fa418bc5d5[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘안도르’ LA 현지보고, “스타워즈의 골수팬을 만족시킨다”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101126</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101126</guid>
+            <pubDate>Tue, 11 Oct 2022 07:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1007/12_55_44__633fa340bf684[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 환생하라 극장이여, 인도의 ‘내셔널 시네마 데이’ 열려]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101124</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/mhynp/btrM37Tk95B/JBrL3PKMQIX4WzPP2GRf9K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 프랑수아 오종 감독의 ‘다 잘된 거야’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100962</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100962</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dTLjFg/btrMPOfsT1Q/G2PtN6HiIzpfeiZtieCvXk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] ‘어쩌다 전원일기’ 트위터 블루룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100963</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100963</guid>
-            <pubDate>Mon, 26 Sep 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dp8yQf/btrMQDkvqnF/GnOxDKAHy5Lb0Z7pHsHvSk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
