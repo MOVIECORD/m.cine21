@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Oct 2022 14:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 15:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101126</guid>
             <pubDate>Tue, 11 Oct 2022 07:34:47 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1007/12_55_44__633fa340bf684[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cBZC3M/btrOrSe6ChY/xkKnpfPOlYOWnHcAhgo4Ek/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] 환생하라 극장이여, 인도의 ‘내셔널 시네마 데이’ 열려 (씨네21 모바일)]]></title>
