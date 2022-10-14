@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 07:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 오세연 감독의 ‘성덕’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101226</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101226</guid>
+            <pubDate>Fri, 14 Oct 2022 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1014/17_05_52__63491860e9c55[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, TV와 극장을 넘보다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101225</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/wlYve/btrNwkjIth4/6y2DX6AJPkoZwb8kDNuu40/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["도지사, 시장의 말 한 마디로 영화제의 미래 결정할 수 있나" 강릉, 평창에 이은 부천국제판타스틱영화제 존폐 논란 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101009</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101009</guid>
-            <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cgGDXy/btrNvqxxqLs/yd1bClzRn3HeCwDWyogEk1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
