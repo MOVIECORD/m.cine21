@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 06:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 07:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, TV와 극장을 넘보다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101225</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101225</guid>
+            <pubDate>Fri, 14 Oct 2022 07:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1014/15_10_51__6348fd6b4c68c[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 문화체육관광위원회 국정감사 시작, 망 사용료와 사재기 논란 도마 위에⋯ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101224</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101224</guid>
+            <pubDate>Fri, 14 Oct 2022 07:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1014/15_05_51__6348fc3fa776a[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] ‘안도르’ 배우 디에고 루나,"때로는 스릴러처럼, 때로는 정치극처럼" (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101127</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cgGDXy/btrNvqxxqLs/yd1bClzRn3HeCwDWyogEk1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 호러영화 풍년 맞은 미국, 신작 <바바리안> 특히 주목 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100967</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100967</guid>
-            <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ruBoT/btrM7kc31uE/7s8pEvQWG7ij86IyKANKyk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2차 송환’ 김동원 “90살 장기수, 더 늦기 전에 고향 보내드려야” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=100973</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=100973</guid>
-            <pubDate>Wed, 05 Oct 2022 18:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/mhynp/btrM37Tk95B/JBrL3PKMQIX4WzPP2GRf9K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
