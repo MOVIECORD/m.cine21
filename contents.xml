@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 14:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 15:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101226</guid>
             <pubDate>Fri, 14 Oct 2022 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1014/17_05_52__63491860e9c55[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cRsXNm/btrOCQ9LJ9M/mRWI7lkS9FuC8IgJDLkfvk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, TV와 극장을 넘보다]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101224</guid>
             <pubDate>Fri, 14 Oct 2022 07:33:46 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1014/15_05_51__6348fc3fa776a[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/nv8xR/btrOEhrxpwF/9MafdzIUh7oTVqFiodE8lK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘안도르’ 배우 디에고 루나,"때로는 스릴러처럼, 때로는 정치극처럼"]]></title>
