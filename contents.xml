@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 04:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 06:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 파리 연쇄 테러의 상황을 소환하는 ‘파리 메모리즈’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101230</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101230</guid>
+            <pubDate>Mon, 17 Oct 2022 06:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1017/14_02_58__634ce20270007[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 오세연 감독의 ‘성덕’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101226</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/Uhtxb/btrNu8cSUyc/ECJEY7NnKeUFQIozZn5YnK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 박진영, 백아연 배우와 함께한 ‘프린세스 아야’ 트위터 블루룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101010</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101010</guid>
-            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/wlYve/btrNwkjIth4/6y2DX6AJPkoZwb8kDNuu40/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
