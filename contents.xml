@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 06:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 07:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Apple TV+ '샨타람’ LA 현지보고, “불가능을 모르는 남자”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101245</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101245</guid>
+            <pubDate>Tue, 18 Oct 2022 07:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1018/10_58_23__634e083f8a6b4[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 파리 연쇄 테러의 상황을 소환하는 ‘파리 메모리즈’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101230</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/doNmIL/btrNvQbEZ6F/XgPMjh6SqrNGAiLKxGizT0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 연극 <82년생 김지영> 트위터 블루룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101011</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101011</guid>
-            <pubDate>Fri, 30 Sep 2022 07:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Uhtxb/btrNu8cSUyc/ECJEY7NnKeUFQIozZn5YnK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
