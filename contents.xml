@@ -4,9 +4,33 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 06:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 07:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] ‘레이먼드 & 레이’ 배우 에단 호크, 이완 맥그리거, “가족은 인간 심리의 영역”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101300</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101300</guid>
+            <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1021/11_55_04__63520a0894068[X640,380].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] ‘레이먼드 & 레이’ 로드리고 가르시아 감독, “미국적인, 지극히 미국적인”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101299</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101299</guid>
+            <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1021/11_50_24__635208f0d8394[X640,380].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[LA 현지보고, Apple TV+ ‘레이먼드 & 레이’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101298</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101298</guid>
+            <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1021/11_42_41__6352072194d46[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] ‘인생대사’ 등 중국 본토 영화 잇달아 넷플릭스 공개]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101296</link>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 11 Oct 2022 07:34:47 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cBZC3M/btrOrSe6ChY/xkKnpfPOlYOWnHcAhgo4Ek/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 환생하라 극장이여, 인도의 ‘내셔널 시네마 데이’ 열려]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101124</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101124</guid>
-            <pubDate>Mon, 10 Oct 2022 05:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cKED7L/btrOchflUeX/yALXQzOffFH4sYTb3Q9svk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제27회 부산국제영화제 개막⋯ 10월5일부터 14일까지 열흘간]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101120</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101120</guid>
-            <pubDate>Fri, 07 Oct 2022 06:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/s0tgv/btrN4PJCMmB/K2QTnInE7aty0utHda9oL0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] '미혹' 박효주, 김민재 배우와 함께한 트위터 블루룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101118</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101118</guid>
-            <pubDate>Fri, 07 Oct 2022 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/wdHWw/btrN5Gk4zx1/9k4aJvYzJ6ZK0lyMOAlVIk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
