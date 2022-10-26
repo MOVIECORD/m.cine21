@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 15:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101299</guid>
             <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1021/11_50_24__635208f0d8394[X640,380].JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://k.kakaocdn.net/dn/n2VKJ/btrPB1i0X2b/KWMdPnKBk3qwnJK1xwXLZK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LA 현지보고, Apple TV+ ‘레이먼드 & 레이’]]></title>
