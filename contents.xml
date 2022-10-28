@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 05:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 06:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 스포츠와 손잡는 OTT 플랫폼]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101351</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101351</guid>
+            <pubDate>Fri, 28 Oct 2022 06:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1028/11_35_28__635b3ff0085d0[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문체위 국정감사, 넷플릭스에 세금과 인센티브에 대한 문제 제기]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101349</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101349</guid>
+            <pubDate>Fri, 28 Oct 2022 06:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/dvd/2022/1028/11_30_46__635b3ed60c091[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: ‘수프와 이데올로기’ 양영희 감독과의 대화]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101353</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 14 Oct 2022 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cRsXNm/btrOCQ9LJ9M/mRWI7lkS9FuC8IgJDLkfvk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, TV와 극장을 넘보다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101225</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101225</guid>
-            <pubDate>Fri, 14 Oct 2022 07:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cXjXb8/btrOTuYqw7w/mZHh1Wy0BGU0CMUF4bKeqK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 문화체육관광위원회 국정감사 시작, 망 사용료와 사재기 논란 도마 위에⋯]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101224</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101224</guid>
-            <pubDate>Fri, 14 Oct 2022 07:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/nv8xR/btrOEhrxpwF/9MafdzIUh7oTVqFiodE8lK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
