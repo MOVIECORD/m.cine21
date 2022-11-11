@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 04:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 05:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 김세인 감독의 ‘같은 속옷을 입는 두 여자’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101422</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101422</guid>
+            <pubDate>Fri, 11 Nov 2022 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1111/11_19_36__636db1387e818[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 산다는 것에 대하여]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101385</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/Kta09/btrPy9tb1D7/wDV8SBqjxkSrtjrPDskaUk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] ‘인생대사’ 등 중국 본토 영화 잇달아 넷플릭스 공개]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101296</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101296</guid>
-            <pubDate>Mon, 24 Oct 2022 06:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/lIvzm/btrPpYzRTHa/7fH4Zbki5VT3bAaaSSoF8K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
