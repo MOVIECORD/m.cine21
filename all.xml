@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 08:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 09:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무비히어로 영화감상문 백일장] 고등부 대상작 홍성준 학생의 ‘쇼생크탈출’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101441</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101441</guid>
+            <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1111/18_04_10__636e100acec1c[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무비히어로 영화감상문 백일장] 중등부 대상작 양지훈 학생의 ‘미나리’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101440</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101440</guid>
+            <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1111/18_01_37__636e0f71869a6[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무비히어로 영화감상문 백일장] 초등부 대상작 오유성 학생의 ‘원더’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101439</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101439</guid>
+            <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1111/17_47_33__636e0c258482f[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 모든 길은 유튜브로 통할까? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101424</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 28 Oct 2022 06:18:45 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dranR0/btrPR6oCjks/Rw1KlHroyU8dKwZ24fUAv1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: ‘수프와 이데올로기’ 양영희 감독과의 대화 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101353</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101353</guid>
-            <pubDate>Fri, 28 Oct 2022 05:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/o4n3Y/btrPPwis7pS/YJDxAZc7WiKpwy2nslAWoK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 박송열 감독의 ‘낮에는 덥고 밤에는 춥고’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101352</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101352</guid>
-            <pubDate>Fri, 28 Oct 2022 05:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/qQ85C/btrPQdh4NIF/JVNmEbKAgmL6eIZMt6NCP0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘레이먼드 & 레이’ 배우 에단 호크, 이완 맥그리거, “가족은 인간 심리의 영역” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101300</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101300</guid>
-            <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/c20YGh/btrPyW1QzVu/uDqiuCYWp1D7x0TsAYllb1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
