@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 05:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 06:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 모든 길은 유튜브로 통할까? (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101424</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101424</guid>
+            <pubDate>Fri, 11 Nov 2022 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1111/11_30_20__636db3bca021b[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한해의 마무리는 독립영화와 함께 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101423</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101423</guid>
+            <pubDate>Fri, 11 Nov 2022 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1111/11_26_42__636db2e2d8122[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 김세인 감독의 ‘같은 속옷을 입는 두 여자’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101422</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/c20YGh/btrPyW1QzVu/uDqiuCYWp1D7x0TsAYllb1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘레이먼드 & 레이’ 로드리고 가르시아 감독, “미국적인, 지극히 미국적인” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101299</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101299</guid>
-            <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/n2VKJ/btrPB1i0X2b/KWMdPnKBk3qwnJK1xwXLZK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LA 현지보고, Apple TV+ ‘레이먼드 & 레이’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101298</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101298</guid>
-            <pubDate>Tue, 25 Oct 2022 07:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Kta09/btrPy9tb1D7/wDV8SBqjxkSrtjrPDskaUk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
