@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 07:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] '크리스마스 캐럴']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101475</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101475</guid>
+            <pubDate>Fri, 18 Nov 2022 07:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1118/11_53_35__6376f3af1d48b[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을에 들려온 봄볕 같은 수상 소식]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101474</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 31 Oct 2022 05:29:41 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/caGbq0/btrP6gLpjYU/eK3BRbLXUYuEEFB4fGLKVK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] '존 덴버 죽이기']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101354</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101354</guid>
-            <pubDate>Fri, 28 Oct 2022 07:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/HRfz3/btrPRBWxUxh/LtdKnZ8ctlCpEL8WkMb95K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
