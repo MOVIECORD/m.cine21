@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 06:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 07:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] ‘스트레인지 월드’ 돈 홀 감독, 퀴 응우옌 작가 겸 공동 감독, “제목 그 자체가 이 영화다” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101482</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101482</guid>
+            <pubDate>Tue, 22 Nov 2022 07:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/dvd/2022/1118/14_35_40__637719ac58b84[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[L.A.] 상상조차 불가한 낯선 세계로의 초대 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101481</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101481</guid>
+            <pubDate>Tue, 22 Nov 2022 07:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1118/14_31_51__637718c7eff92[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[L.A.] 악조건 속에서도 흥행 청신호 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101476</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Nov 2022 06:17:14 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/0ICSY/btrQpVa3psq/Iv0a69lWy9GqLJZvreNDfK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] ‘고속도로 가족’ 정일우, 김슬기 배우, 이상문 감독과 함께한 트위터 블루룸 라이브 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101383</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101383</guid>
-            <pubDate>Fri, 04 Nov 2022 05:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Ba5OD/btrQp6QUFgt/AOIxSsq97XaKJ3XmTItnCk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨네21, 언론진흥재단의 인권증진보도 프로젝트 ‘어느 신인 작가의 고백’ 공개 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101365</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101365</guid>
-            <pubDate>Tue, 01 Nov 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bObUDT/btrP9ARrJI4/JElpx4W2ao8ITHub1zRkzK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
