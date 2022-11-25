@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 14:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 15:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101512</guid>
             <pubDate>Fri, 25 Nov 2022 06:15:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1125/14_28_43__6380528bd3910[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/oM66K/btrSaIMGT6E/gv1jwa79XAqz7s9vFSf5M1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K콘텐츠, 국제 에미상에서도 통했다]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101511</guid>
             <pubDate>Fri, 25 Nov 2022 06:15:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1125/14_22_09__63805101c26b0[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/8WVs6/btrR9F39d4y/22bYBlDBmsLRTAyUSC6eBK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스]‘동감’ 서은영 감독과의 대화]]></title>
