@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 14:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 15:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101510</guid>
             <pubDate>Fri, 25 Nov 2022 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1125/14_18_47__638050379aee7[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/qdKja/btrR8xzEJPU/4JaAgOnGwdqdSAXYyNzo7K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 밥 아이거의 복귀와 디즈니의 미래 (씨네21 모바일)]]></title>
@@ -37,7 +37,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101509</guid>
             <pubDate>Fri, 25 Nov 2022 05:11:07 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1125/11_45_10__63802c36c018b[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/Cy7wE/btrR9jgDTuu/KkiWGQ1WsHSndD1kLbkIPk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘스트레인지 월드’ 돈 홀 감독, 퀴 응우옌 작가 겸 공동 감독, “제목 그 자체가 이 영화다” (씨네21 모바일)]]></title>
