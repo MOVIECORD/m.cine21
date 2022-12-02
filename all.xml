@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 05:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 06:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니의 야심찬 2023 라인업 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101562</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101562</guid>
+            <pubDate>Fri, 02 Dec 2022 06:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1202/15_07_43__6389962f3bc8a[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 소설 '랑과 나의 사막' 펴낸 천선란 작가 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101558</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bMKTM7/btrQ1fygWGm/qk39UWvSIPZA6dfKC2ojUK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비히어로 영화감상문 백일장] 중등부 대상작 양지훈 학생의 ‘미나리’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101440</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101440</guid>
-            <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dxQqnt/btrQ1f57e1m/9hLhfKQUGqE0x2JLoaJso1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
