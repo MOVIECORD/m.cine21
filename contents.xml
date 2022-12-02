@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 다혜리의 작업실: 소설 '랑과 나의 사막' 펴낸 천선란 작가]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101558</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101558</guid>
+            <pubDate>Fri, 02 Dec 2022 05:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1202/11_49_17__638967adc20e6[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베를린] 자유를 꿈꾸다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101513</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dxQqnt/btrQ1f57e1m/9hLhfKQUGqE0x2JLoaJso1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비히어로 영화감상문 백일장] 초등부 대상작 오유성 학생의 ‘원더’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101439</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101439</guid>
-            <pubDate>Fri, 11 Nov 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/xAVIn/btrQ1mjNEkF/xeVqwaflZIMg9Pkvbcvu1K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
