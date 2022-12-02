@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 08:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 09:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아듀 고다르: 장 뤽 고다르 특별전 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101559</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101559</guid>
+            <pubDate>Fri, 02 Dec 2022 09:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1202/12_43_44__6389747003093[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] '영웅' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101561</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 18 Nov 2022 06:16:34 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/befLgc/btrRyZQIRyW/r0z0w8bv20bOB36s0TLJ20/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨네21 보도 ‘어느 신인 작가의 고백’, 2022년 10월 민주언론실천상 수상 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101447</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101447</guid>
-            <pubDate>Mon, 14 Nov 2022 08:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bV86BB/btrRcGDA5sl/LKBTq0VkZPB1cdnkrWACf0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
