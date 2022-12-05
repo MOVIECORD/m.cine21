@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 14:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101563</guid>
             <pubDate>Mon, 05 Dec 2022 05:11:15 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1202/15_12_36__638997543e533[X640,380].jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bAU34A/btrSUIzjfDO/TJxwbp5kmPGIVkmLD51aNK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아듀 고다르: 장 뤽 고다르 특별전]]></title>
