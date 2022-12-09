@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 06:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 07:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] '3000년의 기다림' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101615</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101615</guid>
+            <pubDate>Fri, 09 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1209/14_12_35__6392c3c31d08c[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독립영화의 미래가 이들에게 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101614</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101614</guid>
+            <pubDate>Fri, 09 Dec 2022 07:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1209/14_07_40__6392c29c21cee[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 오픈AI가 제시한 미디어의 미래 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101612</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 25 Nov 2022 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/qdKja/btrR8xzEJPU/4JaAgOnGwdqdSAXYyNzo7K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 밥 아이거의 복귀와 디즈니의 미래 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101512</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101512</guid>
-            <pubDate>Fri, 25 Nov 2022 06:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/oM66K/btrSaIMGT6E/gv1jwa79XAqz7s9vFSf5M1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K콘텐츠, 국제 에미상에서도 통했다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101511</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101511</guid>
-            <pubDate>Fri, 25 Nov 2022 06:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/8WVs6/btrR9F39d4y/22bYBlDBmsLRTAyUSC6eBK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
