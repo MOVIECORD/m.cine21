@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 04:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 05:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] ‘크리스마스 캐럴’ 트위터 블루룸 라이브 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101610</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101610</guid>
+            <pubDate>Fri, 09 Dec 2022 05:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1209/12_08_25__6392a6a97f790[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용필름, 박찬욱‧김지운‧방우리 감독 차기작 제작한다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101608</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 22 Nov 2022 07:12:49 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/b88ZSh/btrRQ539A6J/QApucPtjFE93Od4ezWPTs0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[L.A.] 상상조차 불가한 낯선 세계로의 초대 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101481</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101481</guid>
-            <pubDate>Tue, 22 Nov 2022 07:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/ltSc2/btrRRvuNyRW/OEoi44gUxGinY0WTeGYvCk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
