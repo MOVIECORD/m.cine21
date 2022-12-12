@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 04:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] 베스트 목록에도 변화의 바람이]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101613</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101613</guid>
+            <pubDate>Mon, 12 Dec 2022 05:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2022/1209/14_01_12__6392c118dcc40[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] '3000년의 기다림']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101615</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Nov 2022 00:56:31 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cQEpWj/btrSlYbpc0z/DABNAkleNThEKurKY8nevK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] '아바타: 물의 길']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101510</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101510</guid>
-            <pubDate>Fri, 25 Nov 2022 07:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/qdKja/btrR8xzEJPU/4JaAgOnGwdqdSAXYyNzo7K/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
