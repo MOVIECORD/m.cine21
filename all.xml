@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 05:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101614</guid>
             <pubDate>Fri, 09 Dec 2022 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bLsaXL/btrThkEItk1/HTYxB3eiMISdj8djCKUxWK/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1213/14_30_36__63980dfc87120[X640,380].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 오픈AI가 제시한 미디어의 미래 (씨네21 모바일)]]></title>
