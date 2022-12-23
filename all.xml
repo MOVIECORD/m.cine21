@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 06:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 07:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] '유령' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101727</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101727</guid>
+            <pubDate>Fri, 23 Dec 2022 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1223/13_15_59__63a52b7f9a9f5[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특수영상 산업의 미래를 꿈꾼다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101726</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 06 Dec 2022 07:10:58 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/56xCM/btrSZ0teLBQ/ygJSmkcc67YyvV5L0ud7C1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 전설의 시작 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101563</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101563</guid>
-            <pubDate>Mon, 05 Dec 2022 05:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bAU34A/btrSUIzjfDO/TJxwbp5kmPGIVkmLD51aNK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
