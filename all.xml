@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 14:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101726</guid>
             <pubDate>Fri, 23 Dec 2022 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1223/13_12_12__63a52a9cdcccf[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/lbvL4/btrUuh8ovZt/SP8obfAWRGOXJXyOfokAqK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 2023년 글로벌 OTT 시장 전망 (씨네21 모바일)]]></title>
