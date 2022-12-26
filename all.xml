@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 04:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 05:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 역사와 진보 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101730</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101730</guid>
+            <pubDate>Mon, 26 Dec 2022 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1223/13_27_43__63a52e3f7eee4[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] '유령' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101727</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 08 Dec 2022 07:10:48 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/tw6wO/btrTaLvXehV/T7TK8DoPtQpz3szNGRQEOK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현지보고] Apple TV+ ‘슬로 호시스’ 시즌2, 배우 게리 올드먼, 잭 로던, 사스키아 리브스 인터뷰 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101572</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101572</guid>
-            <pubDate>Tue, 06 Dec 2022 07:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/56xCM/btrSZ0teLBQ/ygJSmkcc67YyvV5L0ud7C1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
