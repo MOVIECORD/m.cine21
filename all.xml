@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 07:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 08:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] '유랑의 달' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101767</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101767</guid>
+            <pubDate>Fri, 30 Dec 2022 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2022/1230/11_12_57__63ae49295305b[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영진위 예산 줄고, 한류 콘텐츠와 OTT 예산 늘었다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101766</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 09 Dec 2022 06:14:43 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ozkWQ/btrThyJFdgJ/GTHC9qekJZGKpyJ5p3x2Fk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] ‘크리스마스 캐럴’ 트위터 블루룸 라이브 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101610</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101610</guid>
-            <pubDate>Fri, 09 Dec 2022 05:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cuxnt9/btrTfZ9CGAi/tBYAkLAHg1XltHiDOlT2hK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
