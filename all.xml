@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 05:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 06:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영진위 예산 줄고, 한류 콘텐츠와 OTT 예산 늘었다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101766</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101766</guid>
+            <pubDate>Fri, 30 Dec 2022 06:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2022/1230/11_11_04__63ae48b84e741[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 역사와 진보 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101730</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 09 Dec 2022 05:10:53 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cuxnt9/btrTfZ9CGAi/tBYAkLAHg1XltHiDOlT2hK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용필름, 박찬욱‧김지운‧방우리 감독 차기작 제작한다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101608</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101608</guid>
-            <pubDate>Thu, 08 Dec 2022 07:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/tw6wO/btrTaLvXehV/T7TK8DoPtQpz3szNGRQEOK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
