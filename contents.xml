@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 춘절 연휴 극장가에 부는 기대감]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101813</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101813</guid>
+            <pubDate>Mon, 09 Jan 2023 05:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0106/15_27_30__63b7bf52f0a30[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] '메간']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101810</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 12 Dec 2022 08:15:46 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/8B5cr/btrToawk0Fn/iy3iTpS1mb8Q9I8iLe6sCk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] 베스트 목록에도 변화의 바람이]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101613</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101613</guid>
-            <pubDate>Mon, 12 Dec 2022 05:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/c3y8Gj/btrTmYQnKr5/5CVCEl2OHCWKK90v61MzXK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
