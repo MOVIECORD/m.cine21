@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 04:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 05:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로마] 잠시 멈추어 서서]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101852</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101852</guid>
+            <pubDate>Mon, 16 Jan 2023 05:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0113/15_50_21__63c0ff2d00439[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[comming soon] '바빌론']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101848</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 23 Dec 2022 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/l4Gce/btrUtLuXkpw/nJsKhJ3X5Auf2DBXuBrS4K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 김혜리의 랑데부 : 파니 리에타르, 제레미 투루일 감독의 ‘가가린’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101723</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101723</guid>
-            <pubDate>Fri, 23 Dec 2022 05:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bHPWvp/btrUti0RwrP/ATzDlVlXeknqjpcI1vvgp1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
