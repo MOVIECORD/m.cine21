@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 06:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 07:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] '앤트맨과 와스프: 퀀텀매니아' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101896</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101896</guid>
+            <pubDate>Fri, 20 Jan 2023 07:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/poster/2023/0119/18_28_54__63c90d56f182a[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['D.P.'와 '스위트홈'이 돌아온다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101894</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 30 Dec 2022 06:14:07 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cjZh8V/btrUWSAi43y/1b7PHoPkSO8qu6xfmValnK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] 역사와 진보 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101730</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101730</guid>
-            <pubDate>Mon, 26 Dec 2022 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/AIfRS/btrUyhnDDhc/1kSyLuK35u6iWKzeavppjk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
