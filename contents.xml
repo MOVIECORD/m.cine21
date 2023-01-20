@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 00:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 02:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화배우 윤정희 별세…향년 78]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101914</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101914</guid>
+            <pubDate>Fri, 20 Jan 2023 02:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/article/2023/0120/10_44_50__63c9f212b30bd[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ ENM, 대규모 조직 개편 단행… 영화사업부, 드라마도 기획 제작한다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101888</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 23 Dec 2022 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/lbvL4/btrUuh8ovZt/SP8obfAWRGOXJXyOfokAqK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 2023년 글로벌 OTT 시장 전망]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101725</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101725</guid>
-            <pubDate>Fri, 23 Dec 2022 06:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/yJArl/btrUtG8e3xT/74KSPKA1H00gSpKDpCN3G0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
