@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 14:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 15:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101896</guid>
             <pubDate>Fri, 20 Jan 2023 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/poster/2023/0119/18_28_54__63c90d56f182a[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cWObcB/btrXcflpGzt/m2xZjV1nbqWtNk0vi3iVR1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['D.P.'와 '스위트홈'이 돌아온다]]></title>
