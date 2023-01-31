@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 14:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 15:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101926</guid>
             <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0127/09_19_59__63d318af7ae12[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/RrMJk/btrXIzjN2x4/aMJ5XkLzoEMigbPF7cyIVK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1920년대 할리우드의 열기와 광기, 데이미언 셔젤 감독 ‘바빌론’ (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101925</guid>
             <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0127/09_16_03__63d317c3637d7[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/MI8Z3/btrXGTcLR8Z/lK0OV5XbB0iqxHedOGWaQk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[L.A.] 절반의 성공 (씨네21 모바일)]]></title>
