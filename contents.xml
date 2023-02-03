@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 14:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 15:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101958</guid>
             <pubDate>Fri, 03 Feb 2023 06:14:49 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0203/12_03_05__63dc79693a0e0[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/sF7FD/btrX16oYjE2/8JFZ5FplobQbSDzCQfRmOk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꺾이지 않는 ‘슬램덩크’ 열풍]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=101957</guid>
             <pubDate>Fri, 03 Feb 2023 06:14:49 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0203/12_00_07__63dc78b76a56d[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/c8UmeZ/btrX2opj5iH/4DjzlG06BGgR8XHCKKUZKK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘바빌론’ 데이미언 셔젤 감독, “할리우드의 가장 중요한 특징은 불안과 공포”]]></title>
