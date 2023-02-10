@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 14:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 15:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102006</guid>
             <pubDate>Fri, 10 Feb 2023 07:11:12 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0210/13_50_56__63e5cd3011b33[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/r03cy/btrYTW5NPP0/Fq8NjMJ3OkiyFt55sQguok/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔터테인먼트 지형도가 달라진다 (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102005</guid>
             <pubDate>Fri, 10 Feb 2023 06:15:21 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0210/13_49_07__63e5ccc3c9faa[X640,380].JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://k.kakaocdn.net/dn/opjrs/btrYVgW2zd8/t03mDz9sdP21Bua5naOnK0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘다음 소희’ 배두나, 김시은 배우, 정주리 감독과의 트위터 토크룸 라이브 (씨네21 모바일)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102004</guid>
             <pubDate>Fri, 10 Feb 2023 05:11:32 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0210/13_44_22__63e5cba69c00e[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/kgBzX/btrYUTOnWgX/fr59w7EecoWoqnQVmN31tk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베를린] 제73회 베를린국제영화제 라인업 공개 (씨네21 모바일)]]></title>
