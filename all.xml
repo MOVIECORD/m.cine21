@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 14:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 15:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102013</guid>
             <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0210/14_53_20__63e5dbd0d308f[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bNf1Fi/btrZchPn6lQ/TkafXgwMRiLLTnAKOLqifk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현지보고] 사랑과 희생의 대서사시여, 다시 한번 (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102012</guid>
             <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0210/14_46_04__63e5da1c41917[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/npPnH/btrZcgXe6CX/d3KqGe5WV3l03ezoGsriAK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NEWYORK] 라오어 봤어? (씨네21 모바일)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102010</guid>
             <pubDate>Mon, 13 Feb 2023 05:11:28 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0210/14_37_54__63e5d8322ddf5[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/6Hlig/btrZc8LozLM/hbkuCmVI4Q0P6P7HtHE0QK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[coming soon] ‘대외비’ (씨네21 모바일)]]></title>
