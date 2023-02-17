@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 05:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 06:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 폭스의 비밀 무기, 투비]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102043</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102043</guid>
+            <pubDate>Fri, 17 Feb 2023 06:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/dvd/2023/0217/14_43_16__63ef13f46e39f[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독립영화를 부탁해]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102042</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102042</guid>
+            <pubDate>Fri, 17 Feb 2023 06:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0217/14_12_46__63ef0ccea1f21[X640,380].JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] ‘타이타닉: 25주년’ 제임스 카메론 감독, “25년 전, 밸런타인데이에 일일 흥행수익 최고를 기록했다”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102013</link>
@@ -80,20 +96,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/c8UmeZ/btrX2opj5iH/4DjzlG06BGgR8XHCKKUZKK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘바빌론’ 데이미언 셔젤 감독, “할리우드의 가장 중요한 특징은 불안과 공포”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101926</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101926</guid>
-            <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/RrMJk/btrXIzjN2x4/aMJ5XkLzoEMigbPF7cyIVK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1920년대 할리우드의 열기와 광기, 데이미언 셔젤 감독 ‘바빌론’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101925</link>
             <guid>http://m.cine21.com/news/view/?mag_id=101925</guid>
             <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/MI8Z3/btrXGTcLR8Z/lK0OV5XbB0iqxHedOGWaQk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] ‘바빌론’ 데이미언 셔젤 감독, “할리우드의 가장 중요한 특징은 불안과 공포”]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101926</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101926</guid>
+            <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/RrMJk/btrXIzjN2x4/aMJ5XkLzoEMigbPF7cyIVK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[L.A.] 절반의 성공]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 20 Jan 2023 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cWObcB/btrXcflpGzt/m2xZjV1nbqWtNk0vi3iVR1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['D.P.'와 '스위트홈'이 돌아온다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101894</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101894</guid>
-            <pubDate>Fri, 20 Jan 2023 06:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/enmvJD/btrWRWT00xa/fXwJ10ekPYTSd1sPwLaZA1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV ‘엄마의 땅: 그리샤와 숲의 주인’ 박재범 감독, 이윤지 미술감독과의 대화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101895</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101895</guid>
-            <pubDate>Fri, 20 Jan 2023 05:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bMPt8d/btrWRkOCg4X/9xO1lCh58L4tF70Trs9Kt1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
