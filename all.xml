@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 04:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 05:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] 영화 찍으러 영국에 오세요 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102048</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102048</guid>
+            <pubDate>Mon, 20 Feb 2023 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0217/15_52_18__63ef2422e2811[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] '콜 제인' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102044</link>
@@ -32,20 +40,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/cKTFW5/btrZIgcDEsh/iiSAKoH671HmBF0tNAHX40/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘타이타닉: 25주년’ 제임스 카메론 감독, “25년 전, 밸런타인데이에 일일 흥행수익 최고를 기록했다” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102013</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102013</guid>
-            <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bNf1Fi/btrZchPn6lQ/TkafXgwMRiLLTnAKOLqifk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현지보고] 사랑과 희생의 대서사시여, 다시 한번 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102012</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102012</guid>
             <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/npPnH/btrZcgXe6CX/d3KqGe5WV3l03ezoGsriAK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] ‘타이타닉: 25주년’ 제임스 카메론 감독, “25년 전, 밸런타인데이에 일일 흥행수익 최고를 기록했다” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102013</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102013</guid>
+            <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bNf1Fi/btrZchPn6lQ/TkafXgwMRiLLTnAKOLqifk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NEWYORK] 라오어 봤어? (씨네21 모바일)]]></title>
@@ -104,14 +112,6 @@
             <enclosure url="http://k.kakaocdn.net/dn/c8UmeZ/btrX2opj5iH/4DjzlG06BGgR8XHCKKUZKK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘바빌론’ 데이미언 셔젤 감독, “할리우드의 가장 중요한 특징은 불안과 공포” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101926</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101926</guid>
-            <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/RrMJk/btrXIzjN2x4/aMJ5XkLzoEMigbPF7cyIVK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1920년대 할리우드의 열기와 광기, 데이미언 셔젤 감독 ‘바빌론’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=101925</link>
             <guid>http://m.cine21.com/news/view/?mag_id=101925</guid>
@@ -120,12 +120,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/MI8Z3/btrXGTcLR8Z/lK0OV5XbB0iqxHedOGWaQk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[L.A.] 절반의 성공 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=101907</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=101907</guid>
-            <pubDate>Mon, 23 Jan 2023 05:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/250tO/btrWXiQKfhc/6VAKfkyHMDNjWcgkdVHiJK/img.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] ‘바빌론’ 데이미언 셔젤 감독, “할리우드의 가장 중요한 특징은 불안과 공포” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=101926</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=101926</guid>
+            <pubDate>Tue, 31 Jan 2023 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/RrMJk/btrXIzjN2x4/aMJ5XkLzoEMigbPF7cyIVK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
