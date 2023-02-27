@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 04:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 홈메이드 우주선으로 우주 정복하기 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102098</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102098</guid>
+            <pubDate>Mon, 27 Feb 2023 05:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0224/14_12_08__63f847280bf53[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[영화진흥위원회, 2022년 한국 영화산업 결산 발표 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102094</link>
@@ -32,20 +40,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/shFXQ/btr0HxDKtHM/8P6elK1GZ1QUZrdPMyqUI1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘샤퍼’ 세바스티안 스탄·브리아나 미들턴, “미스터리한 인물들에 끌렸다” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102059</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102059</guid>
+            <title><![CDATA[[현지보고] 누구도 믿지 말 것… 반전은 계속된다. Apple TV+ ‘샤퍼’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102056</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102056</guid>
             <pubDate>Tue, 21 Feb 2023 07:11:26 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/QbkUS/btr0fsiJCHz/bpU9LpeodKQ461CKx8uk30/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘샤퍼’ 줄리앤 무어, “연기는 심도 깊은 역할놀이다” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102058</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102058</guid>
-            <pubDate>Tue, 21 Feb 2023 07:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/doegaH/btr0h2XBesA/gxksMWitdH8hYondoMtqSk/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bYBUyJ/btr0frKS4xW/lPRwB7aVudkYLKwqiFpYYk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘샤퍼’ 벤자민 카론 감독, “의도적으로 장르를 숨겼다” (씨네21 모바일)]]></title>
@@ -56,12 +56,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/cXLShw/btr0hqxyeQE/etAycCk6KM6Sf4gcZ9zXP1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현지보고] 누구도 믿지 말 것… 반전은 계속된다. Apple TV+ ‘샤퍼’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102056</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102056</guid>
+            <title><![CDATA[[인터뷰] ‘샤퍼’ 줄리앤 무어, “연기는 심도 깊은 역할놀이다” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102058</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102058</guid>
             <pubDate>Tue, 21 Feb 2023 07:11:26 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bYBUyJ/btr0frKS4xW/lPRwB7aVudkYLKwqiFpYYk/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/doegaH/btr0h2XBesA/gxksMWitdH8hYondoMtqSk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] ‘샤퍼’ 세바스티안 스탄·브리아나 미들턴, “미스터리한 인물들에 끌렸다” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102059</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102059</guid>
+            <pubDate>Tue, 21 Feb 2023 07:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/QbkUS/btr0fsiJCHz/bpU9LpeodKQ461CKx8uk30/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[런던] 영화 찍으러 영국에 오세요 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 13 Feb 2023 05:11:28 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/6Hlig/btrZc8LozLM/hbkuCmVI4Q0P6P7HtHE0QK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] ‘대외비’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102006</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102006</guid>
-            <pubDate>Fri, 10 Feb 2023 07:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/r03cy/btrYTW5NPP0/Fq8NjMJ3OkiyFt55sQguok/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
