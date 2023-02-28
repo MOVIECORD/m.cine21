@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현지보고] Apple TV+ ‘리에종’의 배우 겸 프로듀서 뱅상 카셀 인터뷰]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102100</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102100</guid>
+            <pubDate>Tue, 28 Feb 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0224/14_22_37__63f8499db0646[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 홈메이드 우주선으로 우주 정복하기]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102098</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/npPnH/btrZcgXe6CX/d3KqGe5WV3l03ezoGsriAK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NEWYORK] 라오어 봤어?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102010</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102010</guid>
-            <pubDate>Mon, 13 Feb 2023 05:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/6Hlig/btrZc8LozLM/hbkuCmVI4Q0P6P7HtHE0QK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
