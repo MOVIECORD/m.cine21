@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 14:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102134</guid>
             <pubDate>Fri, 03 Mar 2023 07:11:27 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/still/2023/0303/14_51_25__64018add05642[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/O5x0X/btr1UtGTeKa/ZIk9vzuhUgAZIWEg8UI3kK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제21회 디렉터스컷 어워즈 이모저모 ① (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102133</guid>
             <pubDate>Fri, 03 Mar 2023 07:11:27 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0303/14_41_46__6401889a87152[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cSSP6g/btr1QyuTy26/qTh09zKWoAZNBq4kMaYCwk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 워너브러더스 디스커버리, 살아남으려면 수익이 먼저 (씨네21 모바일)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102132</guid>
             <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0303/14_37_22__640187927a9f6[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/oseVA/btr1Xx9zuPu/gVD534U5f0J1GfZJRyvnqk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화제에 부는 교체 바람 (씨네21 모바일)]]></title>
@@ -37,7 +37,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102131</guid>
             <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0303/14_34_46__640186f6cca6c[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bh4jxM/btr1XytSp1f/SgE4Gydl7gF5Z1DLFk3L4K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현지보고] Apple TV+ ‘리에종’의 배우 겸 프로듀서 뱅상 카셀 인터뷰 (씨네21 모바일)]]></title>
