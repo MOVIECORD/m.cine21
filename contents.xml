@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 05:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 06:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 워너브러더스 디스커버리, 살아남으려면 수익이 먼저]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102132</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102132</guid>
+            <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0303/14_37_22__640187927a9f6[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화제에 부는 교체 바람]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102131</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102131</guid>
+            <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0303/14_34_46__640186f6cca6c[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현지보고] Apple TV+ ‘리에종’의 배우 겸 프로듀서 뱅상 카셀 인터뷰]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102100</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 17 Feb 2023 06:15:34 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cKTFW5/btrZIgcDEsh/iiSAKoH671HmBF0tNAHX40/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘타이타닉: 25주년’ 제임스 카메론 감독, “25년 전, 밸런타인데이에 일일 흥행수익 최고를 기록했다”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102013</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102013</guid>
-            <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bNf1Fi/btrZchPn6lQ/TkafXgwMRiLLTnAKOLqifk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현지보고] 사랑과 희생의 대서사시여, 다시 한번]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102012</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102012</guid>
-            <pubDate>Mon, 13 Feb 2023 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/npPnH/btrZcgXe6CX/d3KqGe5WV3l03ezoGsriAK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
