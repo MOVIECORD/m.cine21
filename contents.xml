@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 04:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 05:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 중국 극장가의 봄, 영화로 꽃피우다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102284</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102284</guid>
+            <pubDate>Mon, 20 Mar 2023 05:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0317/14_01_08__6413f4144a9cc[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부고] 이강현 감독 ‘파산의 기술’ ‘보라’ ‘얼굴들’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102274</link>
@@ -56,20 +64,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/cSSP6g/btr1QyuTy26/qTh09zKWoAZNBq4kMaYCwk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 워너브러더스 디스커버리, 살아남으려면 수익이 먼저]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102132</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102132</guid>
-            <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/oseVA/btr1Xx9zuPu/gVD534U5f0J1GfZJRyvnqk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영화제에 부는 교체 바람]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102131</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102131</guid>
             <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bh4jxM/btr1XytSp1f/SgE4Gydl7gF5Z1DLFk3L4K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 워너브러더스 디스커버리, 살아남으려면 수익이 먼저]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102132</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102132</guid>
+            <pubDate>Fri, 03 Mar 2023 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/oseVA/btr1Xx9zuPu/gVD534U5f0J1GfZJRyvnqk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현지보고] Apple TV+ ‘리에종’의 배우 겸 프로듀서 뱅상 카셀 인터뷰]]></title>
@@ -112,20 +120,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/shFXQ/btr0HxDKtHM/8P6elK1GZ1QUZrdPMyqUI1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘샤퍼’ 세바스티안 스탄·브리아나 미들턴, “미스터리한 인물들에 끌렸다”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102059</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102059</guid>
-            <pubDate>Tue, 21 Feb 2023 07:11:26 GMT</pubDate>
+            <title><![CDATA[[현지보고] 누구도 믿지 말 것… 반전은 계속된다. Apple TV+ ‘샤퍼’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102056</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102056</guid>
+            <pubDate>Mon, 20 Mar 2023 05:11:53 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/QbkUS/btr0fsiJCHz/bpU9LpeodKQ461CKx8uk30/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘샤퍼’ 줄리앤 무어, “연기는 심도 깊은 역할놀이다”]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102058</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102058</guid>
-            <pubDate>Tue, 21 Feb 2023 07:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/doegaH/btr0h2XBesA/gxksMWitdH8hYondoMtqSk/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bYBUyJ/btr0frKS4xW/lPRwB7aVudkYLKwqiFpYYk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
