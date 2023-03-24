@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 06:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국영화 함께 살려요]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102320</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102320</guid>
+            <pubDate>Fri, 24 Mar 2023 06:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/article/2023/0324/07_48_10__641cd72a9f77e[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 중국 극장가의 봄, 영화로 꽃피우다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102284</link>
@@ -48,20 +56,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/bYwpLU/btr134nCMpc/uf6Cd3IvCgVP7o0WxCB9Yk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제21회 디렉터스컷 어워즈 이모저모 ②]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102134</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102134</guid>
-            <pubDate>Fri, 03 Mar 2023 07:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/O5x0X/btr1UtGTeKa/ZIk9vzuhUgAZIWEg8UI3kK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제21회 디렉터스컷 어워즈 이모저모 ①]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102133</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102133</guid>
             <pubDate>Fri, 03 Mar 2023 07:11:27 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cSSP6g/btr1QyuTy26/qTh09zKWoAZNBq4kMaYCwk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제21회 디렉터스컷 어워즈 이모저모 ②]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102134</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102134</guid>
+            <pubDate>Fri, 03 Mar 2023 07:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/O5x0X/btr1UtGTeKa/ZIk9vzuhUgAZIWEg8UI3kK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화제에 부는 교체 바람]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 24 Feb 2023 05:11:25 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/shFXQ/btr0HxDKtHM/8P6elK1GZ1QUZrdPMyqUI1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현지보고] 누구도 믿지 말 것… 반전은 계속된다. Apple TV+ ‘샤퍼’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102056</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102056</guid>
-            <pubDate>Mon, 20 Mar 2023 05:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bYBUyJ/btr0frKS4xW/lPRwB7aVudkYLKwqiFpYYk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
