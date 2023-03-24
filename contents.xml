@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 14:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102320</guid>
             <pubDate>Fri, 24 Mar 2023 06:14:25 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/article/2023/0324/07_48_10__641cd72a9f77e[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/c1LPMx/btr5NyemjGH/ekV18wM7CsJAKTwIIMIJNk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베이징] 중국 극장가의 봄, 영화로 꽃피우다]]></title>
