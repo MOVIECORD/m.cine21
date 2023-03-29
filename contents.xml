@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 14:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 15:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102376</guid>
             <pubDate>Wed, 29 Mar 2023 06:14:28 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0329/15_24_47__6423d9afd5b08[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/spPUM/btr6JpggLk0/0ZbiGSlQGlIRFskSk6kF0K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘던전 앤 드래곤: 도적들의 명예’ 배우 및 제작진 인터뷰]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102341</guid>
             <pubDate>Tue, 28 Mar 2023 07:13:30 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0327/13_30_14__64211bd671b87[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/brU4LI/btr6N4o1kRq/53KjKpVg0vMoMEBOBYAvBk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중세 판타지의 쾌감 속으로: ‘던전 앤 드래곤: 도적들의 명예’ 현지보고]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102340</guid>
             <pubDate>Tue, 28 Mar 2023 07:13:30 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0327/13_26_28__64211af4b5a62[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/b3xjBu/btr6QqSbKwX/1vLPAS9EG1PwlJ55Qu4DIK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로마] 오래전 믹스 테이프의 추억]]></title>
