@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 14:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 15:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102383</guid>
             <pubDate>Fri, 31 Mar 2023 06:14:43 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0331/09_10_49__6426250911e33[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/r8HGs/btr7eaJAVJH/D8vU9c7sqb9JPtXeFAoPXk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄의 전주에서 만나요]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102382</guid>
             <pubDate>Fri, 31 Mar 2023 06:14:43 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0331/09_07_38__6426244a15177[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cDMYeV/btr7g8p8PVN/rcXW5WZMX5fvnGpKkmhGi1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘흐르다’ 김현정 감독, 이설 배우와의 대화]]></title>
