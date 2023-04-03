@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 14:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 15:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102384</guid>
             <pubDate>Mon, 03 Apr 2023 05:10:44 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0331/14_19_21__64266d597e0de[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cBUHWa/btr7TZyVEM4/s7zBPasj0h6DgSxN1weueK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알림 ● 제28회 '씨네21' 영화평론상 공모]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102387</guid>
             <pubDate>Mon, 03 Apr 2023 01:59:28 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0331/09_28_38__64262936664a1[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/J88Fy/btr7OPYpp9W/0ZAu7vZKnfse026HmJNhXk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄의 전주에서 만나요]]></title>
