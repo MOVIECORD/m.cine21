@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 06:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 07:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0407/14_16_07__642fa7175dc12[X640,380].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[트위터 토크룸] \'킬링 로맨스\', 트위터 토크룸 라이브]]></title>
+            <title><![CDATA[[트위터 토크룸] '킬링 로맨스', 트위터 토크룸 라이브]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102436</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102436</guid>
             <pubDate>Fri, 07 Apr 2023 05:10:35 GMT</pubDate>
