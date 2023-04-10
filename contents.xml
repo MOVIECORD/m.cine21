@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 04:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] '태양과 콘크리트', 소년들의 일탈, 우정, 고민]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102439</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102439</guid>
+            <pubDate>Mon, 10 Apr 2023 05:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0407/14_29_21__642faa3183ba3[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K무비 최고의 뉴스는?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102438</link>
@@ -48,20 +56,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/J88Fy/btr7OPYpp9W/0ZAu7vZKnfse026HmJNhXk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄의 전주에서 만나요]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102382</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102382</guid>
-            <pubDate>Fri, 31 Mar 2023 06:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cDMYeV/btr7g8p8PVN/rcXW5WZMX5fvnGpKkmhGi1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 할리우드 박스오피스도 2분기가 중요하다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102383</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102383</guid>
             <pubDate>Fri, 31 Mar 2023 06:14:43 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/r8HGs/btr7eaJAVJH/D8vU9c7sqb9JPtXeFAoPXk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄의 전주에서 만나요]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102382</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102382</guid>
+            <pubDate>Fri, 31 Mar 2023 06:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cDMYeV/btr7g8p8PVN/rcXW5WZMX5fvnGpKkmhGi1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘흐르다’ 김현정 감독, 이설 배우와의 대화]]></title>
@@ -88,20 +96,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/spPUM/btr6JpggLk0/0ZbiGSlQGlIRFskSk6kF0K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중세 판타지의 쾌감 속으로: ‘던전 앤 드래곤: 도적들의 명예’ 현지보고]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102340</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102340</guid>
-            <pubDate>Tue, 28 Mar 2023 07:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/b3xjBu/btr6QqSbKwX/1vLPAS9EG1PwlJ55Qu4DIK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] ‘던전 앤 드래곤: 도적들의 명예’ 배우 및 제작진 인터뷰]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102341</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102341</guid>
             <pubDate>Tue, 28 Mar 2023 07:13:30 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/brU4LI/btr6N4o1kRq/53KjKpVg0vMoMEBOBYAvBk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중세 판타지의 쾌감 속으로: ‘던전 앤 드래곤: 도적들의 명예’ 현지보고]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102340</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102340</guid>
+            <pubDate>Tue, 28 Mar 2023 07:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b3xjBu/btr6QqSbKwX/1vLPAS9EG1PwlJ55Qu4DIK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로마] 오래전 믹스 테이프의 추억]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 24 Mar 2023 06:14:25 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/c1LPMx/btr5NyemjGH/ekV18wM7CsJAKTwIIMIJNk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] 중국 극장가의 봄, 영화로 꽃피우다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102284</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102284</guid>
-            <pubDate>Mon, 20 Mar 2023 05:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/FeUAq/btr414jsdIT/oB6Lf5rPJF0XgraKL1SWGK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
