@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 14:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 15:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102488</guid>
             <pubDate>Fri, 14 Apr 2023 07:10:21 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0414/15_44_23__6438f6478abd5[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/bfMlMT/btsaiqhuoIn/NyKEdfjotj2wRmK0qZzPT1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 미디어 공룡의 합작품 ‘맥스’가 온다 (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102486</guid>
             <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0414/14_49_02__6438e94e62993[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/IG18T/btsakhxtspl/NRBsP2u5Est5XSRohPlG1K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김지운 감독 <거미집>과 송중기 주연 <화란>, 칸 간다 (씨네21 모바일)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102485</guid>
             <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0414/14_31_30__6438e5326678b[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/VAKfY/btsal36ETzm/9fhYuzvPXJLY7ToWwpohcK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베를린] '태양과 콘크리트', 소년들의 일탈, 우정, 고민 (씨네21 모바일)]]></title>
