@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 14:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102550</guid>
             <pubDate>Fri, 21 Apr 2023 08:15:09 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0421/14_18_20__64421c9c258cd[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/cGNYuw/btsbT2yLUKg/bIelzDgQ4wXFLUGuezrh4k/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming soon] ‘슬픔의 삼각형’ (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102551</guid>
             <pubDate>Fri, 21 Apr 2023 07:10:08 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0421/14_32_07__64421fd7dc93c[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/VQj9P/btsbQGEfUzH/FmRteGg3y2BeuSuHpSw8q1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강수연 배우 1주기 추모전 ‘강수연, 영화롭게 오랫동안’ (씨네21 모바일)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102548</guid>
             <pubDate>Fri, 21 Apr 2023 06:14:18 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0421/12_01_18__6441fc7e3ebf8[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/A0q45/btsbTnXGdzz/CEwBAS3iQ4BrS5qBPkSf0k/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴욕] ‘둠 제너레이션’, 진짜_진짜_최종.mov (씨네21 모바일)]]></title>
