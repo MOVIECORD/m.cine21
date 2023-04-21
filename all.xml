@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['가디언즈 오브 갤럭시: Volume 3', 월드 투어의 시작은 한국에서 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102550</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102550</guid>
+            <pubDate>Fri, 21 Apr 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0421/14_18_20__64421c9c258cd[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘슬픔의 삼각형’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102551</link>
@@ -40,20 +48,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/bfMlMT/btsaiqhuoIn/NyKEdfjotj2wRmK0qZzPT1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김지운 감독 <거미집>과 송중기 주연 <화란>, 칸 간다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102485</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102485</guid>
-            <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/VAKfY/btsal36ETzm/9fhYuzvPXJLY7ToWwpohcK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 미디어 공룡의 합작품 ‘맥스’가 온다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102486</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102486</guid>
             <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/IG18T/btsakhxtspl/NRBsP2u5Est5XSRohPlG1K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지운 감독 <거미집>과 송중기 주연 <화란>, 칸 간다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102485</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102485</guid>
+            <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/VAKfY/btsal36ETzm/9fhYuzvPXJLY7ToWwpohcK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베를린] '태양과 콘크리트', 소년들의 일탈, 우정, 고민 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 31 Mar 2023 06:14:43 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cDMYeV/btr7g8p8PVN/rcXW5WZMX5fvnGpKkmhGi1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘흐르다’ 김현정 감독, 이설 배우와의 대화 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102380</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102380</guid>
-            <pubDate>Thu, 30 Mar 2023 05:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bOcgHT/btr61ShingT/YkKPD0LiARScAUvmW7wvsk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
