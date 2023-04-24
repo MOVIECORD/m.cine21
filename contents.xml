@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102549</guid>
             <pubDate>Mon, 24 Apr 2023 05:10:39 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0421/12_12_53__6441ff35c8d88[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/jM15Q/btscfDsQjqc/nKY0teQRcVuMYUReJ4qlhk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가디언즈 오브 갤럭시: Volume 3', 월드 투어의 시작은 한국에서]]></title>
