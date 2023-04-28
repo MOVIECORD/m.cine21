@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 토크룸] '롱디', 트위터 토크룸 라이브]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102605</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102605</guid>
+            <pubDate>Fri, 28 Apr 2023 05:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0428/14_16_03__644b569383a76[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '폼 클레멘티프', 이상한 사람이 될 수 있는 건 아름다운 일]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102563</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102563</guid>
+            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dLQrxh/btscKFPRbY7/oKRjYSrIP2E9UeUQKmNweK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102562</link>
@@ -30,14 +46,6 @@
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '폼 클레멘티프', 이상한 사람이 될 수 있는 건 아름다운 일]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102563</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102563</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dLQrxh/btscKFPRbY7/oKRjYSrIP2E9UeUQKmNweK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[런던] ‘패딩턴’, 마멀레이드 샌드위치 먹을 수 있나요?]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 07 Apr 2023 06:14:21 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/wdX0T/btr8LsA4eJ0/OE8cpja2HKc7axLF11L6u1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추모] 작곡가, 피아니스트, 영화음악 감독 류이치 사카모토 (1952~2023)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102437</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102437</guid>
-            <pubDate>Fri, 07 Apr 2023 06:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/DjVS0/btr8OVa8YUo/8rpOc0BRMsTdKcPqZBKbK0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
