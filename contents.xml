@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Comming Soon] 거신: 바람의 아이]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102604</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102604</guid>
+            <pubDate>Fri, 28 Apr 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0428/12_28_01__644b3d416f0c9[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 올해 밉티비의 주인공은 OTT와 패스트]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102603</link>
@@ -32,20 +40,20 @@
             <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0428/14_16_03__644b569383a76[X640,380].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102560</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102560</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102561</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102560</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102560</guid>
+            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 14 Apr 2023 07:10:21 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bfMlMT/btsaiqhuoIn/NyKEdfjotj2wRmK0qZzPT1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 미디어 공룡의 합작품 ‘맥스’가 온다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102486</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102486</guid>
-            <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/IG18T/btsakhxtspl/NRBsP2u5Est5XSRohPlG1K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김지운 감독 <거미집>과 송중기 주연 <화란>, 칸 간다]]></title>
