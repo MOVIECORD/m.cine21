@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 04:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 05:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 시니컬한 모던 카우보이로 재탄생한 3+1총사]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102602</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102602</guid>
+            <pubDate>Mon, 01 May 2023 05:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0428/12_07_42__644b387e6c7de[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Comming Soon] 거신: 바람의 아이]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102604</link>
@@ -40,12 +48,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/cr89p1/btsdc0gbKJn/hr1Mn2N4YbI9aPR3TwoWRK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102561</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
+            <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102562</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102562</guid>
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/EaT4z/btscBDl1JVs/PgTGc6NnuCekef35ILlFeK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트]]></title>
@@ -56,12 +64,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102562</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102562</guid>
+            <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102561</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/EaT4z/btscBDl1JVs/PgTGc6NnuCekef35ILlFeK/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '폼 클레멘티프', 이상한 사람이 될 수 있는 건 아름다운 일]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 14 Apr 2023 07:10:21 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bfMlMT/btsaiqhuoIn/NyKEdfjotj2wRmK0qZzPT1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지운 감독 <거미집>과 송중기 주연 <화란>, 칸 간다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102485</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102485</guid>
-            <pubDate>Fri, 14 Apr 2023 06:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/VAKfY/btsal36ETzm/9fhYuzvPXJLY7ToWwpohcK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
