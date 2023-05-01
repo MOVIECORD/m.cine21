@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 06:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 07:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102602</guid>
             <pubDate>Mon, 01 May 2023 05:10:24 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0428/12_07_42__644b387e6c7de[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/ba4gbS/btsdpzos1OK/y61wKkNYJKLVEWfas7QFkK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Comming Soon] 거신: 바람의 아이]]></title>
