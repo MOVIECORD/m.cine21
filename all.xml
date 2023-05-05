@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 07:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] 사랑하는 당신에게 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102654</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102654</guid>
+            <pubDate>Fri, 05 May 2023 08:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/HDLHE/btsdZOzk5uS/Kh88mk9sB8zAR5KjaaMpL1/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제24회 전주국제영화제 수상 결과 발표 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102653</link>
@@ -40,20 +48,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/bZ0TkV/btsddlRVlw1/CJStRy5ozX29KS04EcyrJk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 한국 콘텐츠에 4년간 25억달러 투자 계획 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102601</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102601</guid>
-            <pubDate>Fri, 28 Apr 2023 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/zaucq/btsddG2AH7y/KFyK3SkARE4bUUK4fq5lZK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 올해 밉티비의 주인공은 OTT와 패스트 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102603</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102603</guid>
             <pubDate>Fri, 28 Apr 2023 06:13:52 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/FdVsy/btsddlqSXgX/iNNJds9KMNC7deBNuyMvNK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, 한국 콘텐츠에 4년간 25억달러 투자 계획 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102601</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102601</guid>
+            <pubDate>Fri, 28 Apr 2023 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/zaucq/btsddG2AH7y/KFyK3SkARE4bUUK4fq5lZK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 토크룸] '롱디', 트위터 토크룸 라이브 (씨네21 모바일)]]></title>
@@ -64,20 +72,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/cr89p1/btsdc0gbKJn/hr1Mn2N4YbI9aPR3TwoWRK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102560</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102560</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102561</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102560</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102560</guid>
+            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 21 Apr 2023 07:10:08 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/VQj9P/btsbQGEfUzH/FmRteGg3y2BeuSuHpSw8q1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강수연 배우 1주기 추모전 ‘강수연, 영화롭게 오랫동안’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102548</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102548</guid>
-            <pubDate>Fri, 21 Apr 2023 06:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/A0q45/btsbTnXGdzz/CEwBAS3iQ4BrS5qBPkSf0k/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
