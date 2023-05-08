@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 04:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 제68회 필름페어어워즈와 살만 칸 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102658</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102658</guid>
+            <pubDate>Mon, 08 May 2023 05:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="http://image.cine21.com/resize/cine21/movie/2023/0504/16_49_57__645363a53ec48[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] 사랑하는 당신에게 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102654</link>
@@ -72,14 +80,6 @@
             <enclosure url="http://k.kakaocdn.net/dn/cr89p1/btsdc0gbKJn/hr1Mn2N4YbI9aPR3TwoWRK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102561</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102560</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102560</guid>
@@ -94,6 +94,14 @@
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/EaT4z/btscBDl1JVs/PgTGc6NnuCekef35ILlFeK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102561</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
+            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '폼 클레멘티프', 이상한 사람이 될 수 있는 건 아름다운 일 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 21 Apr 2023 08:15:09 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cGNYuw/btsbT2yLUKg/bIelzDgQ4wXFLUGuezrh4k/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘슬픔의 삼각형’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102551</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102551</guid>
-            <pubDate>Fri, 21 Apr 2023 07:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/VQj9P/btsbQGEfUzH/FmRteGg3y2BeuSuHpSw8q1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
