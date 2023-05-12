@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨네스코프] 이토록 영화로운 그리움]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102704</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102704</guid>
+            <pubDate>Fri, 12 May 2023 08:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/rgNxJ/btse8iGffVs/iqce8dJUDuRTpChtq3JkI0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 오리지널 콘텐츠 줄이는 디즈니의 승부수]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102703</link>
@@ -72,14 +80,6 @@
             <enclosure url="http://k.kakaocdn.net/dn/bZ0TkV/btsddlRVlw1/CJStRy5ozX29KS04EcyrJk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 한국 콘텐츠에 4년간 25억달러 투자 계획]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102601</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102601</guid>
-            <pubDate>Fri, 28 Apr 2023 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/zaucq/btsddG2AH7y/KFyK3SkARE4bUUK4fq5lZK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 올해 밉티비의 주인공은 OTT와 패스트]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102603</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102603</guid>
@@ -88,12 +88,28 @@
             <enclosure url="http://k.kakaocdn.net/dn/FdVsy/btsddlqSXgX/iNNJds9KMNC7deBNuyMvNK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스, 한국 콘텐츠에 4년간 25억달러 투자 계획]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102601</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102601</guid>
+            <pubDate>Fri, 28 Apr 2023 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/zaucq/btsddG2AH7y/KFyK3SkARE4bUUK4fq5lZK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트위터 토크룸] '롱디', 트위터 토크룸 라이브]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102605</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102605</guid>
             <pubDate>Fri, 28 Apr 2023 05:10:22 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cr89p1/btsdc0gbKJn/hr1Mn2N4YbI9aPR3TwoWRK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102562</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102562</guid>
+            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/EaT4z/btscBDl1JVs/PgTGc6NnuCekef35ILlFeK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '폼 클레멘티프', 이상한 사람이 될 수 있는 건 아름다운 일]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102563</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102563</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dLQrxh/btscKFPRbY7/oKRjYSrIP2E9UeUQKmNweK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102562</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102562</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/EaT4z/btscBDl1JVs/PgTGc6NnuCekef35ILlFeK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
