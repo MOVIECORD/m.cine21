@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 06:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현지보고] ‘인어공주’ 핼리 베일리 인터뷰, 음악은 나의 첫사랑]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102718</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102718</guid>
+            <pubDate>Tue, 16 May 2023 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bXI9Qp/btsf3PQ3b6u/zWKraq3gdGi3gFJD2KkJ1K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현지보고] ‘인어공주’ 제작진 기자회견, 새로운 시대를 위한 전설의 귀환]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102717</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102717</guid>
+            <pubDate>Tue, 16 May 2023 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/c8mKFW/btsf58JlhaS/K4t55r4eNM3fIozufOfidK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨네스코프] 이토록 영화로운 그리움]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102704</link>
@@ -104,28 +120,12 @@
             <enclosure url="http://k.kakaocdn.net/dn/cr89p1/btsdc0gbKJn/hr1Mn2N4YbI9aPR3TwoWRK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '캐런 길런', 선과 악을 동시에 지녀야 응원할 수 있는 캐릭터 된다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102562</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102562</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
+            <title><![CDATA[[인터뷰] '폼 클레멘티프', 이상한 사람이 될 수 있는 건 아름다운 일]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102563</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102563</guid>
+            <pubDate>Tue, 16 May 2023 08:13:57 GMT</pubDate>
             <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/EaT4z/btscBDl1JVs/PgTGc6NnuCekef35ILlFeK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현지보고] ‘고스팅’, 마음 맞는 사람들의 로맨틱 코미디 프로젝트]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102560</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102560</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/qhWqQ/btscHRwQiIb/mZAv88ME1ud9a2XAtE1beK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현지보고] ‘가디언즈 오브 갤럭시3’, 마지막이 될지도 모르는 모험]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102561</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102561</guid>
-            <pubDate>Tue, 25 Apr 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/kAPKr/btscGx6VSch/4qZkAft0em2rto6QaCZNmK/img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://k.kakaocdn.net/dn/dLQrxh/btscKFPRbY7/oKRjYSrIP2E9UeUQKmNweK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
