@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 04:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 05:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 토크룸] ‘스프린터’, 트위터 토크룸 라이브]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102785</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102785</guid>
+            <pubDate>Fri, 26 May 2023 05:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0526/11_08_29__6470149d99a58[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현지보고] 오토봇, 비스트, 인류는 어떻게 공존하는가, '트랜스포머: 비스트의 서막']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102756</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 01 May 2023 05:10:24 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ba4gbS/btsdpzos1OK/y61wKkNYJKLVEWfas7QFkK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Comming Soon] 거신: 바람의 아이]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102604</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102604</guid>
-            <pubDate>Fri, 28 Apr 2023 07:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bZ0TkV/btsddlRVlw1/CJStRy5ozX29KS04EcyrJk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
