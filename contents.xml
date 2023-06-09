@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 04:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 05:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘안나푸르나’ 황승재 감독, 김강현, 차선우 배우]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102878</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102878</guid>
+            <pubDate>Fri, 09 Jun 2023 05:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0609/11_55_27__6482949fc4334[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LA] ‘제로웨이스트’, 서울국제환경영화제에서도 만나요!]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102837</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 12 May 2023 08:13:32 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/606/647f931004d5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 오리지널 콘텐츠 줄이는 디즈니의 승부수]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102703</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102703</guid>
-            <pubDate>Fri, 12 May 2023 06:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/599/647f930f08ddb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
