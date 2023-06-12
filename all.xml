@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 04:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 05:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] ‘더 티처스 라운지’ 호평 속 상영, 공동체에 대하여 묻다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102881</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102881</guid>
+            <pubDate>Mon, 12 Jun 2023 05:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0609/12_16_31__6482998f03c02[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] OTT와 극장의 미래를 보여줄 애플의 ‘비전 프로’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102880</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 May 2023 05:10:26 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/918/647f9343f1e72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현지보고] ‘인어공주’ 제작진 기자회견, 새로운 시대를 위한 전설의 귀환 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102717</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102717</guid>
-            <pubDate>Tue, 16 May 2023 08:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[현지보고]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/756/647f93288f68f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
