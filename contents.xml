@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 06:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 07:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=102924</guid>
             <pubDate>Fri, 16 Jun 2023 06:14:26 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/992/648bfcce6c1db.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/934/648c06b7e8c4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘귀공자’, 트위터 토크룸 라이브]]></title>
