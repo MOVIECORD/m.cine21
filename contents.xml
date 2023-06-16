@@ -4,16 +4,24 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유령 상영 관행 수면 위로 떠올라… 경찰, 멀티플렉스 3사와 배급사 3사 압수수색]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102924</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102924</guid>
+            <pubDate>Fri, 16 Jun 2023 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/992/648bfcce6c1db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘귀공자’, 트위터 토크룸 라이브]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102923</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102923</guid>
             <pubDate>Fri, 16 Jun 2023 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0616/11_43_45__648bcc615aad7[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/125/648beed79215c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베를린] ‘더 티처스 라운지’ 호평 속 상영, 공동체에 대하여 묻다]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 22 May 2023 05:11:19 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/987/647f934fdd8b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 극장가는 ‘얼터콘텐츠’가 대세]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102748</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102748</guid>
-            <pubDate>Fri, 19 May 2023 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/927/647f9345dacb6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
