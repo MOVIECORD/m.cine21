@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 04:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 05:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 토크룸] ‘귀공자’, 트위터 토크룸 라이브 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102923</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102923</guid>
+            <pubDate>Fri, 16 Jun 2023 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0616/11_43_45__648bcc615aad7[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베를린] ‘더 티처스 라운지’ 호평 속 상영, 공동체에 대하여 묻다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102881</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 May 2023 06:13:28 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/927/647f9345dacb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV, <문재인입니다> 이창재 감독과의 대화 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102747</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102747</guid>
-            <pubDate>Fri, 19 May 2023 05:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/918/647f9343f1e72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
