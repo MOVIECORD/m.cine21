@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 06:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] HBO 콘텐츠 넷플로 가나?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102974</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102974</guid>
+            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/165/649537652efee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인천시, 퀴어영화 검열 논란]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102973</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102973</guid>
+            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/143/6495376044ffd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘라방’, 트위터 토크룸 라이브]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102972</link>
@@ -64,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/207/6486a9085c9fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아리 애스터 신작 ‘보 이즈 어프레이드’ 개막작 선정]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102879</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102879</guid>
-            <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/264/6482c26810aa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] OTT와 극장의 미래를 보여줄 애플의 ‘비전 프로’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102880</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102880</guid>
             <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/114/6482c26d5bc44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아리 애스터 신작 ‘보 이즈 어프레이드’ 개막작 선정]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102879</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102879</guid>
+            <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/264/6482c26810aa5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘안나푸르나’ 황승재 감독, 김강현, 차선우 배우]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 29 May 2023 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/259/647f93794d305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘플래시’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102789</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102789</guid>
-            <pubDate>Fri, 26 May 2023 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/194/647f936fdd053.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제 제3차 이사회 합의사항 발표]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102786</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102786</guid>
-            <pubDate>Fri, 26 May 2023 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/186/647f936eb5095.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
