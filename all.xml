@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 04:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 토크룸] ‘라방’, 트위터 토크룸 라이브 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102972</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102972</guid>
+            <pubDate>Fri, 23 Jun 2023 05:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/732/6495295de1623.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] ‘어른동화’ 감독 겸 작가, “잘못된 관행은 고쳐져야 한다” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102971</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102971</guid>
+            <pubDate>Fri, 23 Jun 2023 05:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/508/649529681e762.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현지보고] ‘크라우디드’, 착한 사람도 나쁜 의도를 지닐 수 있다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102940</link>
@@ -48,20 +64,20 @@
             <enclosure url="https://image.cine21.com/crop/data/207/6486a9085c9fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] OTT와 극장의 미래를 보여줄 애플의 ‘비전 프로’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102880</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102880</guid>
-            <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/114/6482c26d5bc44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아리 애스터 신작 ‘보 이즈 어프레이드’ 개막작 선정 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102879</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102879</guid>
             <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/264/6482c26810aa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] OTT와 극장의 미래를 보여줄 애플의 ‘비전 프로’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102880</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102880</guid>
+            <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/114/6482c26d5bc44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘안나푸르나’ 황승재 감독, 김강현, 차선우 배우 (씨네21 모바일)]]></title>
@@ -104,28 +120,12 @@
             <enclosure url="https://image.cine21.com/crop/data/194/647f936fdd053.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 미국작가조합 파업, 한국 콘텐츠 업계에 미칠 영향은 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102787</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102787</guid>
-            <pubDate>Fri, 26 May 2023 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/598/647f930edfcaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[부산국제영화제 제3차 이사회 합의사항 발표 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102786</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102786</guid>
             <pubDate>Fri, 26 May 2023 06:13:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/186/647f936eb5095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 토크룸] ‘스프린터’, 트위터 토크룸 라이브 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102785</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102785</guid>
-            <pubDate>Fri, 26 May 2023 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/177/647f936ccdb80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
