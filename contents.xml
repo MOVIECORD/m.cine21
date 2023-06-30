@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저작권법 개정 둘러싼 영상 창작단체와 플랫폼 연대 갈등 심화]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103027</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103027</guid>
+            <pubDate>Fri, 30 Jun 2023 06:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/045/649e71f1541ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] ‘생츄어리’ 호평 속 상영, 이토록 복잡한 에로스]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102975</link>
@@ -96,14 +104,6 @@
             <enclosure url="https://image.cine21.com/crop/data/207/6486a9085c9fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] OTT와 극장의 미래를 보여줄 애플의 ‘비전 프로’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102880</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102880</guid>
-            <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/114/6482c26d5bc44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아리 애스터 신작 ‘보 이즈 어프레이드’ 개막작 선정]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102879</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102879</guid>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/crop/data/264/6482c26810aa5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] OTT와 극장의 미래를 보여줄 애플의 ‘비전 프로’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102880</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102880</guid>
+            <pubDate>Fri, 09 Jun 2023 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/114/6482c26d5bc44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트위터 스페이스] 배동미·남선우의 TGV: ‘안나푸르나’ 황승재 감독, 김강현, 차선우 배우]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102878</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102878</guid>
             <pubDate>Fri, 09 Jun 2023 05:10:14 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/685/6482b4b25fe09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LA] ‘제로웨이스트’, 서울국제환경영화제에서도 만나요!]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102837</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102837</guid>
-            <pubDate>Mon, 05 Jun 2023 05:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/543/647f93a553370.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
