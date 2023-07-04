@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 06:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 07:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현지보고] ‘미션 임파서블: 데드 레코닝 PART ONE’, 작전은 계속되어야 한다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103034</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103034</guid>
+            <pubDate>Tue, 04 Jul 2023 07:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[현지보고]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/564/64a3c5e93c758.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“영화를 통해 국제인도법 이해했으면”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103057</link>
@@ -56,20 +64,20 @@
             <enclosure url="https://image.cine21.com/crop/data/961/6495455006168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] HBO 콘텐츠 넷플로 가나?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102974</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102974</guid>
-            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/165/649537652efee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인천시, 퀴어영화 검열 논란]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102973</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102973</guid>
             <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/143/6495376044ffd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] HBO 콘텐츠 넷플로 가나?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102974</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102974</guid>
+            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/165/649537652efee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘라방’, 트위터 토크룸 라이브]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Jun 2023 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/125/648beed79215c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베를린] ‘더 티처스 라운지’ 호평 속 상영, 공동체에 대하여 묻다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102881</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102881</guid>
-            <pubDate>Mon, 12 Jun 2023 05:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/207/6486a9085c9fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
