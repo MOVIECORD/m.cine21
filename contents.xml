@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 06:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 아마존 오리지널 제작의 행방은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103094</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103094</guid>
+            <pubDate>Fri, 07 Jul 2023 06:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/604/64a7ac78775b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 첫 천만 영화 탄생… '범죄도시3' 뒤를 이을 여름 대목의 승자는?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103093</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103093</guid>
+            <pubDate>Fri, 07 Jul 2023 06:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/371/64a7ac74a7fb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현지보고] ‘미션 임파서블: 데드 레코닝 PART ONE’, 작전은 계속되어야 한다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103034</link>
@@ -64,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/961/6495455006168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인천시, 퀴어영화 검열 논란]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102973</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102973</guid>
-            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/143/6495376044ffd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] HBO 콘텐츠 넷플로 가나?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102974</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102974</guid>
             <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/165/649537652efee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인천시, 퀴어영화 검열 논란]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102973</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102973</guid>
+            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/143/6495376044ffd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘라방’, 트위터 토크룸 라이브]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 16 Jun 2023 08:13:44 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/795/648c1918938d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유령 상영 관행 수면 위로 떠올라… 경찰, 멀티플렉스 3사와 배급사 3사 압수수색]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102924</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102924</guid>
-            <pubDate>Fri, 16 Jun 2023 06:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/934/648c06b7e8c4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트위터 토크룸] ‘귀공자’, 트위터 토크룸 라이브]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102923</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102923</guid>
-            <pubDate>Fri, 16 Jun 2023 05:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/125/648beed79215c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
