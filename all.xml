@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 05:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할리우드에 켜진 비상등, 미국 배우·방송인 노동조합(SAG-AFTRA) 파업 예고 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103142</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103142</guid>
+            <pubDate>Fri, 14 Jul 2023 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/037/64b0e6e27d8d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 프랑스 노동 운동의 어제와 오늘을 반영한 ‘에타블리’, 노동의 현실, 영화의 반영 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103096</link>
@@ -96,14 +104,6 @@
             <enclosure url="https://image.cine21.com/crop/data/961/6495455006168.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] HBO 콘텐츠 넷플로 가나? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102974</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102974</guid>
-            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/165/649537652efee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인천시, 퀴어영화 검열 논란 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=102973</link>
             <guid>http://m.cine21.com/news/view/?mag_id=102973</guid>
@@ -112,12 +112,12 @@
             <enclosure url="https://image.cine21.com/crop/data/143/6495376044ffd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포커스] ‘어른동화’ 감독 겸 작가, “잘못된 관행은 고쳐져야 한다” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102971</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102971</guid>
-            <pubDate>Fri, 23 Jun 2023 05:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/508/649529681e762.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[김조한의 OTT 인사이트] HBO 콘텐츠 넷플로 가나? (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=102974</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=102974</guid>
+            <pubDate>Fri, 23 Jun 2023 06:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/165/649537652efee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘라방’, 트위터 토크룸 라이브 (씨네21 모바일)]]></title>
