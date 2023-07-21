@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 05:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 06:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[추모] 영화처럼 살았다, 배우 제인 버킨 (1946~2023) (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103192</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103192</guid>
+            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/294/64ba217c9b460.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 계정 공유 유료화로 성장 동력 찾은 넷플릭스 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103190</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103190</guid>
+            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/063/64ba2177dd89f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁신위 출범한 부산국제영화제, 내홍 딛고 쇄신할까 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103189</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103189</guid>
+            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/175/64ba217252ce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 종교 갈등 부추기는 ‘케랄라 이야기’ 찬반 논쟁 가열, 논란의 극장가 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103143</link>
@@ -16,20 +40,20 @@
             <enclosure url="https://image.cine21.com/crop/data/392/64b4cd41b13c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[씨네스코프] ‘달짝지근해: 7510’ 촬영 현장, 달달한 만남 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103145</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103145</guid>
-            <pubDate>Fri, 14 Jul 2023 07:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/287/64b0f4ccf0fdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Coming soon] ‘더 문’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103144</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103144</guid>
             <pubDate>Fri, 14 Jul 2023 07:11:10 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/780/64b0f4cae11b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] ‘달짝지근해: 7510’ 촬영 현장, 달달한 만남 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103145</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103145</guid>
+            <pubDate>Fri, 14 Jul 2023 07:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/287/64b0f4ccf0fdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[할리우드에 켜진 비상등, 미국 배우·방송인 노동조합(SAG-AFTRA) 파업 예고 (씨네21 모바일)]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 30 Jun 2023 07:11:26 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/391/649e7fd675f47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저작권법 개정 둘러싼 영상 창작단체와 플랫폼 연대 갈등 심화 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103027</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103027</guid>
-            <pubDate>Fri, 30 Jun 2023 06:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/045/649e71f1541ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] ‘생츄어리’ 호평 속 상영, 이토록 복잡한 에로스 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102975</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102975</guid>
-            <pubDate>Mon, 26 Jun 2023 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/225/64991de247338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘바비’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=102976</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=102976</guid>
-            <pubDate>Fri, 23 Jun 2023 07:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/961/6495455006168.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
