@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] ‘콘크리트 유토피아’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103193</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103193</guid>
+            <pubDate>Fri, 21 Jul 2023 08:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/396/64ba2f65616b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[추모] 영화처럼 살았다, 배우 제인 버킨 (1946~2023) (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103192</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jul 2023 05:11:56 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/003/64a2584431acc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘더 썬’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103029</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103029</guid>
-            <pubDate>Fri, 30 Jun 2023 07:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/391/649e7fd675f47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
