@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 04:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 05:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 왕바오창 감독·주연한 ‘팔각롱중’ 흥행 돌풍, 정공법의 승리 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103191</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103191</guid>
+            <pubDate>Mon, 24 Jul 2023 05:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0721/10_59_47__64b9e693740b0[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘콘크리트 유토피아’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103193</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jul 2023 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/439/64a2952ddc71f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] AI가 영화 등급을 매길지도 모른다고? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103028</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103028</guid>
-            <pubDate>Mon, 03 Jul 2023 05:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/003/64a2584431acc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
