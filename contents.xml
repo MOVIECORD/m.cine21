@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 05:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 06:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=103234</guid>
             <pubDate>Mon, 31 Jul 2023 05:10:30 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0728/12_02_25__64c32fc1584c0[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/442/64c742542c6ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[COMING SOON] 지옥만세]]></title>
