@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 05:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 06:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] FIFA+ 방송 채널이 되다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103273</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103273</guid>
+            <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/195/64cc966c5d0ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제25회 서울국제여성영화제, ‘쇼잉 업’부터 ‘잔느 딜망’까지 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103272</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103272</guid>
+            <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/021/64cc9669330b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 미드나잇 인 로마, 로마와 비너스 신전에 설치된 야외 영화관에서 ‘쿼바디스?’ 상영회 열려 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103234</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 14 Jul 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/037/64b0e6e27d8d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] 프랑스 노동 운동의 어제와 오늘을 반영한 ‘에타블리’, 노동의 현실, 영화의 반영 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103096</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103096</guid>
-            <pubDate>Mon, 10 Jul 2023 05:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/259/64ab92df70668.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] ‘바비’, 핑크빛으로 물들다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103097</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103097</guid>
-            <pubDate>Fri, 07 Jul 2023 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/544/64a7ba6d8cfb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
