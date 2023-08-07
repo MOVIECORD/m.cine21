@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 04:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] 베를린국제영화제 구조조정과 위기, 섹션 및 상영작 축소… 비용 상승으로 인한 여파 거세]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103274</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103274</guid>
+            <pubDate>Mon, 07 Aug 2023 05:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0804/11_49_25__64cc67355a354[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] FIFA+ 방송 채널이 되다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103273</link>
@@ -72,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/396/64ba2f65616b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혁신위 출범한 부산국제영화제, 내홍 딛고 쇄신할까]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103189</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103189</guid>
-            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/175/64ba217252ce7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 계정 공유 유료화로 성장 동력 찾은 넷플릭스]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103190</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103190</guid>
             <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/063/64ba2177dd89f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁신위 출범한 부산국제영화제, 내홍 딛고 쇄신할까]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103189</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103189</guid>
+            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/175/64ba217252ce7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추모] 영화처럼 살았다, 배우 제인 버킨 (1946~2023)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 14 Jul 2023 07:11:10 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/780/64b0f4cae11b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드에 켜진 비상등, 미국 배우·방송인 노동조합(SAG-AFTRA) 파업 예고]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103142</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103142</guid>
-            <pubDate>Fri, 14 Jul 2023 06:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/037/64b0e6e27d8d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
