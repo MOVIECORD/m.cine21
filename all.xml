@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 09:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 10:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=103299</guid>
             <pubDate>Tue, 08 Aug 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0808/17_16_17__64d1f9d1e35aa[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/768/64d2068fe33f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베를린] 베를린국제영화제 구조조정과 위기, 섹션 및 상영작 축소… 비용 상승으로 인한 여파 거세 (씨네21 모바일)]]></title>
