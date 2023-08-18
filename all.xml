@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 07:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 08:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨네스코프] 숭실대학교 VS 서울예술대학교, 2023 대학 연기 배틀 현장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103346</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103346</guid>
+            <pubDate>Fri, 18 Aug 2023 08:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/543/64df195ec6f0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] '닌자터틀: 뮤턴트 대소동' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103345</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103345</guid>
+            <pubDate>Fri, 18 Aug 2023 08:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/909/64df195a55378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 지속된 파업, 미국 미디어 시장의 돌파구는? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103343</link>
@@ -64,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/267/64d07cd6da561.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] FIFA+ 방송 채널이 되다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103273</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103273</guid>
-            <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/195/64cc966c5d0ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제25회 서울국제여성영화제, ‘쇼잉 업’부터 ‘잔느 딜망’까지 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103272</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103272</guid>
             <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/021/64cc9669330b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] FIFA+ 방송 채널이 되다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103273</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103273</guid>
+            <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/195/64cc966c5d0ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로마] 미드나잇 인 로마, 로마와 비너스 신전에 설치된 야외 영화관에서 ‘쿼바디스?’ 상영회 열려 (씨네21 모바일)]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 28 Jul 2023 06:13:57 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/128/64c35bea4abfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] 왕바오창 감독·주연한 ‘팔각롱중’ 흥행 돌풍, 정공법의 승리 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103191</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103191</guid>
-            <pubDate>Mon, 24 Jul 2023 05:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/185/64be07cf34b6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘콘크리트 유토피아’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103193</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103193</guid>
-            <pubDate>Fri, 21 Jul 2023 08:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/396/64ba2f65616b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
