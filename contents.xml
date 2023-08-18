@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 지속된 파업, 미국 미디어 시장의 돌파구는?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103343</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103343</guid>
+            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/636/64df0b6867cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['상생하려면 우선 정당한 보상부터', 국회 모인 영화 창작자들, 정당한 보상 위한 저작권법 개정안 촉구]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103342</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103342</guid>
+            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/336/64df0b630683f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] ‘사운드 오브 프리덤’의 이례적 흥행과 그 여파, 보수층 집결시킨 논란의 저예산 영화]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103310</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 21 Jul 2023 08:13:53 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/396/64ba2f65616b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신위 출범한 부산국제영화제, 내홍 딛고 쇄신할까]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103189</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103189</guid>
-            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/175/64ba217252ce7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 계정 공유 유료화로 성장 동력 찾은 넷플릭스]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103190</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103190</guid>
-            <pubDate>Fri, 21 Jul 2023 06:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/063/64ba2177dd89f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
