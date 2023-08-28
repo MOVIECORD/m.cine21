@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 05:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 06:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=103391</guid>
             <pubDate>Mon, 28 Aug 2023 05:10:11 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0825/10_56_53__64e80a65ea1f2[X640,380].jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://image.cine21.com/crop/data/771/64ec2c366b2f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming soon] ‘베니스 유령 살인사건’ (씨네21 모바일)]]></title>
