@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 05:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 06:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 라이브 TV에 집중하는 구글과 아마존 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103435</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103435</guid>
+            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/396/64f18062dd953.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV, 복합 체험 공간으로 거듭난다, 2023 CGV 영화산업 미디어 포럼 개최 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103434</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103434</guid>
+            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/280/64f1805fe27f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 그 여름 호숫가에서, 심리 스릴러 ‘파울라’가 주목받는 이유 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103391</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 07 Aug 2023 05:10:10 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/267/64d07cd6da561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] FIFA+ 방송 채널이 되다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103273</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103273</guid>
-            <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/195/64cc966c5d0ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제25회 서울국제여성영화제, ‘쇼잉 업’부터 ‘잔느 딜망’까지 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103272</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103272</guid>
-            <pubDate>Fri, 04 Aug 2023 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/021/64cc9669330b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
