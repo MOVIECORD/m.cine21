@@ -4,16 +4,24 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화의 바다에 빠질 시간, 제 28회 부산국제영화제 개막작은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103471</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103471</guid>
+            <pubDate>Fri, 08 Sep 2023 06:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/294/64fabaeadec82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트위터 토크룸] ‘잠’ 토크룸 라이브, 잠 못 이루는 밤]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103470</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103470</guid>
             <pubDate>Fri, 08 Sep 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0908/10_55_05__64fa7ef9b0eaf[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/245/64faacc1b6345.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] 독립 기념일 특수 맞은 인도 극장가 흥행작 스케치, 액션부터 로맨스까지]]></title>
@@ -32,20 +40,20 @@
             <enclosure url="https://image.cine21.com/crop/data/640/64f18e4e5dc42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 라이브 TV에 집중하는 구글과 아마존]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103435</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103435</guid>
-            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/396/64f18062dd953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CGV, 복합 체험 공간으로 거듭난다, 2023 CGV 영화산업 미디어 포럼 개최]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103434</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103434</guid>
             <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/280/64f1805fe27f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 라이브 TV에 집중하는 구글과 아마존]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103435</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103435</guid>
+            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/396/64f18062dd953.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파리] 그 여름 호숫가에서, 심리 스릴러 ‘파울라’가 주목받는 이유]]></title>
@@ -96,14 +104,6 @@
             <enclosure url="https://image.cine21.com/crop/data/909/64df195a55378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 지속된 파업, 미국 미디어 시장의 돌파구는?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103343</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103343</guid>
-            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/636/64df0b6867cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['상생하려면 우선 정당한 보상부터', 국회 모인 영화 창작자들, 정당한 보상 위한 저작권법 개정안 촉구]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103342</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103342</guid>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/crop/data/336/64df0b630683f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 지속된 파업, 미국 미디어 시장의 돌파구는?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103343</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103343</guid>
+            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/636/64df0b6867cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴욕] ‘사운드 오브 프리덤’의 이례적 흥행과 그 여파, 보수층 집결시킨 논란의 저예산 영화]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103310</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103310</guid>
             <pubDate>Mon, 14 Aug 2023 06:13:20 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/938/64d9b7473891c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘조이 라이드’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103312</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103312</guid>
-            <pubDate>Fri, 11 Aug 2023 08:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/257/64d5dee503033.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
