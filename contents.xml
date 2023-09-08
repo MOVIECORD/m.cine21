@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 06:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 07:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] ‘크리에이터’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103473</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103473</guid>
+            <pubDate>Fri, 08 Sep 2023 07:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/882/64fac8d3ba828.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화의 바다에 빠질 시간, 제 28회 부산국제영화제 개막작은?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103471</link>
@@ -40,20 +48,20 @@
             <enclosure url="https://image.cine21.com/crop/data/640/64f18e4e5dc42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CGV, 복합 체험 공간으로 거듭난다, 2023 CGV 영화산업 미디어 포럼 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103434</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103434</guid>
-            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/280/64f1805fe27f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 라이브 TV에 집중하는 구글과 아마존]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103435</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103435</guid>
             <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/396/64f18062dd953.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV, 복합 체험 공간으로 거듭난다, 2023 CGV 영화산업 미디어 포럼 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103434</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103434</guid>
+            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/280/64f1805fe27f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파리] 그 여름 호숫가에서, 심리 스릴러 ‘파울라’가 주목받는 이유]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/636/64df0b6867cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] ‘사운드 오브 프리덤’의 이례적 흥행과 그 여파, 보수층 집결시킨 논란의 저예산 영화]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103310</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103310</guid>
-            <pubDate>Mon, 14 Aug 2023 06:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/938/64d9b7473891c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
