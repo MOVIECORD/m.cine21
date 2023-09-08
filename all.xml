@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트위터 토크룸] ‘잠’ 토크룸 라이브, 잠 못 이루는 밤 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103470</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103470</guid>
+            <pubDate>Fri, 08 Sep 2023 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0908/10_55_05__64fa7ef9b0eaf[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 독립 기념일 특수 맞은 인도 극장가 흥행작 스케치, 액션부터 로맨스까지 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103436</link>
@@ -88,20 +96,20 @@
             <enclosure url="https://image.cine21.com/crop/data/909/64df195a55378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['상생하려면 우선 정당한 보상부터', 국회 모인 영화 창작자들, 정당한 보상 위한 저작권법 개정안 촉구 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103342</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103342</guid>
-            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/336/64df0b630683f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 지속된 파업, 미국 미디어 시장의 돌파구는? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103343</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103343</guid>
             <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/636/64df0b6867cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['상생하려면 우선 정당한 보상부터', 국회 모인 영화 창작자들, 정당한 보상 위한 저작권법 개정안 촉구 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103342</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103342</guid>
+            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/336/64df0b630683f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴욕] ‘사운드 오브 프리덤’의 이례적 흥행과 그 여파, 보수층 집결시킨 논란의 저예산 영화 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Aug 2023 08:12:28 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/257/64d5dee503033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“등록문화재 지정을 원한다”, 원주 아카데미극장 철거 둘러싼 논란 계속돼 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103309</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103309</guid>
-            <pubDate>Fri, 11 Aug 2023 06:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/062/64d5d0fa7931c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
