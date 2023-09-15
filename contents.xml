@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 06:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 유튜브가 NFL 선데이 티켓의 경기를 중계한다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103507</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103507</guid>
+            <pubDate>Fri, 15 Sep 2023 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/770/6503f54c331b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 한가위에는 어떤 영화를?, 추석 극장가 한국영화 라인업]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103506</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103506</guid>
+            <pubDate>Fri, 15 Sep 2023 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/788/6503f54a17abc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 영화에 녹아든 인연, ‘영화의 황제’ 제28회 부산국제영화제 폐막작 선정]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103472</link>
@@ -56,20 +72,20 @@
             <enclosure url="https://image.cine21.com/crop/data/640/64f18e4e5dc42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CGV, 복합 체험 공간으로 거듭난다, 2023 CGV 영화산업 미디어 포럼 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103434</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103434</guid>
-            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/280/64f1805fe27f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 라이브 TV에 집중하는 구글과 아마존]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103435</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103435</guid>
             <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/396/64f18062dd953.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV, 복합 체험 공간으로 거듭난다, 2023 CGV 영화산업 미디어 포럼 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103434</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103434</guid>
+            <pubDate>Fri, 01 Sep 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/280/64f1805fe27f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파리] 그 여름 호숫가에서, 심리 스릴러 ‘파울라’가 주목받는 이유]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 18 Aug 2023 08:12:51 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/543/64df195ec6f0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] '닌자터틀: 뮤턴트 대소동']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103345</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103345</guid>
-            <pubDate>Fri, 18 Aug 2023 08:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/909/64df195a55378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 지속된 파업, 미국 미디어 시장의 돌파구는?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103343</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103343</guid>
-            <pubDate>Fri, 18 Aug 2023 06:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/636/64df0b6867cad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
