@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 05:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 06:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=103508</guid>
             <pubDate>Mon, 18 Sep 2023 05:10:34 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0915/11_39_48__6503c3f4d1834[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/321/6507dbc92312d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 유튜브가 NFL 선데이 티켓의 경기를 중계한다 (씨네21 모바일)]]></title>
