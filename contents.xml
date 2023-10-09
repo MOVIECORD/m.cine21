@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 04:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 05:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] 베를린국제영화제는 어디로?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103606</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103606</guid>
+            <pubDate>Mon, 09 Oct 2023 05:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1006/11_01_47__651f6a8b7b038[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘그대들은 어떻게 살 것인가’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103608</link>
@@ -32,20 +40,20 @@
             <enclosure url="https://image.cine21.com/crop/data/637/651fa4e237198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 문체부 예산안에 반발 거세져, 영화제 연대의 3차 연명 이어진다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103550</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103550</guid>
-            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[추모] 열정이 꽃피운 연기, 배우 변희봉 (1942. 6. 8 ~ 2023. 9. 18)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103551</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103551</guid>
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/228/650d2fe6edff1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 문체부 예산안에 반발 거세져, 영화제 연대의 3차 연명 이어진다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103550</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103550</guid>
+            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 작업한 사람들이 기억하는 배우 변희봉]]></title>
@@ -72,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/321/6507dbc92312d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 유튜브가 NFL 선데이 티켓의 경기를 중계한다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103507</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103507</guid>
-            <pubDate>Fri, 15 Sep 2023 06:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/770/6503f54c331b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이번 한가위에는 어떤 영화를?, 추석 극장가 한국영화 라인업]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103506</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103506</guid>
             <pubDate>Fri, 15 Sep 2023 06:13:39 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/788/6503f54a17abc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 유튜브가 NFL 선데이 티켓의 경기를 중계한다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103507</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103507</guid>
+            <pubDate>Fri, 15 Sep 2023 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/770/6503f54c331b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베이징] 영화에 녹아든 인연, ‘영화의 황제’ 제28회 부산국제영화제 폐막작 선정]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Sep 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/245/64faacc1b6345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 독립 기념일 특수 맞은 인도 극장가 흥행작 스케치, 액션부터 로맨스까지]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103436</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103436</guid>
-            <pubDate>Mon, 04 Sep 2023 05:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/164/64f566ccab1c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
