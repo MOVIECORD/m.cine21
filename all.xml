@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 05:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 06:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=103606</guid>
             <pubDate>Mon, 09 Oct 2023 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1006/11_01_47__651f6a8b7b038[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/027/65238b456367a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming soon] ‘그대들은 어떻게 살 것인가’ (씨네21 모바일)]]></title>
