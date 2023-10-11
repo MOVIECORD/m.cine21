@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 00:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 01:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://image.cine21.com/crop/data/637/651fa4e237198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[추모] 열정이 꽃피운 연기, 배우 변희봉 (1942. 6. 8 ~ 2023. 9. 18) (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103551</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103551</guid>
-            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/228/650d2fe6edff1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2024 문체부 예산안에 반발 거세져, 영화제 연대의 3차 연명 이어진다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103550</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103550</guid>
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추모] 열정이 꽃피운 연기, 배우 변희봉 (1942. 6. 8 ~ 2023. 9. 18) (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103551</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103551</guid>
+            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/228/650d2fe6edff1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 작업한 사람들이 기억하는 배우 변희봉 (씨네21 모바일)]]></title>
