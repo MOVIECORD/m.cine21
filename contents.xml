@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 04:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 05:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://image.cine21.com/crop/data/027/65238b456367a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[씨네스코프] 축제는 계속된다, 제28회 부산국제영화제 개막식]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103607</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103607</guid>
-            <pubDate>Fri, 06 Oct 2023 08:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/653/651fb2d220a1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Coming soon] ‘그대들은 어떻게 살 것인가’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103608</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103608</guid>
             <pubDate>Fri, 06 Oct 2023 08:13:30 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/284/651fb2d5d14c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 축제는 계속된다, 제28회 부산국제영화제 개막식]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103607</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103607</guid>
+            <pubDate>Fri, 06 Oct 2023 08:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/653/651fb2d220a1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[승리는 미국 시나리오작가들에게로, 5월부터 이어진 미국작가조합 파업 종료]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://image.cine21.com/crop/data/637/651fa4e237198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[추모] 열정이 꽃피운 연기, 배우 변희봉 (1942. 6. 8 ~ 2023. 9. 18)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103551</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103551</guid>
-            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/228/650d2fe6edff1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2024 문체부 예산안에 반발 거세져, 영화제 연대의 3차 연명 이어진다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103550</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103550</guid>
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추모] 열정이 꽃피운 연기, 배우 변희봉 (1942. 6. 8 ~ 2023. 9. 18)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103551</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103551</guid>
+            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/228/650d2fe6edff1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 작업한 사람들이 기억하는 배우 변희봉]]></title>
