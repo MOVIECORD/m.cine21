@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 05:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 06:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] ‘미스터 비스트’는 넷플릭스를 넘어설까]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103653</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103653</guid>
+            <pubDate>Fri, 13 Oct 2023 06:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/833/6528df649ba5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['리버풀의 영화 시인, 고향에서 잠들다', <베네딕션> <리버풀의 추억> <먼 목소리, 조용한 삶> 테런스 데이비스 감독 영면]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103652</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103652</guid>
+            <pubDate>Fri, 13 Oct 2023 06:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/149/6528df5e32a31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[X 토크룸] ‘화란’ 토크룸 라이브, 절제의 마력]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103651</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Sep 2023 06:13:39 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/770/6503f54c331b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이징] 영화에 녹아든 인연, ‘영화의 황제’ 제28회 부산국제영화제 폐막작 선정]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103472</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103472</guid>
-            <pubDate>Mon, 11 Sep 2023 05:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/659/64fea165d9765.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘크리에이터’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103473</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103473</guid>
-            <pubDate>Fri, 08 Sep 2023 07:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/882/64fac8d3ba828.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
