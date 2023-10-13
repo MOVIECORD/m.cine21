@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[X 토크룸] ‘화란’ 토크룸 라이브, 절제의 마력]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103651</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103651</guid>
+            <pubDate>Fri, 13 Oct 2023 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/152/6528d1364bf97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정정훈 촬영감독이 미국촬영감독협회(ASC) 정회원이 됐다…현재 신작 'Heretic' 촬영 중]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103646</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Sep 2023 07:10:33 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/882/64fac8d3ba828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화의 바다에 빠질 시간, 제 28회 부산국제영화제 개막작은?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103471</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103471</guid>
-            <pubDate>Fri, 08 Sep 2023 06:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/294/64fabaeadec82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
