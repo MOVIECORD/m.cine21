@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMING SOON] 소년들 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103713</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103713</guid>
+            <pubDate>Fri, 20 Oct 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/457/653227d2f0f9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영발기금 고갈 앞둔 한국영화계… 위기 극복할 해법은? 2023 문화체육관광위원회 국정감사 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103711</link>
@@ -88,12 +96,12 @@
             <enclosure url="https://image.cine21.com/crop/data/637/651fa4e237198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 문체부 예산안에 반발 거세져, 영화제 연대의 3차 연명 이어진다 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103550</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103550</guid>
+            <title><![CDATA[함께 작업한 사람들이 기억하는 배우 변희봉 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103552</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103552</guid>
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/053/650d2fe841e9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추모] 열정이 꽃피운 연기, 배우 변희봉 (1942. 6. 8 ~ 2023. 9. 18) (씨네21 모바일)]]></title>
@@ -104,12 +112,12 @@
             <enclosure url="https://image.cine21.com/crop/data/228/650d2fe6edff1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[함께 작업한 사람들이 기억하는 배우 변희봉 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103552</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103552</guid>
+            <title><![CDATA[2024 문체부 예산안에 반발 거세져, 영화제 연대의 3차 연명 이어진다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103550</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103550</guid>
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/053/650d2fe841e9b.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[토크룸] ‘폭로’ 토크룸 라이브, 정의란 무엇인가 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/712/650d21b15a70a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로마] 제 80회 베니스국제영화제 폐막, ‘가여운 것들’ 황금사자상 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103508</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103508</guid>
-            <pubDate>Mon, 18 Sep 2023 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/321/6507dbc92312d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
