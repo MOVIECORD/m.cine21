@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 04:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 05:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] 바비의 특별한 성공을 축하하며 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103712</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103712</guid>
+            <pubDate>Mon, 23 Oct 2023 05:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/200/653600561d8c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMING SOON] 소년들 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103713</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/310/650d2fe5349fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[토크룸] ‘폭로’ 토크룸 라이브, 정의란 무엇인가 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103549</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103549</guid>
-            <pubDate>Fri, 22 Sep 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/712/650d21b15a70a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
