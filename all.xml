@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 04:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 판타스틱하게, 스타일리시하게, 프랑스 리얼리즘 SF 걸작 <애니멀 킹덤> (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103767</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103767</guid>
+            <pubDate>Mon, 30 Oct 2023 05:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/415/653f3ac91cd7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘헝거게임: 노래하는 새와 뱀의 발라드’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103768</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 06 Oct 2023 08:13:30 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/653/651fb2d220a1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승리는 미국 시나리오작가들에게로, 5월부터 이어진 미국작가조합 파업 종료 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103605</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103605</guid>
-            <pubDate>Fri, 06 Oct 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/637/651fa4e237198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
