@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 08:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=103813</guid>
             <pubDate>Fri, 03 Nov 2023 07:10:09 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1103/11_39_06__65445d4aecca3[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/524/65449d094e768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[철거 이후에도 모두의 싸움, 60년 역사 뒤로하고 사라진 원주 아카데미극장 (씨네21 모바일)]]></title>
