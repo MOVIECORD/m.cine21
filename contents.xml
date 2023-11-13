@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 청년 감독의 기발함이 돋보이는 ‘이수걸작’, 괴짜 감독이 나타났다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103855</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103855</guid>
+            <pubDate>Mon, 13 Nov 2023 05:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/521/6551afb257bd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, 글로벌 축구팬까지 포섭할까]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103854</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 13 Oct 2023 06:14:31 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/833/6528df649ba5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리버풀의 영화 시인, 고향에서 잠들다', <베네딕션> <리버풀의 추억> <먼 목소리, 조용한 삶> 테런스 데이비스 감독 영면]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103652</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103652</guid>
-            <pubDate>Fri, 13 Oct 2023 06:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/149/6528df5e32a31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
