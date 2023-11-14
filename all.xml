@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LA 아카데미 영화 박물관, 배우 송강호의 30년 조명한다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103881</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103881</guid>
+            <pubDate>Tue, 14 Nov 2023 10:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/152/65533a7c88fd5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 청년 감독의 기발함이 돋보이는 ‘이수걸작’, 괴짜 감독이 나타났다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103855</link>
@@ -72,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/392/653b62699d77e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 프랑스 최대 콘텐츠 마켓에서 본 콘텐츠 시장의 미래 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103766</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103766</guid>
-            <pubDate>Fri, 27 Oct 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/441/653b548025c04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[독립영화의 힘, 인디스토리 창립 25주년 상영회, 행사 개최 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103765</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103765</guid>
             <pubDate>Fri, 27 Oct 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/241/653b547a45b2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 프랑스 최대 콘텐츠 마켓에서 본 콘텐츠 시장의 미래 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103766</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103766</guid>
+            <pubDate>Fri, 27 Oct 2023 06:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/441/653b548025c04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[런던] 바비의 특별한 성공을 축하하며 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 16 Oct 2023 05:10:47 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/205/652cc5b332e19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] ‘미스터 비스트’는 넷플릭스를 넘어설까 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103653</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103653</guid>
-            <pubDate>Fri, 13 Oct 2023 06:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/833/6528df649ba5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
