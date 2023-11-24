@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 07:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 08:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] ‘3일의 휴가’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103947</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103947</guid>
+            <pubDate>Fri, 24 Nov 2023 08:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/886/65604c5be8af5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103945</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 Oct 2023 05:11:24 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/415/653f3ac91cd7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘헝거게임: 노래하는 새와 뱀의 발라드’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103768</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103768</guid>
-            <pubDate>Fri, 27 Oct 2023 08:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/392/653b62699d77e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
