@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 05:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 06:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103945</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103945</guid>
+            <pubDate>Fri, 24 Nov 2023 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/409/65603e696aa34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 극장가에 찾아온 ‘봄 소식’, <서울의 봄>, 개봉 첫날 20만명 기록… 11월 박스오피스는 외화가 대세]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103944</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103944</guid>
+            <pubDate>Fri, 24 Nov 2023 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/393/65603e671ad9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 베니스국제영화제 개막작 ‘코만단테’, 국가의 가치와 개인 희생의 의미를 묻다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103893</link>
@@ -56,20 +72,20 @@
             <enclosure url="https://image.cine21.com/crop/data/521/6551afb257bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월, 독립영화의 세계로, 제49회 서울독립영화제 기자회견… 개막작은 <신생대의 삶>]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103853</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103853</guid>
-            <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/372/654dc952c9943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, 글로벌 축구팬까지 포섭할까]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103854</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103854</guid>
             <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/646/654dc95782b0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11월, 독립영화의 세계로, 제49회 서울독립영화제 기자회견… 개막작은 <신생대의 삶>]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103853</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103853</guid>
+            <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/372/654dc952c9943.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] ‘샤룩 칸의 해’가 되어가는 인도]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 27 Oct 2023 08:13:27 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/392/653b62699d77e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 프랑스 최대 콘텐츠 마켓에서 본 콘텐츠 시장의 미래]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103766</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103766</guid>
-            <pubDate>Fri, 27 Oct 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/441/653b548025c04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립영화의 힘, 인디스토리 창립 25주년 상영회, 행사 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103765</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103765</guid>
-            <pubDate>Fri, 27 Oct 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/241/653b547a45b2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
