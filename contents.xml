@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 04:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 05:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] 삶과 예술, 안젤름 키퍼의 모든 것]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103946</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103946</guid>
+            <pubDate>Mon, 27 Nov 2023 05:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/952/656424ca0c97c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘3일의 휴가’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103947</link>
@@ -40,20 +48,20 @@
             <enclosure url="https://image.cine21.com/crop/data/109/655aea43e7899.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Coming soon] ‘나폴레옹’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103895</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103895</guid>
-            <pubDate>Fri, 17 Nov 2023 08:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/304/6557121296c09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[씨네스코프] 극장은 무너져도 시민은 무너지지 않는다, 원주 아카데미극장 위법 철거 규탄 4차 시민대행진]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103894</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103894</guid>
             <pubDate>Fri, 17 Nov 2023 08:13:36 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/268/6557120cf17bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] ‘나폴레옹’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103895</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103895</guid>
+            <pubDate>Fri, 17 Nov 2023 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/304/6557121296c09.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1조원 K-콘텐츠 펀드의 탄생, 문화체육관광부가 발표한 영상산업 도약 전략, 넷플릭스에 대항하는 국내 사업자 키우기에 집중]]></title>
@@ -80,20 +88,20 @@
             <enclosure url="https://image.cine21.com/crop/data/521/6551afb257bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, 글로벌 축구팬까지 포섭할까]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103854</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103854</guid>
-            <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/646/654dc95782b0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[11월, 독립영화의 세계로, 제49회 서울독립영화제 기자회견… 개막작은 <신생대의 삶>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103853</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103853</guid>
             <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/372/654dc952c9943.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, 글로벌 축구팬까지 포섭할까]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103854</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103854</guid>
+            <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/646/654dc95782b0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] ‘샤룩 칸의 해’가 되어가는 인도]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 03 Nov 2023 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/002/65448edf8fcee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] 판타스틱하게, 스타일리시하게, 프랑스 리얼리즘 SF 걸작 <애니멀 킹덤>]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103767</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103767</guid>
-            <pubDate>Mon, 30 Oct 2023 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/415/653f3ac91cd7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
