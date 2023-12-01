@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 06:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 07:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] ‘사랑은 낙엽을 타고’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103984</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103984</guid>
+            <pubDate>Fri, 01 Dec 2023 07:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1201/11_44_51__656948a34c9d1[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 콘텐츠의 미래가 이곳에, 한국영화아카데미 40주년 기념 행사 ‘포텐’ 포럼 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103983</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103983</guid>
+            <pubDate>Fri, 01 Dec 2023 07:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/789/656986d94f7df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이대로 천만까지?, <서울의 봄> 개봉 2주차에도 거센 흥행 이어가 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103981</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://image.cine21.com/crop/data/886/65604c5be8af5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103945</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103945</guid>
-            <pubDate>Fri, 24 Nov 2023 06:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/409/65603e696aa34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[겨울 극장가에 찾아온 ‘봄 소식’, <서울의 봄>, 개봉 첫날 20만명 기록… 11월 박스오피스는 외화가 대세 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103944</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103944</guid>
             <pubDate>Fri, 24 Nov 2023 06:14:23 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/393/65603e671ad9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103945</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103945</guid>
+            <pubDate>Fri, 24 Nov 2023 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/409/65603e696aa34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로마] 베니스국제영화제 개막작 ‘코만단테’, 국가의 가치와 개인 희생의 의미를 묻다 (씨네21 모바일)]]></title>
@@ -96,14 +112,6 @@
             <enclosure url="https://image.cine21.com/crop/data/521/6551afb257bd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월, 독립영화의 세계로, 제49회 서울독립영화제 기자회견… 개막작은 <신생대의 삶> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103853</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103853</guid>
-            <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/372/654dc952c9943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, 글로벌 축구팬까지 포섭할까 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103854</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103854</guid>
@@ -112,20 +120,12 @@
             <enclosure url="https://image.cine21.com/crop/data/646/654dc95782b0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[델리] ‘샤룩 칸의 해’가 되어가는 인도 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103812</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103812</guid>
-            <pubDate>Mon, 06 Nov 2023 05:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/012/6548752dbdd17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 영화의 노래에 귀를 기울이면, <씨네21>과 함께하는 씨네마콘서트 현장 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103813</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103813</guid>
-            <pubDate>Fri, 03 Nov 2023 07:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/524/65449d094e768.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[11월, 독립영화의 세계로, 제49회 서울독립영화제 기자회견… 개막작은 <신생대의 삶> (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103853</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103853</guid>
+            <pubDate>Fri, 10 Nov 2023 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/372/654dc952c9943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
