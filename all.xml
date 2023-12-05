@@ -1,7 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/m.cine21/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-12-05T00:48:50.354Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Dec 2023 01:54:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴욕] 알렉산더 페인 감독의 '바튼 아카데미', 눈 쌓인 학교에서 크리스마스를! (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103982</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103982</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/075/656d5f58cfa1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] ‘사랑은 낙엽을 타고’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103984</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103984</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/643/656986dd851d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 콘텐츠의 미래가 이곳에, 한국영화아카데미 40주년 기념 행사 ‘포텐’ 포럼 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103983</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103983</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/789/656986d94f7df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이대로 천만까지?, <서울의 봄> 개봉 2주차에도 거센 흥행 이어가 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103981</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103981</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/620/656978f223cd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베를린] 삶과 예술, 안젤름 키퍼의 모든 것 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103946</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103946</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/952/656424ca0c97c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] ‘3일의 휴가’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103947</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103947</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/886/65604c5be8af5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 극장가에 찾아온 ‘봄 소식’, <서울의 봄>, 개봉 첫날 20만명 기록… 11월 박스오피스는 외화가 대세 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103944</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103944</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/393/65603e671ad9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103945</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103945</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/409/65603e696aa34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로마] 베니스국제영화제 개막작 ‘코만단테’, 국가의 가치와 개인 희생의 의미를 묻다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103893</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103893</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/109/655aea43e7899.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] ‘나폴레옹’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103895</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103895</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/304/6557121296c09.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 극장은 무너져도 시민은 무너지지 않는다, 원주 아카데미극장 위법 철거 규탄 4차 시민대행진 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103894</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103894</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/268/6557120cf17bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1조원 K-콘텐츠 펀드의 탄생, 문화체육관광부가 발표한 영상산업 도약 전략, 넷플릭스에 대항하는 국내 사업자 키우기에 집중 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103892</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103892</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/504/655703dfe41ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LA 아카데미 영화 박물관, 배우 송강호의 30년 조명한다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103881</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103881</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/152/65533a7c88fd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베이징] 청년 감독의 기발함이 돋보이는 ‘이수걸작’, 괴짜 감독이 나타났다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103855</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103855</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/521/6551afb257bd2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스, 글로벌 축구팬까지 포섭할까 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103854</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103854</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/646/654dc95782b0f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
