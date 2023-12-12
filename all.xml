@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 07:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 08:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시네마톡] 인생의 진리를 다룬 '리빙: 어떤 인생' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104064</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104064</guid>
+            <pubDate>Tue, 12 Dec 2023 08:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/152/65781594178f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추모] 문예영화의 길을 연 모더니스트, 고 김수용 감독의 작품 세계 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104037</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104037</guid>
+            <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/058/6572b3634c7c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[추모] 고 김수용 감독을 기억하는 영화인들의 말 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104036</link>
@@ -30,14 +46,6 @@
             <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/824/6572b35c3c142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추모] 문예영화의 길을 연 모더니스트, 고 김수용 감독의 작품 세계 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104037</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104037</guid>
-            <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/058/6572b3634c7c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴욕] 알렉산더 페인 감독의 '바튼 아카데미', 눈 쌓인 학교에서 크리스마스를! (씨네21 모바일)]]></title>
@@ -88,20 +96,20 @@
             <enclosure url="https://image.cine21.com/crop/data/886/65604c5be8af5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103945</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103945</guid>
-            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/409/65603e696aa34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[겨울 극장가에 찾아온 ‘봄 소식’, <서울의 봄>, 개봉 첫날 20만명 기록… 11월 박스오피스는 외화가 대세 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=103944</link>
             <guid>http://m.cine21.com/news/view/?mag_id=103944</guid>
             <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/393/65603e671ad9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 패스트 플랫폼의 성장이 의미하는 것 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=103945</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=103945</guid>
+            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/409/65603e696aa34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로마] 베니스국제영화제 개막작 ‘코만단테’, 국가의 가치와 개인 희생의 의미를 묻다 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/268/6557120cf17bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘나폴레옹’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103895</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103895</guid>
-            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/304/6557121296c09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
