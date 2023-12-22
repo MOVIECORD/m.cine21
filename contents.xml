@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 08:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104142</guid>
             <pubDate>Fri, 22 Dec 2023 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1222/11_38_28__6584f6a45e53b[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/086/6585366048153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming soon] ‘립세의 사계’]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104141</guid>
             <pubDate>Fri, 22 Dec 2023 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1222/11_35_48__6584f6044e238[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/461/6585365e0d7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 또 하나의 미디어 공룡 탄생하나]]></title>
