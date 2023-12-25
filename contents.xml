@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 04:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 05:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 제레미 페린 감독의 ‘화성 엑스프레스’, 프랑스 SF의 성과, 혹은 걸작의 답습]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104140</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104140</guid>
+            <pubDate>Mon, 25 Dec 2023 05:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/751/65890eb80c027.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨네스코프] 하명중 감독 ‘태’ 상영회 현장 중계, “태가 끊어져야만 새 생명이 태어난다”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104142</link>
@@ -88,14 +96,6 @@
             <enclosure url="https://image.cine21.com/crop/data/152/65781594178f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[추모] 한국영화계의 큰어른, 영원히 잠들다, 고 김수용 감독(1929~2023)을 추모하며]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104035</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104035</guid>
-            <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/450/6572b35e2d6a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“이사장 권한 줄이고, 집행위원장 공모로 선출”, 부산국제영화제 혁신위원회, 시민간담회 개최]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104034</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104034</guid>
@@ -104,12 +104,12 @@
             <enclosure url="https://image.cine21.com/crop/data/824/6572b35c3c142.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[추모] 고 김수용 감독을 기억하는 영화인들의 말]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104036</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104036</guid>
+            <title><![CDATA[[추모] 한국영화계의 큰어른, 영원히 잠들다, 고 김수용 감독(1929~2023)을 추모하며]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104035</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104035</guid>
             <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/047/6572b360bbec0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/450/6572b35e2d6a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추모] 문예영화의 길을 연 모더니스트, 고 김수용 감독의 작품 세계]]></title>
@@ -120,12 +120,12 @@
             <enclosure url="https://image.cine21.com/crop/data/058/6572b3634c7c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[뉴욕] 알렉산더 페인 감독의 '바튼 아카데미', 눈 쌓인 학교에서 크리스마스를!]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=103982</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=103982</guid>
-            <pubDate>Tue, 05 Dec 2023 01:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/075/656d5f58cfa1d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[추모] 고 김수용 감독을 기억하는 영화인들의 말]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104036</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104036</guid>
+            <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/047/6572b360bbec0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
