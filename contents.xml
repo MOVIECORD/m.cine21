@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 04:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 05:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104183</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104183</guid>
+            <pubDate>Mon, 01 Jan 2024 05:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/391/65924940a105a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“연기는 내 삶의 동력이자 양식”, 연기 이력의 정점에서 떠난 배우 이선균]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104182</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/058/6572b3634c7c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추모] 고 김수용 감독을 기억하는 영화인들의 말]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104036</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104036</guid>
-            <pubDate>Fri, 29 Dec 2023 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/047/6572b360bbec0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
