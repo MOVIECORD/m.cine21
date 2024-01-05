@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 04:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104222</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104222</guid>
+            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/818/65978f4a8dcb6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
+            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
+            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104183</link>
@@ -56,20 +80,20 @@
             <enclosure url="https://image.cine21.com/crop/data/461/6585365e0d7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[천만 관객 눈앞에 둔 ‘서울의 봄’, 28일째 박스오피스 정상 지켜… 1위 바통 이어받을 작품은? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104138</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104138</guid>
-            <pubDate>Fri, 22 Dec 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/043/6585286805959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 또 하나의 미디어 공룡 탄생하나 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104139</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104139</guid>
             <pubDate>Fri, 22 Dec 2023 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/162/6585286a0e974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천만 관객 눈앞에 둔 ‘서울의 봄’, 28일째 박스오피스 정상 지켜… 1위 바통 이어받을 작품은? (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104138</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104138</guid>
+            <pubDate>Fri, 22 Dec 2023 06:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/043/6585286805959.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포커스] '심해' 시나리오 저작자 분쟁, 누구의 이야기인가, 누구의 저작권인가 (씨네21 모바일)]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 15 Dec 2023 07:10:41 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/565/657bfbdeab129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘영화인에 대한 검열 시작하나’, 통일부, 김지운 감독, 조은성 프로듀서, 권해효 배우 조사 요구 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104087</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104087</guid>
-            <pubDate>Fri, 15 Dec 2023 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/235/657bedf29d94f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[시네마톡] 인생의 진리를 다룬 '리빙: 어떤 인생' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104064</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104064</guid>
-            <pubDate>Tue, 12 Dec 2023 08:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/152/65781594178f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추모] 문예영화의 길을 연 모더니스트, 고 김수용 감독의 작품 세계 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104037</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104037</guid>
-            <pubDate>Fri, 08 Dec 2023 06:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/058/6572b3634c7c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
