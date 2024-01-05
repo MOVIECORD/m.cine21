@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 05:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 06:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[obituary] 스크린에 진실을 새기고, 배우 이선균의 영화적 순간들 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104227</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104227</guid>
+            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/454/65979d7f9f400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Masters’ Talk] ‘드라이브 마이 카’ 뒤편의 이야기 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104226</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104226</guid>
+            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/720/65979d7d3b808.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Masters’ Talk] '드라이브 마이 카'라는 새로운 영화적 경험, 하마구치 류스케 감독, 이제훈 배우를 만나다 ② (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104225</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104225</guid>
+            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/608/65979d79d007f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Masters’ Talk] “어느 장면이든 10번 이상 촬영합니다”, 하마구치 류스케 감독, 이제훈 배우를 만나다 ① (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104224</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104224</guid>
+            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/154/65979d77471e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
+            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104222</link>
@@ -22,14 +62,6 @@
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
-            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄 (씨네21 모바일)]]></title>
@@ -94,38 +126,6 @@
             <pubDate>Fri, 22 Dec 2023 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/043/6585286805959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] '심해' 시나리오 저작자 분쟁, 누구의 이야기인가, 누구의 저작권인가 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104136</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104136</guid>
-            <pubDate>Wed, 20 Dec 2023 07:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/107/65828c25181e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] 할리우드 무비의 진정한 대항마, 최고 화제작은 7관왕의 ‘올 오브 어스 스트레인저스’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104088</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104088</guid>
-            <pubDate>Mon, 18 Dec 2023 05:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/724/657fd42d88f6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘위시’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104090</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104090</guid>
-            <pubDate>Fri, 15 Dec 2023 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/669/657bfbe006680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 영화·영상미술의 활로를 열 새 인재를 만든다, 한겨레교육, PaPA 업무협약식 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104089</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104089</guid>
-            <pubDate>Fri, 15 Dec 2023 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/565/657bfbdeab129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
