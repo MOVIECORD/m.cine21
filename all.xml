@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104228</guid>
             <pubDate>Fri, 05 Jan 2024 07:10:21 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0105/12_22_37__659775fda464d[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/984/6597ab71b6b62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[obituary] 스크린에 진실을 새기고, 배우 이선균의 영화적 순간들 (씨네21 모바일)]]></title>
