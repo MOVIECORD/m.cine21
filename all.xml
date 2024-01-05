@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 나의 올드 오크 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104228</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104228</guid>
+            <pubDate>Fri, 05 Jan 2024 07:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0105/12_22_37__659775fda464d[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[obituary] 스크린에 진실을 새기고, 배우 이선균의 영화적 순간들 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104227</link>
@@ -40,20 +48,20 @@
             <enclosure url="https://image.cine21.com/crop/data/154/65979d77471e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
-            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104222</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104222</guid>
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/818/65978f4a8dcb6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
+            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이 (씨네21 모바일)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Dec 2023 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/162/6585286a0e974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천만 관객 눈앞에 둔 ‘서울의 봄’, 28일째 박스오피스 정상 지켜… 1위 바통 이어받을 작품은? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104138</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104138</guid>
-            <pubDate>Fri, 22 Dec 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/043/6585286805959.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
