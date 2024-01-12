@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 05:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 06:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수상한 사람들, 제81회 골든글로브 시상식… <성난 사람들> 여러 부문에서 수상해]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104262</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104262</guid>
+            <pubDate>Fri, 12 Jan 2024 06:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/756/65a0d7c1eaafe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포커스] 내가 쓴 시나리오에 대한 권리를 찾고 싶은 것뿐이다, <심해> 김기용 작가, <모럴해저드> 박현우 작가 인터뷰]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104264</link>
@@ -48,12 +56,12 @@
             <enclosure url="https://image.cine21.com/crop/data/454/65979d7f9f400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
+            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유]]></title>
@@ -64,12 +72,12 @@
             <enclosure url="https://image.cine21.com/crop/data/818/65978f4a8dcb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
+            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Dec 2023 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/461/6585365e0d7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 또 하나의 미디어 공룡 탄생하나]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104139</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104139</guid>
-            <pubDate>Fri, 12 Jan 2024 02:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/162/6585286a0e974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
