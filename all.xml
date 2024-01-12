@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 06:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 07:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 서스펜스도 즐거움도 충만한, 옴니버스영화 <더 킬러스>(가제)의 감독들 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104268</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104268</guid>
+            <pubDate>Fri, 12 Jan 2024 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0112/12_28_33__65a0b1e1a3893[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 이명세 감독의 귀환 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104267</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104267</guid>
+            <pubDate>Fri, 12 Jan 2024 07:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/063/65a0e5ed9764d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수상한 사람들, 제81회 골든글로브 시상식… <성난 사람들> 여러 부문에서 수상해 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104262</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 25 Dec 2023 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/751/65890eb80c027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 하명중 감독 ‘태’ 상영회 현장 중계, “태가 끊어져야만 새 생명이 태어난다” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104142</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104142</guid>
-            <pubDate>Fri, 22 Dec 2023 07:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/086/6585366048153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘립세의 사계’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104141</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104141</guid>
-            <pubDate>Fri, 22 Dec 2023 07:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/461/6585365e0d7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
