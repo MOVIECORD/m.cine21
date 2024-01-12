@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 01:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 02:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,36 +32,12 @@
             <enclosure url="https://image.cine21.com/crop/data/454/65979d7f9f400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Masters’ Talk] ‘드라이브 마이 카’ 뒤편의 이야기]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104226</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104226</guid>
-            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/720/65979d7d3b808.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Masters’ Talk] '드라이브 마이 카'라는 새로운 영화적 경험, 하마구치 류스케 감독, 이제훈 배우를 만나다 ②]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104225</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104225</guid>
-            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/608/65979d79d007f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Masters’ Talk] “어느 장면이든 10번 이상 촬영합니다”, 하마구치 류스케 감독, 이제훈 배우를 만나다 ①]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104224</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104224</guid>
-            <pubDate>Fri, 05 Jan 2024 06:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/154/65979d77471e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
+            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유]]></title>
@@ -72,12 +48,12 @@
             <enclosure url="https://image.cine21.com/crop/data/818/65978f4a8dcb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104223</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
+            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄]]></title>
@@ -126,6 +102,30 @@
             <pubDate>Fri, 22 Dec 2023 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/461/6585365e0d7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천만 관객 눈앞에 둔 ‘서울의 봄’, 28일째 박스오피스 정상 지켜… 1위 바통 이어받을 작품은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104138</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104138</guid>
+            <pubDate>Fri, 12 Jan 2024 02:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/043/6585286805959.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 또 하나의 미디어 공룡 탄생하나]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104139</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104139</guid>
+            <pubDate>Fri, 12 Jan 2024 02:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/162/6585286a0e974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] '심해' 시나리오 저작자 분쟁, 누구의 이야기인가, 누구의 저작권인가]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104136</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104136</guid>
+            <pubDate>Fri, 12 Jan 2024 02:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/107/65828c25181e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
