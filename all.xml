@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 06:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 07:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming soon] ‘플랜 75’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104321</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104321</guid>
+            <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0119/11_44_13__65a9e1fdd3e8b[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 원주 아카데미 후원의 날, 극장은 사라졌지만 서로가 남았다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104320</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104320</guid>
+            <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0119/11_30_48__65a9ded8d7465[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] ‘고 이선균 배우의 죽음을 마주하는 문화예술인들의 요구’ 성명서 발표 기자회견 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104319</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104319</guid>
+            <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0119/11_26_58__65a9ddf247d94[X640,380].JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] CES 2024에서 본미디어의 미래 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104317</link>
@@ -96,36 +120,12 @@
             <enclosure url="https://image.cine21.com/crop/data/454/65979d7f9f400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104222</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104222</guid>
-            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/818/65978f4a8dcb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[포커스] 작가의 정당한 권익을 보호하는 것이 사건의 본질이다, <심해> 시나리오 분쟁에 대한 김병인 한국시나리오작가조합 대표의 입장 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104223</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104223</guid>
             <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
-            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104183</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104183</guid>
-            <pubDate>Mon, 01 Jan 2024 05:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/391/65924940a105a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
