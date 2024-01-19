@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] CES 2024에서 본미디어의 미래]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104317</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104317</guid>
+            <pubDate>Fri, 19 Jan 2024 06:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/751/65aa12487d698.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천만 영화 등장, 중박 영화 부진, 영화진흥위원회 2023년 극장가 한국영화 결산]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104316</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104316</guid>
+            <pubDate>Fri, 19 Jan 2024 06:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/090/65aa1246ce613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 오래된 폭력을 마주하다, 파올라 코르텔레시 첫 감독작 '우리에게는 아직 내일이 있다']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104263</link>
@@ -80,14 +96,6 @@
             <enclosure url="https://image.cine21.com/crop/data/454/65979d7f9f400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
-            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 넷플릭스 가입자는 늘었지만 시청 시간은 줄어든 이유]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104222</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104222</guid>
@@ -104,28 +112,20 @@
             <enclosure url="https://image.cine21.com/crop/data/286/65978f4ceb41e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘조용히 붐비는 새해 극장가’, <서울의 봄> 누적 관객수 1200만명 돌파, <노량: 죽음의 바다> <괴물>의 꾸준한 흥행몰이]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104220</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104220</guid>
+            <pubDate>Fri, 05 Jan 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/998/65978f4749a05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[델리] 범국민적 흥행작 앞세운 발리우드의 반등, 다중적 재미 구현한 <애니멀>… 마지막 주인공, 주인공의 변신은 무죄]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104183</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104183</guid>
             <pubDate>Mon, 01 Jan 2024 05:11:19 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/391/65924940a105a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“연기는 내 삶의 동력이자 양식”, 연기 이력의 정점에서 떠난 배우 이선균]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104182</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104182</guid>
-            <pubDate>Fri, 29 Dec 2023 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/424/658e62d70276b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] ‘1인 제작사 vs 대형 제작사의 횡포’, 실익의 방향성이 진실을 가리킨다, <심해> 시나리오 분쟁에 대한 최윤진 대표의 입장]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104181</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104181</guid>
-            <pubDate>Fri, 29 Dec 2023 03:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/429/658e38ac251a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
