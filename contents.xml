@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 06:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이변의 설 연휴 극장가, 박스오피스 1위는?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104486</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104486</guid>
+            <pubDate>Fri, 16 Feb 2024 06:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/772/65cefc7117faa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[런던] 준 지바니, ‘2024 영국 아카데미 영화상’ 공로상에 선정, 범아프리카영화를 큐레이션하다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104415</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 15 Jan 2024 05:11:43 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/374/65a4be54464e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 서스펜스도 즐거움도 충만한, 옴니버스영화 <더 킬러스>(가제)의 감독들]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104268</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104268</guid>
-            <pubDate>Tue, 13 Feb 2024 12:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/735/65a0e5f02d7db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
