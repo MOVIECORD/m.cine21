@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 04:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 05:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 연초에 돋보이는 발리우드 지역영화 두편 '파이터' '하누만', 중력가속도를 능가한 원숭이 신 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104487</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104487</guid>
+            <pubDate>Mon, 19 Feb 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0216/11_27_25__65cec80d24880[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘메이 디셈버’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104488</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Jan 2024 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/751/65aa12487d698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천만 영화 등장, 중박 영화 부진, 영화진흥위원회 2023년 극장가 한국영화 결산 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104316</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104316</guid>
-            <pubDate>Fri, 19 Jan 2024 06:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/090/65aa1246ce613.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
