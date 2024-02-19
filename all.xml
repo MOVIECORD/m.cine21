@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 06:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104487</guid>
             <pubDate>Mon, 19 Feb 2024 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0216/11_27_25__65cec80d24880[X640,380].jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://image.cine21.com/crop/data/356/65d2e2e491bd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming soon] ‘메이 디셈버’ (씨네21 모바일)]]></title>
