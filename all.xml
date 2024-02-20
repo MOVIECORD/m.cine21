@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 09:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 10:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“기대감을 정확히 겨냥한” 장재현 감독 한국형 오컬트 '파묘' 시사 첫 반응 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104520</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104520</guid>
+            <pubDate>Tue, 20 Feb 2024 10:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/323/65d46e8d79943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 연초에 돋보이는 발리우드 지역영화 두편 '파이터' '하누만', 중력가속도를 능가한 원숭이 신 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104487</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/560/65aa20739bdc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] CES 2024에서 본미디어의 미래 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104317</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104317</guid>
-            <pubDate>Fri, 19 Jan 2024 06:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/751/65aa12487d698.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
