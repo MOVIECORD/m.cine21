@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 00:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 01:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웅장, 장엄, 압도... 드니 빌뇌브 감독의 마스터클래스 <듄: 파트2> 시사 첫 반응]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104533</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104533</guid>
+            <pubDate>Thu, 22 Feb 2024 01:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/223/65d69f24f15a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“기대감을 정확히 겨냥한” 장재현 감독 한국형 오컬트 '파묘' 시사 첫 반응]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104520</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/121/65aa207633b54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] ‘고 이선균 배우의 죽음을 마주하는 문화예술인들의 요구’ 성명서 발표 기자회견]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104319</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104319</guid>
-            <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/560/65aa20739bdc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
