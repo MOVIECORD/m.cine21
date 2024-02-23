@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 05:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 06:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 월마트가 TV 제조사를 인수한 이유가 비디오 광고 때문이라고?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104536</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104536</guid>
+            <pubDate>Fri, 23 Feb 2024 06:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/958/65d836d5d6be7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2월을 달군 영화의 축제, 베를린국제영화제]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104535</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104535</guid>
+            <pubDate>Fri, 23 Feb 2024 06:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/944/65d836d375665.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웅장, 장엄, 압도... 드니 빌뇌브 감독의 마스터클래스 <듄: 파트2> 시사 첫 반응]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104533</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 22 Jan 2024 05:11:18 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/522/65adf8c378885.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘플랜 75’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104321</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104321</guid>
-            <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/220/65aa2078cde1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 원주 아카데미 후원의 날, 극장은 사라졌지만 서로가 남았다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104320</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104320</guid>
-            <pubDate>Fri, 19 Jan 2024 07:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/121/65aa207633b54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
