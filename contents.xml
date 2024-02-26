@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 04:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 05:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 현실주의로 회귀한 장이머우, 춘절을 맞아 개봉한 <제20조> 흥행]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104537</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104537</guid>
+            <pubDate>Mon, 26 Feb 2024 05:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/599/65dc1d46f14cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘밥 말리: 원 러브’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104538</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 Jan 2024 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/303/65b34cd08bb0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화인 반발에도 지원사업 감소 여전, 2024 영화진흥위원회 사업설명회 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104367</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104367</guid>
-            <pubDate>Fri, 26 Jan 2024 06:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/242/65b34cce8baa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
