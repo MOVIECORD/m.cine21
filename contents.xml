@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 06:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 07:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 댓글부대]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104589</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104589</guid>
+            <pubDate>Fri, 01 Mar 2024 07:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0229/15_00_19__65e01d73460cf[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<파묘> 300만 돌파, 흥행 요인은?, 작품별 타깃층 및 입소문 고려한 배급 전략 유효해]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104586</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Feb 2024 06:13:36 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/957/65bc875b55430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복원과 도약, 50주년 역점 사업 발표한 한국영상자료원, KBS에서 대거 발굴한 60~70년대 한국영화 복원에도 힘쓴다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104414</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104414</guid>
-            <pubDate>Fri, 02 Feb 2024 06:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/310/65bc8758320bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
