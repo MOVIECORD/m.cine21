@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 05:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 06:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파묘> 300만 돌파, 흥행 요인은?, 작품별 타깃층 및 입소문 고려한 배급 전략 유효해]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104586</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104586</guid>
+            <pubDate>Fri, 01 Mar 2024 06:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/645/65e1716a30b32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베니스국제영화제 황금사자상을 수상한 <가여운 것들> 첫 시사 반응]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104578</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Feb 2024 06:13:36 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/310/65bc8758320bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 조디 포스터의 변신, 5년만에 다시 찾아온 ‘트루 디텍티브’ 시즌4]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104368</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104368</guid>
-            <pubDate>Mon, 29 Jan 2024 05:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/078/65b73359c64bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
