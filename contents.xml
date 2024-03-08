@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 05:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 06:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화제의 활로 모색, 제천국제음악영화제, 들꽃영화상과 MOU 체결, 영진위 예산 집행 향방은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104620</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104620</guid>
+            <pubDate>Fri, 08 Mar 2024 06:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/628/65eaabe5b12bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 로마에 불어오는 가족 서사의 바람, <이 솔리티 이디오티: 리턴즈>, 평범하고 이상한 가족의 초상으로]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104587</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 05 Feb 2024 05:11:43 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/510/65c06dd426ea1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming soon] ‘파묘’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104418</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104418</guid>
-            <pubDate>Fri, 02 Feb 2024 08:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/137/65bc955e5e3d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
