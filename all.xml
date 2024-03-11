@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 05:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] 홀로코스트를 보여주는 독창적 방식, <더 존 오브 인터레스트> 독일 개봉, 언론 호평 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104621</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104621</guid>
+            <pubDate>Mon, 11 Mar 2024 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/657/65ee925e30792.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨네스코프] ‘이 조합 칭찬해’, <패스트 라이브즈> 셀린 송 감독, 정서경 작가 GV 현장 스케치 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104624</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Feb 2024 08:13:15 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/697/65cf0a59e9e59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이변의 설 연휴 극장가, 박스오피스 1위는? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104486</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104486</guid>
-            <pubDate>Fri, 16 Feb 2024 06:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/772/65cefc7117faa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
