@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 23:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 00:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://m.cine21.com/news/view/?mag_id=104621</link>
             <guid>http://m.cine21.com/news/view/?mag_id=104621</guid>
             <pubDate>Mon, 11 Mar 2024 05:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/657/65ee925e30792.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
