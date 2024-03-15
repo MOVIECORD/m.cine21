@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 07:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 08:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104668</guid>
             <pubDate>Fri, 15 Mar 2024 07:10:36 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0315/12_17_11__65f3bdb78bfbd[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/430/65f3f475c68b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] OTT 라이브 전쟁]]></title>
