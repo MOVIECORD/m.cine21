@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 06:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] OTT 라이브 전쟁 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104663</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104663</guid>
+            <pubDate>Fri, 15 Mar 2024 06:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/464/65f3e6494dc4d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아시아 패싱 논란으로 얼룩진 아카데미, 로버트 다우니 주니어와 에마 스톤의 인종 차별 논란 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104662</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104662</guid>
+            <pubDate>Fri, 15 Mar 2024 06:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/191/65f3e6468284d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하마구치 류스케의 새로운 정점, '악은 존재하지 않는다' 시사 첫 반응 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104656</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 22 Feb 2024 01:41:52 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/223/65d69f24f15a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“기대감을 정확히 겨냥한” 장재현 감독 한국형 오컬트 '파묘' 시사 첫 반응 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104520</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104520</guid>
-            <pubDate>Tue, 20 Feb 2024 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/323/65d46e8d79943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 연초에 돋보이는 발리우드 지역영화 두편 '파이터' '하누만', 중력가속도를 능가한 원숭이 신 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104487</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104487</guid>
-            <pubDate>Mon, 19 Feb 2024 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/356/65d2e2e491bd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
