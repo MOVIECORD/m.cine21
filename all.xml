@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 05:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 06:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 극장가, 시장 위축과 양극화 여전, <파묘> 흥행했지만 싸늘한 극장가 사정, 독립영화의 부진 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104706</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104706</guid>
+            <pubDate>Fri, 22 Mar 2024 06:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/153/65fd20db0be97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] 여성 캐릭터 주연 영화들 혹평 속 흥행 부진, 여성 영화인의 입지를 근심함 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104664</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 23 Feb 2024 07:11:35 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/530/65d8450173d6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 월마트가 TV 제조사를 인수한 이유가 비디오 광고 때문이라고? (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104536</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104536</guid>
-            <pubDate>Fri, 23 Feb 2024 06:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/958/65d836d5d6be7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
