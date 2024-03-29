@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 05:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 06:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[obituary] 부조리를 좌시하지 않은 기획자, 이우정 제작자(1969~2024) 부고]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104745</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104745</guid>
+            <pubDate>Fri, 29 Mar 2024 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/249/66065b683497a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“선거철 맞춘 쇼”에 불과?, 정부, 영화관 부과금 폐지 발표… 영화발전기금 마련 적신호]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104744</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104744</guid>
+            <pubDate>Fri, 29 Mar 2024 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/535/66065b663b84e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming soon] ‘비키퍼’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104709</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 04 Mar 2024 05:44:24 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/612/65e557dc5ffc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] 댓글부대]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104589</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104589</guid>
-            <pubDate>Fri, 01 Mar 2024 07:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/607/65e17f6d19073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파묘> 300만 돌파, 흥행 요인은?, 작품별 타깃층 및 입소문 고려한 배급 전략 유효해]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104586</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104586</guid>
-            <pubDate>Fri, 01 Mar 2024 06:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/645/65e1716a30b32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
