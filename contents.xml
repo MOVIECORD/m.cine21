@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 04:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 05:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포커스] “대화가 필요하다”, 영화상영관 입장권 부과금 폐지 논란··· 영화계 반응 중간 점검]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104799</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104799</guid>
+            <pubDate>Fri, 05 Apr 2024 05:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0405/11_28_08__660f61b846fa5[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[obituary] 부조리를 좌시하지 않은 기획자, 이우정 제작자(1969~2024) 부고]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104745</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Mar 2024 06:13:13 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/628/65eaabe5b12bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로마] 로마에 불어오는 가족 서사의 바람, <이 솔리티 이디오티: 리턴즈>, 평범하고 이상한 가족의 초상으로]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104587</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104587</guid>
-            <pubDate>Mon, 04 Mar 2024 05:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/612/65e557dc5ffc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
