@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 06:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨네스코프] 우리의 영화는 멈추지 않는다 , 제2회 한국예술영화관협회 어워드 열려… 대상엔 ‘원주 아카데미의 친구들’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104846</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104846</guid>
+            <pubDate>Fri, 12 Apr 2024 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/820/6618de689916b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming soon] ‘챌린저스’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104845</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104845</guid>
+            <pubDate>Fri, 12 Apr 2024 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/391/6618de65d8894.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 소니픽처스엔터테인먼트의 플랫폼 전략, 유럽에 54개 패스트 채널 론칭 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104844</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Mar 2024 07:10:36 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/430/65f3f475c68b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] OTT 라이브 전쟁 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104663</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104663</guid>
-            <pubDate>Fri, 15 Mar 2024 06:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/464/65f3e6494dc4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아 패싱 논란으로 얼룩진 아카데미, 로버트 다우니 주니어와 에마 스톤의 인종 차별 논란 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104662</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104662</guid>
-            <pubDate>Fri, 15 Mar 2024 06:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/191/65f3e6468284d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
