@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 05:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 06:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 소니픽처스엔터테인먼트의 플랫폼 전략, 유럽에 54개 패스트 채널 론칭]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104844</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104844</guid>
+            <pubDate>Fri, 12 Apr 2024 06:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/422/6618d04f1635d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월의 칸에서 상영될 영화는?, 제77회 칸영화제 초청작 발표]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104842</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104842</guid>
+            <pubDate>Fri, 12 Apr 2024 06:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/645/6618d04a4704d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 극적인 실화를 영화로, 몬테소리 교육법의 창시자 마리아 몬테소리 이야기 다룬 '뉴 우먼']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104801</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 15 Mar 2024 06:14:04 GMT</pubDate>
             <content:encoded><![CDATA[해외뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/191/65f3e6468284d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하마구치 류스케의 새로운 정점, '악은 존재하지 않는다' 시사 첫 반응]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104656</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104656</guid>
-            <pubDate>Wed, 13 Mar 2024 09:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/234/65f16b795b357.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베를린] 홀로코스트를 보여주는 독창적 방식, <더 존 오브 인터레스트> 독일 개봉, 언론 호평]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104621</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104621</guid>
-            <pubDate>Mon, 11 Mar 2024 05:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/657/65ee925e30792.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
