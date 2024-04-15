@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 09:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 10:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨네21 잡지 기증식 개최, 독자 이석호 씨 <씨네21> 1,250권 기증 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104879</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104879</guid>
+            <pubDate>Mon, 15 Apr 2024 10:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0415/18_50_56__661cf880daf4e[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[런던] 스크린 역사의 한 부분, 경매 통해 ‘오만과 편견’ ‘에버 애프터’ 등 영화·드라마 의상 팔려 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104843</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Mar 2024 06:13:54 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/153/65fd20db0be97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 여성 캐릭터 주연 영화들 혹평 속 흥행 부진, 여성 영화인의 입지를 근심함 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104664</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104664</guid>
-            <pubDate>Mon, 18 Mar 2024 05:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/815/65f7ccb97137d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
