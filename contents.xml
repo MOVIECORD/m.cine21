@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 10:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 11:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104879</guid>
             <pubDate>Mon, 15 Apr 2024 10:10:17 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0415/18_50_56__661cf880daf4e[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/319/661cfd0eabf24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[런던] 스크린 역사의 한 부분, 경매 통해 ‘오만과 편견’ ‘에버 애프터’ 등 영화·드라마 의상 팔려]]></title>
