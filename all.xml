@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 05:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 06:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좁아지는 영화의 자리, 영화진흥위원회 영화제 지원 사업 결과 발표 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104939</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104939</guid>
+            <pubDate>Fri, 26 Apr 2024 06:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/811/662b455332b37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 사탄은 축제와 함께 사라지겠지만, 어제이 데븐 주연의 초자연 호러물 <샤이탄> 호평 속 흥행 질주 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104899</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Mar 2024 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/249/66065b683497a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 영화관 부과금 폐지 발표, 영화발전기금 마련 적신호 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104744</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104744</guid>
-            <pubDate>Fri, 29 Mar 2024 06:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/535/66065b663b84e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
