@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 00:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 01:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알림 ● 제29회 '씨네21' 영화평론상 공모 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104945</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104945</guid>
+            <pubDate>Mon, 29 Apr 2024 01:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/682/647f91e7842ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] 낸 골딘, 모든 아름다움과 유혈사태 - All the Beauty and the Bloodshed (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=104940</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 05 Apr 2024 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/794/660f95cb2115f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] “대화가 필요하다”, 영화상영관 입장권 부과금 폐지 논란··· 영화계 반응 중간 점검 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104799</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104799</guid>
-            <pubDate>Fri, 05 Apr 2024 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/768/660f87c597468.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
