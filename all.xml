@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 07:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 08:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105004</guid>
             <pubDate>Fri, 03 May 2024 07:11:03 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0503/15_08_19__66347f533197f[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/632/66348e0927279.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[씨네스코프] 조율 한번 해주세요, 다큐멘터리 <훌륭한 피해자들> 촬영 현장 (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105003</guid>
             <pubDate>Fri, 03 May 2024 07:11:03 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0503/14_52_28__66347b9c846e7[X640,380].JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.cine21.com/crop/data/363/66348e05b5387.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming Soon] '창가의 토토' (씨네21 모바일)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=104999</guid>
             <pubDate>Fri, 03 May 2024 07:11:03 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2024/0503/11_34_51__66344d4bded05[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/627/66348e0c74189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[OBITUARY] 로랑 캉테(Laurent Cantet, 1961~2024) 감독 부고, 사회적 드라마의 강자 (씨네21 모바일)]]></title>
