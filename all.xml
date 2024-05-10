@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 05:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 06:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제25회 전주국제영화제 수상 결과… 한국경쟁 대상 '힘을 낼 시간', 국제경쟁 부문 대상은 '메이저 톤으로' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105050</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105050</guid>
+            <pubDate>Fri, 10 May 2024 06:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0510/08_41_35__663d5f2f4ee78[X640,380].JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] '파묘' 인기몰이, 베이징 영화제 한국영화 5편 선보여 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105000</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 15 Apr 2024 10:10:17 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/319/661cfd0eabf24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] 스크린 역사의 한 부분, 경매 통해 ‘오만과 편견’ ‘에버 애프터’ 등 영화·드라마 의상 팔려 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104843</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104843</guid>
-            <pubDate>Mon, 15 Apr 2024 06:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/168/661cb6c4d669d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
