@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 14:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 15:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105050</guid>
             <pubDate>Fri, 10 May 2024 06:14:29 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0510/08_41_35__663d5f2f4ee78[X640,380].JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.cine21.com/crop/data/654/663e37be7b2e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베이징] '파묘' 인기몰이, 베이징 영화제 한국영화 5편 선보여]]></title>
