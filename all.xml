@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 14:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 15:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105104</guid>
             <pubDate>Thu, 16 May 2024 11:10:00 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0516/23_45_53__66461c21d8e69[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/996/664620d8c372f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[씨네스코프] 제주 복합문화공간 ‘하우스 오브 레퓨즈’의 ‘O: 에릭 오 레트로스펙티브’ 전시 체험기, 순환하는 세계 (씨네21 모바일)]]></title>
