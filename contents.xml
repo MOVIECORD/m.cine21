@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 09:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 10:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 17 May 2024 07:10:54 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/658/664702f0e9839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 제주 복합문화공간 ‘하우스 오브 레퓨즈’의  전시 체험기, 순환하는 세계]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105110</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105110</guid>
-            <pubDate>Fri, 17 May 2024 07:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/191/664702ed5b1ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기대 이상의 쾌감, <퓨리오사: 매드맥스 사가> 시사 첫 반응]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 14 May 2024 00:49:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/811/662b455332b37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[델리] 사탄은 축제와 함께 사라지겠지만, 어제이 데븐 주연의 초자연 호러물 <샤이탄> 호평 속 흥행 질주]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104899</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104899</guid>
+            <pubDate>Fri, 17 May 2024 10:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/009/6625f14bdbce3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
