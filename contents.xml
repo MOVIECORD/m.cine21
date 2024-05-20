@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 14:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105109</guid>
             <pubDate>Mon, 20 May 2024 05:12:47 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0517/11_16_58__6646be1a3b837[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/413/664b66bd868bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming Soon] ‘원더랜드’]]></title>
