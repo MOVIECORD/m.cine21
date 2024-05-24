@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 06:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 07:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨네스코프] 반려동물과 함께 영화를, ALL-LIVE 반려동물 동반 야외 상영회 현장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105165</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105165</guid>
+            <pubDate>Fri, 24 May 2024 07:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0524/15_13_38__66503012dac3e[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LA] 코미디의 톡 쏘는 매력, 넷플릭스, LA에서 제2회 ‘넷플릭스 이즈 어 조크’ 페스티벌 개최 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105109</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 Apr 2024 07:11:28 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/315/662b53878f74f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좁아지는 영화의 자리, 영화진흥위원회 영화제 지원 사업 결과 발표 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104939</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104939</guid>
-            <pubDate>Fri, 26 Apr 2024 06:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/811/662b455332b37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
