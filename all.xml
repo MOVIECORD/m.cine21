@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 15:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105165</guid>
             <pubDate>Fri, 24 May 2024 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0524/15_13_38__66503012dac3e[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/779/6650ace00c07d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LA] 코미디의 톡 쏘는 매력, 넷플릭스, LA에서 제2회 ‘넷플릭스 이즈 어 조크’ 페스티벌 개최 (씨네21 모바일)]]></title>
