@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 05:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] OTT 전쟁의 승자는 넷플릭스일까 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105206</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105206</guid>
+            <pubDate>Fri, 31 May 2024 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/342/665969f723895.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포커스] 김기영의 <하녀> 1위, 한국영상자료원 ‘2024 한국영화 100선’ 공개 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105205</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 03 May 2024 06:14:33 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/533/66347fc577920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알림 ● 제29회 '씨네21' 영화평론상 공모 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104945</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104945</guid>
-            <pubDate>Mon, 29 Apr 2024 01:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/682/647f91e7842ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
