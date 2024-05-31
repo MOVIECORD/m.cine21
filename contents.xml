@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 06:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming Soon] '이소룡-들']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105207</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105207</guid>
+            <pubDate>Fri, 31 May 2024 07:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/336/665977f14e6e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] OTT 전쟁의 승자는 넷플릭스일까]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105206</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 May 2024 00:49:22 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/819/66347fc7645ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최단 기간 천만 돌파할까, 개봉 9일 만에 600만 관객 돌파한 <범죄도시4> 무서운 흥행세]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104995</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104995</guid>
-            <pubDate>Tue, 14 May 2024 00:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/533/66347fc577920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
