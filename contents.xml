@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.cine21.com/news/contents/</id>
-    <title>씨네21 모바일</title>
-    <updated>2024-06-03T14:12:19.784Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.cine21.com/news/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jun 2024 15:12:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming Soon] '이소룡-들']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105207</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105207</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/336/665977f14e6e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] OTT 전쟁의 승자는 넷플릭스일까]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105206</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105206</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/342/665969f723895.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] 김기영의 <하녀> 1위, 한국영상자료원 ‘2024 한국영화 100선’ 공개]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105205</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105205</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/886/66595bbbad3af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 반려동물과 함께 영화를, ALL-LIVE 반려동물 동반 야외 상영회 현장]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105165</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105165</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/779/6650ace00c07d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LA] 코미디의 톡 쏘는 매력, 넷플릭스, LA에서 제2회 ‘넷플릭스 이즈 어 조크’ 페스티벌 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105109</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105109</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/413/664b66bd868bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming Soon] ‘원더랜드’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105111</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105111</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/658/664702f0e9839.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기대 이상의 쾌감, <퓨리오사: 매드맥스 사가> 시사 첫 반응]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105104</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105104</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/996/664620d8c372f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 제주 복합문화공간 ‘하우스 오브 레퓨즈’의 ‘O: 에릭 오 레트로스펙티브’ 전시 체험기, 순환하는 세계]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105101</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105101</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/527/6641d0c91548f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로마] 마르게리타 비카리오 감독의 '글로리아!', 여성과 재능과 시대]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105051</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105051</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/185/6641a0c781ea8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제25회 전주국제영화제 수상 결과… 한국경쟁 대상 '힘을 낼 시간', 국제경쟁 부문 대상은 '메이저 톤으로']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105050</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105050</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/654/663e37be7b2e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베이징] '파묘' 인기몰이, 베이징 영화제 한국영화 5편 선보여]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105000</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105000</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/303/6638f1cd3034b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] <훌륭한 피해자들> 양리초우 감독, ‘피해자다움’의 불합리성에 관해 말하고 싶다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105004</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105004</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/632/66348e0927279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 조율 한번 해주세요, 다큐멘터리 <훌륭한 피해자들> 촬영 현장]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105003</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105003</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/363/66348e05b5387.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming Soon] '창가의 토토']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104999</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104999</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/627/66348e0c74189.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[OBITUARY] 로랑 캉테(Laurent Cantet, 1961~2024) 감독 부고, 사회적 드라마의 강자]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=104998</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=104998</guid>
+            <pubDate>Mon, 03 Jun 2024 15:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/819/66347fc7645ee.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
