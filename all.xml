@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 14:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105245</guid>
             <pubDate>Fri, 07 Jun 2024 07:11:52 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0607/20_39_20__6662f168cc78d[X640,380].jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://image.cine21.com/crop/data/116/666321f6d5a49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화진흥위원회 한상준 신임 위원장 선출, “영화계의 다양한 목소리를 경청하겠다” (씨네21 모바일)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105243</guid>
             <pubDate>Fri, 07 Jun 2024 06:16:45 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0607/20_33_06__6662eff29beae[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/979/666321f1ea07b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming Soon] '이소룡-들' (씨네21 모바일)]]></title>
