@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 06:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 07:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming Soon] ‘1초 앞, 1초 뒤’]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105245</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105245</guid>
+            <pubDate>Fri, 07 Jun 2024 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0607/20_39_20__6662f168cc78d[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[영화진흥위원회 한상준 신임 위원장 선출, “영화계의 다양한 목소리를 경청하겠다”]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105243</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jun 2024 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/363/66348e05b5387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] '창가의 토토']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104999</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104999</guid>
-            <pubDate>Mon, 03 Jun 2024 19:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/627/66348e0c74189.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
