@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 05:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 06:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화진흥위원회 한상준 신임 위원장 선출, “영화계의 다양한 목소리를 경청하겠다” (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105243</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105243</guid>
+            <pubDate>Fri, 07 Jun 2024 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0607/20_33_06__6662eff29beae[X640,380].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] '이소룡-들' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105207</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jun 2024 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/627/66348e0c74189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OBITUARY] 로랑 캉테(Laurent Cantet, 1961~2024) 감독 부고, 사회적 드라마의 강자 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=104998</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=104998</guid>
-            <pubDate>Mon, 03 Jun 2024 19:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/819/66347fc7645ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
