@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://m.cine21.com/news/view/?mag_id=105286</link>
             <guid>http://m.cine21.com/news/view/?mag_id=105286</guid>
             <pubDate>Fri, 14 Jun 2024 05:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 스페이스]]></content:encoded>
+            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/724/666bd0b7a9fe3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
