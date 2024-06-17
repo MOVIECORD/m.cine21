@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 14:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 15:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105287</guid>
             <pubDate>Mon, 17 Jun 2024 05:15:27 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0614/11_40_17__666bad91844a2[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/986/667050bb825f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[씨네스코프]  VOL.3 마지막 에피소드 촬영 현장기, 사랑은 이제부터]]></title>
