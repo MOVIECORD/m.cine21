@@ -4,7 +4,7 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 14:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 15:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105332</guid>
             <pubDate>Fri, 21 Jun 2024 07:11:58 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0621/11_07_08__6674e04ce7afc[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/552/667596e7a68e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Coming Soon] ‘명탐정 코난: 100만 달러의 펜타그램’]]></title>
@@ -21,7 +21,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105331</guid>
             <pubDate>Fri, 21 Jun 2024 07:11:58 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0621/10_57_57__6674de25334d7[X640,380].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/966/667596e30bb24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파리] 장애 담론을 다룬 코미디영화 ‘어 리틀 섬싱 엑스트라’, 올해 두 번째 프랑스 천만 영화 탄생하나]]></title>
