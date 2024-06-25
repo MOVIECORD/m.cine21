@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 14:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 15:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105371</guid>
             <pubDate>Tue, 25 Jun 2024 08:15:45 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0625/17_08_35__667a7b03d0482[X640,380].jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://image.cine21.com/crop/data/161/667adcb9689ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[델리] 공포영화가 싫더라도 <문즈야>는 봐야, 인도 총선 기간에 화제를 모은 영화 <문즈야> (씨네21 모바일)]]></title>
