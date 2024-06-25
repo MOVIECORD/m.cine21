@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 07:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체계적인 영화 제작 교육은 고급 영화 제작 강좌 ‘명필름 영화 스쿨’에서]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105371</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105371</guid>
+            <pubDate>Tue, 25 Jun 2024 08:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/article/2024/0625/17_08_35__667a7b03d0482[X640,380].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 공포영화가 싫더라도 <문즈야>는 봐야, 인도 총선 기간에 화제를 모은 영화 <문즈야>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105330</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/413/664b66bd868bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] ‘원더랜드’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105111</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105111</guid>
-            <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/658/664702f0e9839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
