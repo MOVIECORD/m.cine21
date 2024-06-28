@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 05:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 06:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 하이브리드 OTT는 시장의 흐름을 전환할 수 있을까]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105375</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105375</guid>
+            <pubDate>Fri, 28 Jun 2024 06:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/272/667e53f4b750e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체계적인 영화 제작 교육은 고급 영화 제작 강좌 ‘명필름 영화 스쿨’에서]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105371</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/779/6650ace00c07d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LA] 코미디의 톡 쏘는 매력, 넷플릭스, LA에서 제2회 ‘넷플릭스 이즈 어 조크’ 페스티벌 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105109</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105109</guid>
-            <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/413/664b66bd868bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
