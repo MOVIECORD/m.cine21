@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 06:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 07:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Coming Soon] ‘수카바티: 극락축구단’ (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105422</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105422</guid>
+            <pubDate>Fri, 05 Jul 2024 07:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/928/66879c6e4878b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포커스] 급격한 티켓값 담합부터 ‘깜깜이’ 정산까지, 극장 불공정 정산 문제 공정위 신고 관련 영화인연대 기자회견 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105420</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/979/666321f1ea07b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] '이소룡-들' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105207</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105207</guid>
-            <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/336/665977f14e6e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
