@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 01:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 02:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구를 사랑하는 또 하나의 방법, 서울국제환경영화제 폐막… 한국경쟁부문 대상에 임기웅 감독의 <문명의 끝에서>]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105418</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105418</guid>
+            <pubDate>Fri, 05 Jul 2024 02:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/291/6687560bbf1a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] ‘탈출: 프로젝트 사일런스’]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105376</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/342/665969f723895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] 김기영의 <하녀> 1위, 한국영상자료원 ‘2024 한국영화 100선’ 공개]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105205</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105205</guid>
-            <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/886/66595bbbad3af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
