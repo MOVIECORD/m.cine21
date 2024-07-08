@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 04:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 05:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[런던] 수작업 애니메이션의 맛, 8월부터 10월까지 런던에서 만날 수 있는 다양한 스톱모션애니메이션 행사 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105421</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105421</guid>
+            <pubDate>Mon, 08 Jul 2024 05:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/112/668b74e5cafe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Coming Soon] ‘수카바티: 극락축구단’ (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105422</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/116/666321f6d5a49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화진흥위원회 한상준 신임 위원장 선출, “영화계의 다양한 목소리를 경청하겠다” (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105243</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105243</guid>
-            <pubDate>Mon, 24 Jun 2024 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/979/666321f1ea07b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
