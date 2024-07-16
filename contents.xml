@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 05:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 토요일마다 강북 토요 시네마 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105492</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105492</guid>
+            <pubDate>Tue, 16 Jul 2024 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/386/66960f0f14c74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[런던] 수작업 애니메이션의 맛, 8월부터 10월까지 런던에서 만날 수 있는 다양한 스톱모션애니메이션 행사]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105421</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/399/66668ae4768f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] ‘1초 앞, 1초 뒤’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105245</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105245</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/116/666321f6d5a49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
