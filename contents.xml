@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 06:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 07:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] '에이리언: 로물루스']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105546</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105546</guid>
+            <pubDate>Fri, 26 Jul 2024 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/779/66a34bff0d00f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실적인 예술인 지위·권리 보장을 촉구한다, 김재원 의원 등 ‘블랙리스트 피해자 권리 특별법’ 발의]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105543</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/966/667596e30bb24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] 장애 담론을 다룬 코미디영화 ‘어 리틀 섬싱 엑스트라’, 올해 두 번째 프랑스 천만 영화 탄생하나]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105287</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105287</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/986/667050bb825f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
