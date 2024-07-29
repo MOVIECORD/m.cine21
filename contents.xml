@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 05:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 무더위를 날릴 풍자와 현실 인식, <서홍시수부>팀이 재회해 만든 코미디 영화 <인형 뽑기>]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105544</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105544</guid>
+            <pubDate>Mon, 29 Jul 2024 05:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/742/66a724441c868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] '에이리언: 로물루스']]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105546</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/552/667596e7a68e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] ‘명탐정 코난: 100만 달러의 펜타그램’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105331</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105331</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/966/667596e30bb24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
