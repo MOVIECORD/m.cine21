@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 04:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 05:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] TV 플랫폼의 OS 전쟁을 주목하라]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105588</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105588</guid>
+            <pubDate>Fri, 02 Aug 2024 05:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/601/66ac6a4499e12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“영화진흥위원회의 자율성 확보가 시급하다”, 영화발전기금 2025년 예산안 긴급점검 토론회 열려]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105587</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105587</guid>
+            <pubDate>Fri, 02 Aug 2024 05:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/432/66ac6a40ece76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 무더위를 날릴 풍자와 현실 인식, <서홍시수부>팀이 재회해 만든 코미디 영화 <인형 뽑기>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105544</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/161/667adcb9689ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 공포영화가 싫더라도 <문즈야>는 봐야, 인도 총선 기간에 화제를 모은 영화 <문즈야>]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105330</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105330</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/889/6678ffdfca944.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 험한 것을 찾아서, <파묘: 그곳의 뒤편> 전시에 다녀오다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105332</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105332</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/552/667596e7a68e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
