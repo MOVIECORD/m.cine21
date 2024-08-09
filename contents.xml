@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 05:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 06:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이렇게 영화제는 계속된다, 정동진독립영화제, 네마프2024 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105626</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105626</guid>
+            <pubDate>Fri, 09 Aug 2024 06:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/506/66b5b2ee395db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] TV 플랫폼의 OS 전쟁을 주목하라]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105588</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/272/667e53f4b750e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체계적인 영화 제작 교육은 고급 영화 제작 강좌 ‘명필름 영화 스쿨’에서]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105371</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105371</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/161/667adcb9689ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
