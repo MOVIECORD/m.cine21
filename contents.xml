@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 06:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 07:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] '이매지너리']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105668</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105668</guid>
+            <pubDate>Fri, 16 Aug 2024 07:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/889/66befb4fb3dec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해의 시선, 색다른 사유를 응원하며, 제29회 <씨네21> 영화평론상 시상식… 문주화, 이병현씨 우수상 공동 수상]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105666</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 16 Jul 2024 06:16:51 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/386/66960f0f14c74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[런던] 수작업 애니메이션의 맛, 8월부터 10월까지 런던에서 만날 수 있는 다양한 스톱모션애니메이션 행사]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105421</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105421</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/112/668b74e5cafe3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
