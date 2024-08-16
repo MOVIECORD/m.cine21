@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 04:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 05:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Masters’ Talk] <트위스터스> 정이삭 감독에게 <콘크리트 유토피아> 엄태화 감독이 묻다, 정이삭 x 엄태화 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105665</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105665</guid>
+            <pubDate>Fri, 16 Aug 2024 05:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/321/66bedf6336a23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 독특한 아우라의 쌍둥이 감독, 딘노첸초 형제가 연출한 TV시리즈 <도스토옙스키> (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105627</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/928/66879c6e4878b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] 급격한 티켓값 담합부터 ‘깜깜이’ 정산까지, 극장 불공정 정산 문제 공정위 신고 관련 영화인연대 기자회견 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105420</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105420</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/060/668780543eade.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
