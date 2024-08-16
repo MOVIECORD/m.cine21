@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 05:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 06:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 시선, 색다른 사유를 응원하며, 제29회 <씨네21> 영화평론상 시상식… 문주화, 이병현씨 우수상 공동 수상 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105666</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105666</guid>
+            <pubDate>Fri, 16 Aug 2024 06:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/028/66beed5d19e90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Masters’ Talk] <트위스터스> 정이삭 감독에게 <콘크리트 유토피아> 엄태화 감독이 묻다, 정이삭 x 엄태화 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105665</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/112/668b74e5cafe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] ‘수카바티: 극락축구단’ (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105422</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105422</guid>
-            <pubDate>Wed, 10 Jul 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/928/66879c6e4878b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
