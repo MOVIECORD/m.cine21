@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 06:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 07:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://m.cine21.com/news/view/?mag_id=105665</guid>
             <pubDate>Fri, 16 Aug 2024 05:12:50 GMT</pubDate>
             <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/321/66bedf6336a23.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/640/66c2e4a99a804.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로마] 독특한 아우라의 쌍둥이 감독, 딘노첸초 형제가 연출한 TV시리즈 <도스토옙스키> (씨네21 모바일)]]></title>
