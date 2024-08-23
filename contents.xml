@@ -4,9 +4,33 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 06:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 07:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨네스코프] 한국을 떠나고픈, 한국의 소란을 사랑하는, 배우 고아성, 김뜻돌, 이현송]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105703</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105703</guid>
+            <pubDate>Fri, 23 Aug 2024 07:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/452/66c835f2bf258.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] <한국이 싫어서> 촬영 현장, 한국은 그대로라서]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105702</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105702</guid>
+            <pubDate>Fri, 23 Aug 2024 07:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/281/66c835f6c95b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Coming Soon] '비틀쥬스 비틀쥬스']]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105701</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105701</guid>
+            <pubDate>Fri, 23 Aug 2024 07:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/661/66c835f4edd9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넓히고 연결하면서 적극적으로 투자한다, 경기콘텐츠진흥원, 영화/애니 분야 레벨업 프로젝트 투자데이 성료]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105704</link>
@@ -102,30 +126,6 @@
             <pubDate>Mon, 29 Jul 2024 05:13:49 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/742/66a724441c868.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] '에이리언: 로물루스']]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105546</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105546</guid>
-            <pubDate>Fri, 26 Jul 2024 07:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/779/66a34bff0d00f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실적인 예술인 지위·권리 보장을 촉구한다, 김재원 의원 등 ‘블랙리스트 피해자 권리 특별법’ 발의]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105543</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105543</guid>
-            <pubDate>Fri, 26 Jul 2024 06:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/926/66a33df5d4a40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Masters’ Talk] 이건 정말 '숀 레비 영화'!, <데드풀과 울버린> 숀 레비×류승완]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105542</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105542</guid>
-            <pubDate>Fri, 26 Jul 2024 05:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/775/66a32fed79c75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
