@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 05:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 06:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넓히고 연결하면서 적극적으로 투자한다, 경기콘텐츠진흥원, 영화/애니 분야 레벨업 프로젝트 투자데이 성료 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105704</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105704</guid>
+            <pubDate>Fri, 23 Aug 2024 06:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/690/66c827f91b424.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[OBITUARY] 알랭 들롱 (Alain Delon, 1935~2024) 부고, 태양을 닮은 매혹 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105700</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105700</guid>
+            <pubDate>Fri, 23 Aug 2024 06:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/356/66c827facd7b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] '이매지너리' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105668</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 26 Jul 2024 05:12:49 GMT</pubDate>
             <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/775/66a32fed79c75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Masters’ Talk] 숀 레비 감독에게 류승완이 묻다, <데드풀과 울버린> 숀 레비×류승완 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105541</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105541</guid>
-            <pubDate>Fri, 26 Jul 2024 05:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/844/66a32fe7d7417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 토요일마다 강북 토요 시네마 개최 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105492</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105492</guid>
-            <pubDate>Tue, 16 Jul 2024 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/386/66960f0f14c74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
