@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 05:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 06:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LA] 할리우드는 카멀라 해리스 열풍, 할리우드 스타들, 민주당 대선후보 카멀라 해리스 지지 이어져 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105707</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105707</guid>
+            <pubDate>Mon, 26 Aug 2024 06:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/530/66cc1aed3ac7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 부산에서 처음 만날 수 있는 한국영화와 시리즈는?, <보고타> <지옥> 시즌2 등 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105708</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Aug 2024 05:13:12 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/601/66ac6a4499e12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“영화진흥위원회의 자율성 확보가 시급하다”, 영화발전기금 2025년 예산안 긴급점검 토론회 열려 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105587</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105587</guid>
-            <pubDate>Fri, 02 Aug 2024 05:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/432/66ac6a40ece76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
