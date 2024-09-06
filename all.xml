@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 06:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 07:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨네스코프] 독립영화가 관객을 만나기까지, 독립영화 매칭 워크숍: 퍼스트링크 현장 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105795</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105795</guid>
+            <pubDate>Fri, 06 Sep 2024 07:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/883/66daaaf5498f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[coming soon] '트랜스포머 ONE' (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105794</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105794</guid>
+            <pubDate>Fri, 06 Sep 2024 07:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/747/66daaaf00c0bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내홍을 딛고 정상화 궤도에 오른 부산국제영화제, 제 29회 부산국제영화제 기자회견 개최 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105793</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 16 Aug 2024 07:13:47 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/889/66befb4fb3dec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 시선, 색다른 사유를 응원하며, 제29회 <씨네21> 영화평론상 시상식… 문주화, 이병현씨 우수상 공동 수상 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105666</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105666</guid>
-            <pubDate>Fri, 16 Aug 2024 06:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/028/66beed5d19e90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Masters’ Talk] <트위스터스> 정이삭 감독에게 <콘크리트 유토피아> 엄태화 감독이 묻다, 정이삭 x 엄태화 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105665</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105665</guid>
-            <pubDate>Fri, 16 Aug 2024 05:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/640/66c2e4a99a804.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
