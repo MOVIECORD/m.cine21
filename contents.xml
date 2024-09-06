@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 05:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 06:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내홍을 딛고 정상화 궤도에 오른 부산국제영화제, 제 29회 부산국제영화제 기자회견 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105793</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105793</guid>
+            <pubDate>Fri, 06 Sep 2024 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/037/66da9cfae8bb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우정과 연대를 위한 행동, 제16회 DMZ국제다큐멘터리영화제 기자회견 개최]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105798</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Aug 2024 05:12:50 GMT</pubDate>
             <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/640/66c2e4a99a804.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로마] 독특한 아우라의 쌍둥이 감독, 딘노첸초 형제가 연출한 TV시리즈 <도스토옙스키>]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105627</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105627</guid>
-            <pubDate>Mon, 12 Aug 2024 05:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[해외뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/388/66b999611323f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
