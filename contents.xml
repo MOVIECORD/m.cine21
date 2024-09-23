@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 04:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 05:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] 프랑스, 쌍천만 영화 탄생하나?, 파리 극장가, 올림픽 기간에도 2011년 이후 최다 여름 관객 기록해…]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105849</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105849</guid>
+            <pubDate>Mon, 23 Sep 2024 05:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/575/66f0f86718c07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 안전한 사회를 만드는 움직임, 제6회 4·16재단 문화콘텐츠 공모전 시상식 개최]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105848</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/661/66c835f4edd9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넓히고 연결하면서 적극적으로 투자한다, 경기콘텐츠진흥원, 영화/애니 분야 레벨업 프로젝트 투자데이 성료]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105704</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105704</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/690/66c827f91b424.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
