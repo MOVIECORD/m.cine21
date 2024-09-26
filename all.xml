@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 07:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 세상에서 가장 마녀다운 마녀가 될 거야 - <전부 애거사 짓이야> 잭 셰이퍼 감독, 메리 리바노스 프로듀서 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105865</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105865</guid>
+            <pubDate>Thu, 26 Sep 2024 07:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/473/66f508d36a9a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 프랑스, 쌍천만 영화 탄생하나?, 파리 극장가, 올림픽 기간에도 2011년 이후 최다 여름 관객 기록해… (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105849</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/281/66c835f6c95b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Coming Soon] '비틀쥬스 비틀쥬스' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105701</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105701</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/661/66c835f4edd9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
