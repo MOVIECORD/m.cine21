@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 04:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 05:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 발리우드 흥행 신기록 나올까, <칼키 AD 2898년> <스트리2> 인도 박스오피스에서 흥행 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105896</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105896</guid>
+            <pubDate>Mon, 30 Sep 2024 05:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/400/66fa32aa88cb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] '보통의 가족' (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105897</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/530/66cc1aed3ac7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 부산에서 처음 만날 수 있는 한국영화와 시리즈는?, <보고타> <지옥> 시즌2 등 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105708</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105708</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/839/66cc0a1bb3621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
