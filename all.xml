@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 05:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 06:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[obituary] 빈틈없지만 따뜻한 미소의 배우, 매기 스미스와 작별하다 - 매기 스미스(1934~2024) 부고 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105957</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105957</guid>
+            <pubDate>Fri, 04 Oct 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/564/66ff86eb73605.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화의 바다로 출발, 제29회 부산국제영화제 개막식 개최 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105955</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105955</guid>
+            <pubDate>Fri, 04 Oct 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/662/66ff86e8ec219.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[masters’ talk] ‘장르의 규칙을 사수하되 자기복제의 덫을 피하기,’ <베테랑2> 류승완 감독,  시리즈 한준희 감독을 만나다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105959</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/703/66da82ba1ff2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 데드풀과 세레나와 맞붙다, 중소 배급사 네온 배급작 <롱레그스> <뻐꾹!> 미국 박스오피스에서 선전 중 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105756</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105756</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/697/66d548c13e611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 영화와 음악의 랑데부, <씨네21>×강북문화재단 <강석우의 시네마콘서트> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105757</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105757</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/200/66d170c219dc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
