@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 04:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 05:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[masters’ talk] ‘장르의 규칙을 사수하되 자기복제의 덫을 피하기,’ <베테랑2> 류승완 감독,  시리즈 한준희 감독을 만나다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105959</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105959</guid>
+            <pubDate>Fri, 04 Oct 2024 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/130/66ff78bdabc49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] 영진위의 서독제 지원사업 폐지, 수면 위로 올라와, 내년 서울독립영화제 지원사업 폐지에 반발하는 영화인들]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=105956</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=105956</guid>
+            <pubDate>Fri, 04 Oct 2024 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/942/66ff78bb8202f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 발리우드 흥행 신기록 나올까, <칼키 AD 2898년> <스트리2> 인도 박스오피스에서 흥행]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=105896</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/200/66d170c219dc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 부산에서 처음 만날 수 있는 한국영화와 시리즈는?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105755</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105755</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/591/66d162781aa55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LA] 할리우드는 카멀라 해리스 열풍, 할리우드 스타들, 민주당 대선후보 카멀라 해리스 지지 이어져]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105707</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105707</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/530/66cc1aed3ac7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
