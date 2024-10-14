@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 05:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 06:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIST] 김재환이 말하는 요즘 빠져 있는 것들의 목록 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106117</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106117</guid>
+            <pubDate>Mon, 14 Oct 2024 06:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/373/670cb5f26e303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이와 가족을 위한 콘텐츠에 주목을 BAFTA TV상, 어린이·청소년을 위한 작품을 치하하는 수상 부문 포함하기로 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106113</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106113</guid>
+            <pubDate>Mon, 14 Oct 2024 06:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/331/670cb5ed56d1f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해의 시선, 올해의 이야기 제29회 부산국제영화제 ‘비전의 밤’ 수상작 발표 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106112</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/957/66debfcde91dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 독립영화가 관객을 만나기까지, 독립영화 매칭 워크숍: 퍼스트링크 현장 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105795</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105795</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/883/66daaaf5498f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] '트랜스포머 ONE' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105794</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105794</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/747/66daaaf00c0bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
