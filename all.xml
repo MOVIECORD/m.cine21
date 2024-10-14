@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 06:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 07:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[cine scope] ‘계속해주세요, 저도 계속하겠습니다’, 이제훈이 강연자로 나선 2024 콘텐츠 창의인재 동반산업 오픈 특강을 가다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106114</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106114</guid>
+            <pubDate>Mon, 14 Oct 2024 07:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/032/670cc370c77de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIST] 김재환이 말하는 요즘 빠져 있는 것들의 목록 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106117</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 20 Sep 2024 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/347/66ed11cd9d2de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<베테랑 2> 시사 첫 반응 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105833</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105833</guid>
-            <pubDate>Thu, 12 Sep 2024 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/957/66debfcde91dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
