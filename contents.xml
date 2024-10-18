@@ -4,9 +4,33 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 07:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 롱레그스]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106182</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106182</guid>
+            <pubDate>Fri, 18 Oct 2024 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/777/671209de64c29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 온통 처음의 사랑, 드라마 <대도시의 사랑법> 허진호 감독 촬영 현장]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106181</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106181</guid>
+            <pubDate>Fri, 18 Oct 2024 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/523/671209dd35db4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 처음으로 문을 연 세계, <대도시의 사랑법> 손태겸 감독 촬영 현장]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106180</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106180</guid>
+            <pubDate>Fri, 18 Oct 2024 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/905/671209d64f4a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화계 현안에 대해 말해야 할 때, ‘영화 지원 예산 및 정책 정상화를 촉구하는 영화인 기자회견’ 열려]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106178</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 27 Sep 2024 07:13:55 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/304/66f65a85c692d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중급 규모 영화부터 살리겠다, 영화진흥위원회, 순제작비 10억원 이상 80억원 미만 영화 지원 계획]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105895</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105895</guid>
-            <pubDate>Fri, 27 Sep 2024 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/522/66f64c5a82ac7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 세상에서 가장 마녀다운 마녀가 될 거야 - <전부 애거사 짓이야> 잭 셰이퍼 감독, 메리 리바노스 프로듀서]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105865</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105865</guid>
-            <pubDate>Thu, 26 Sep 2024 07:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/473/66f508d36a9a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] 프랑스, 쌍천만 영화 탄생하나?, 파리 극장가, 올림픽 기간에도 2011년 이후 최다 여름 관객 기록해…]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105849</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105849</guid>
-            <pubDate>Mon, 23 Sep 2024 05:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/575/66f0f86718c07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
