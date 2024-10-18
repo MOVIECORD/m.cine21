@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화계 현안에 대해 말해야 할 때, ‘영화 지원 예산 및 정책 정상화를 촉구하는 영화인 기자회견’ 열려 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106178</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106178</guid>
+            <pubDate>Fri, 18 Oct 2024 06:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/195/6711fbf37b5b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[cine scope] ‘계속해주세요, 저도 계속하겠습니다’, 이제훈이 강연자로 나선 2024 콘텐츠 창의인재 동반산업 오픈 특강을 가다 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106114</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 23 Sep 2024 05:14:02 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/575/66f0f86718c07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 안전한 사회를 만드는 움직임, 제6회 4·16재단 문화콘텐츠 공모전 시상식 개최 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105848</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105848</guid>
-            <pubDate>Fri, 20 Sep 2024 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/347/66ed11cd9d2de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
