@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 04:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 05:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베를린] 베를린 언더그라운드 음악에 주목!, 주목할 만한 음악 다큐멘터리 <엘리먼트 오브 크라임: 베를린이 춥고 캄캄해지면> (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106179</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106179</guid>
+            <pubDate>Mon, 21 Oct 2024 05:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/761/6715e2443e617.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] 롱레그스 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106182</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 Sep 2024 05:14:23 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/400/66fa32aa88cb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] '보통의 가족' (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=105897</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=105897</guid>
-            <pubDate>Fri, 27 Sep 2024 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/304/66f65a85c692d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
