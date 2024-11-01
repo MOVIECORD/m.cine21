@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 05:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 06:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신개념 콘텐츠 리뷰 플랫폼의 등장, LG U+, <씨네21>과 손잡고 1ROW 출시해…]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106285</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106285</guid>
+            <pubDate>Fri, 01 Nov 2024 06:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/904/672470fb788ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[obituary] ‘뛰어난 관찰력, 독보적 아우라’, 배우 김수미 1949~2024]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106283</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106283</guid>
+            <pubDate>Fri, 01 Nov 2024 06:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/953/672470f774861.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[masters’ talk] 멋진 시도들 - <베놈: 라스트 댄스> 켈리 마르셀 감독, 배우 톰 하디에게 배우 김남길이 묻다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106284</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 14 Oct 2024 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/032/670cc370c77de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIST] 김재환이 말하는 요즘 빠져 있는 것들의 목록]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106117</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106117</guid>
-            <pubDate>Mon, 14 Oct 2024 06:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/373/670cb5f26e303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이와 가족을 위한 콘텐츠에 주목을 BAFTA TV상, 어린이·청소년을 위한 작품을 치하하는 수상 부문 포함하기로]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106113</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106113</guid>
-            <pubDate>Mon, 14 Oct 2024 06:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/331/670cb5ed56d1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
