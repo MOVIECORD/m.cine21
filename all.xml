@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 04:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 05:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로마] 나폴리의 열정을 빼닮은 영화, 파올로 소렌티노의 신작 <파르테노페> (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106377</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106377</guid>
+            <pubDate>Mon, 18 Nov 2024 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/804/673acc5d75e0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨네스코프] 혁신과 성장에 대한 의지를 나눈 교류의 장, 콘텐츠 컨버전스의 가능성을 선보인 2024 경기콘텐츠페스티벌 현장 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106378</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Oct 2024 05:14:23 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/109/671b2842d2a1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베를린] 베를린 언더그라운드 음악에 주목!, 주목할 만한 음악 다큐멘터리 <엘리먼트 오브 크라임: 베를린이 춥고 캄캄해지면> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106179</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106179</guid>
-            <pubDate>Mon, 21 Oct 2024 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/761/6715e2443e617.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
