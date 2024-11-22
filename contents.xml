@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 05:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 06:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위기 속 해결사 찾는 CJ의 신규 인사 발표, 그룹 최초로 90년대생 CEO 선임, 콘서트영화 특수관 흥행시킨 방준식 4DPLEX 대표]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106433</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106433</guid>
+            <pubDate>Fri, 22 Nov 2024 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/212/6740203e72d50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 나폴리의 열정을 빼닮은 영화, 파올로 소렌티노의 신작 <파르테노페>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106377</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Oct 2024 06:19:26 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/410/671b366f6ec6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] 청년, 전환기, 실천 - 한국영상자료원 창립 50주년 기념 국제 콘퍼런스 개최, ‘영화문화 운동의 역사화 작업과 필름 아카이브’]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106236</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106236</guid>
-            <pubDate>Fri, 25 Oct 2024 05:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/109/671b2842d2a1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
