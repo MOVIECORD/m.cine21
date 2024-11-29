@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 05:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 06:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 플랫폼, 라이브 콘텐츠를 공략하기 시작하다]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106480</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106480</guid>
+            <pubDate>Fri, 29 Nov 2024 06:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/031/67495aefe4009.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 독립영화 상영캠페인 ‘8주간의 약속’이 직면한 현실적 문제]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106478</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106478</guid>
+            <pubDate>Fri, 29 Nov 2024 06:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/208/67495aee6efb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LA] 끝내 검투사까지 재등판한 할리우드, <트위스터스> <비틀쥬스 비틀쥬스> 등 속편 열풍… <글래디에이터 II>는?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106434</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 25 Oct 2024 07:13:23 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/410/671b44642bb00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 밝고 높게 빛나는 사랑의 온도, 드라마 <대도시의 사랑법> 김세인 감독 촬영 현장]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106240</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106240</guid>
-            <pubDate>Fri, 25 Oct 2024 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/054/671b4461d6282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네스코프] 스카이라인을 따라 흐르는 사랑, <대도시의 사랑법> 홍지영 감독 촬영 현장]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106239</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106239</guid>
-            <pubDate>Fri, 25 Oct 2024 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/738/671b445f91308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
