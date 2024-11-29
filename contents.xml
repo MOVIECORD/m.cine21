@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 06:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] <괜찮아 괜찮아 괜찮아>]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106479</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106479</guid>
+            <pubDate>Fri, 29 Nov 2024 07:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/051/674968e42c08c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 플랫폼, 라이브 콘텐츠를 공략하기 시작하다]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106480</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Nov 2024 05:14:06 GMT</pubDate>
             <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/831/672462cd02761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] <레드 원>]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106241</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106241</guid>
-            <pubDate>Fri, 25 Oct 2024 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/410/671b44642bb00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
