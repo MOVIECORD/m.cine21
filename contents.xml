@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 05:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 06:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비상계엄이 영화계에 미친 영향, 개봉작들 홍보 일정 연기하거나 이행하거나]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106524</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106524</guid>
+            <pubDate>Fri, 06 Dec 2024 06:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/706/675295453d185.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] <괜찮아 괜찮아 괜찮아>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106479</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Nov 2024 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/953/672470f774861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[masters’ talk] 멋진 시도들 - <베놈: 라스트 댄스> 켈리 마르셀 감독, 배우 톰 하디에게 배우 김남길이 묻다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106284</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106284</guid>
-            <pubDate>Fri, 01 Nov 2024 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/831/672462cd02761.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
