@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 05:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 06:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화상영관 입장권 부과금 폐지, 국회 문체위와 영화계의 반대 목소리 잇따라 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106585</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106585</guid>
+            <pubDate>Fri, 13 Dec 2024 06:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/573/675bcfdfa67c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비상계엄이 영화계에 미친 영향, 개봉작들 홍보 일정 연기하거나 이행하거나 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106524</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Nov 2024 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/904/672470fb788ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[obituary] ‘뛰어난 관찰력, 독보적 아우라’, 배우 김수미 1949~2024 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106283</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106283</guid>
-            <pubDate>Fri, 01 Nov 2024 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[obituary]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/953/672470f774861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
