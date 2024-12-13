@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 06:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 07:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 니코: 오로라 원정대의 모험 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106588</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106588</guid>
+            <pubDate>Fri, 13 Dec 2024 07:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/109/675bddcc6c779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화상영관 입장권 부과금 폐지, 국회 문체위와 영화계의 반대 목소리 잇따라 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106585</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 01 Nov 2024 07:13:39 GMT</pubDate>
             <content:encoded><![CDATA[씨네스코프]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/073/67247ee273dec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신개념 콘텐츠 리뷰 플랫폼의 등장, LG U+, <씨네21>과 손잡고 1ROW 출시해… (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106285</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106285</guid>
-            <pubDate>Fri, 01 Nov 2024 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/904/672470fb788ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
