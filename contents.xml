@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 04:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 05:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Masters’ Talk] ‘디즈니의 기술력에 연출자의 목소리를 실어’, <무파사: 라이온 킹> 배리 젱킨스 감독, <부산행> <반도> 연상호 감독 대담]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106631</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106631</guid>
+            <pubDate>Fri, 20 Dec 2024 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/820/6764fc4d1572d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포커스] 짧게, 신선하게, 재미있게, 2024년 멀티플렉스의 ‘스낵 무비’ 전략 돌아보기]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106628</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106628</guid>
+            <pubDate>Fri, 20 Dec 2024 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/017/6764fc4865e3a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] 아무도 모르게 개봉한 거장의 신작, 클린트 이스트우드의 신작 <배심원 #2>와 워너브러더스의 파행]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106587</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 11 Nov 2024 05:14:11 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/035/673191d9aafc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국독립영화의 거점이자 발견, 서울독립영화제 열려 - 제50회 서울독립영화제 기자회견 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106336</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106336</guid>
-            <pubDate>Fri, 08 Nov 2024 06:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/988/672dab73439b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한국영화에 대한 질문’ 토론회 개최, 11월9일, 16일 인디스페이스에서 열려]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106321</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106321</guid>
-            <pubDate>Wed, 06 Nov 2024 05:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/026/672afa5112cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
