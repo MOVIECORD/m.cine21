@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 04:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 05:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파리] X세대와 Z세대 모두를 사로잡은 사랑영화, 배우 겸 감독 질 를루슈의 신작 <비팅 하츠> (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106630</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106630</guid>
+            <pubDate>Mon, 23 Dec 2024 05:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/834/6768f0d861974.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] <동화지만 청불입니다> (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106633</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Nov 2024 06:19:26 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/212/6740203e72d50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로마] 나폴리의 열정을 빼닮은 영화, 파올로 소렌티노의 신작 <파르테노페> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106377</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106377</guid>
-            <pubDate>Mon, 18 Nov 2024 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/804/673acc5d75e0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
