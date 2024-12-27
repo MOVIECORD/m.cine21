@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 05:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 06:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[obituary] 시나리오의 대가가 된 반골 소년, 송길한 작가(1940~2024)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106678</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106678</guid>
+            <pubDate>Fri, 27 Dec 2024 06:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/575/676e44d8d9884.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이틀 만에 125만 관객, <하얼빈>의 흥행 추이는? 2024 연말 극장가 현황 분석]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106677</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106677</guid>
+            <pubDate>Fri, 27 Dec 2024 06:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/860/676e44d66d790.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] X세대와 Z세대 모두를 사로잡은 사랑영화, 배우 겸 감독 질 를루슈의 신작 <비팅 하츠>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106630</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 25 Nov 2024 05:14:35 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/091/674406d24d8f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] 1승]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106436</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106436</guid>
-            <pubDate>Fri, 22 Nov 2024 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/002/67402e75a73c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기 속 해결사 찾는 CJ의 신규 인사 발표, 그룹 최초로 90년대생 CEO 선임, 콘서트영화 특수관 흥행시킨 방준식 4DPLEX 대표]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106433</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106433</guid>
-            <pubDate>Fri, 22 Nov 2024 06:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/212/6740203e72d50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
