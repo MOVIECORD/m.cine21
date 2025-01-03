@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 06:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 07:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] <언데드 다루는 법>]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106717</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106717</guid>
+            <pubDate>Fri, 03 Jan 2025 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/922/67778d685fef7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 2025년의 넷플릭스를 규정하는 네 가지 키워드는?]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106716</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 06 Dec 2024 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/706/675295453d185.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] <괜찮아 괜찮아 괜찮아>]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106479</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106479</guid>
-            <pubDate>Fri, 29 Nov 2024 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/051/674968e42c08c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
