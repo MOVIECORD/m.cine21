@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 05:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 06:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 2025년의 넷플릭스를 규정하는 네 가지 키워드는?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106716</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106716</guid>
+            <pubDate>Fri, 03 Jan 2025 06:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/167/67777f5a9f9d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[델리] 인도 액션영화는 프랜차이즈의 꿈을 꾸는가, <싱감 어게인> <푸쉬파: 더 룰 - 파트2> 등 잇달아 속편 공개… 평은 갈려]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106680</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Nov 2024 07:14:44 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/051/674968e42c08c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 플랫폼, 라이브 콘텐츠를 공략하기 시작하다]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106480</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106480</guid>
-            <pubDate>Fri, 29 Nov 2024 06:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/031/67495aefe4009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
