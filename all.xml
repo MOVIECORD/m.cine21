@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 06:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 07:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 고스트캣 앙주 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106757</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106757</guid>
+            <pubDate>Fri, 10 Jan 2025 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/822/6780c7d7255b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[균형성, 시기, 소통력 괜찮은가?, 영진위 신임 위원 6인 임명에 영화계의 우려 잇따라 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106755</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 13 Dec 2024 07:14:36 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/109/675bddcc6c779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화상영관 입장권 부과금 폐지, 국회 문체위와 영화계의 반대 목소리 잇따라 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106585</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106585</guid>
-            <pubDate>Fri, 13 Dec 2024 06:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/573/675bcfdfa67c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
