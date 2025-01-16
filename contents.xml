@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 04:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 05:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WHO ARE YOU] <은빛 살구> 배우 나애진]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106769</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106769</guid>
+            <pubDate>Thu, 16 Jan 2025 05:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/376/678894be25d1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베를린] 틸다 스윈턴이 공로상 받는다, 제75회 베를린국제영화제 2월13일 개막… 개막작, 심사위원장 등 라인업 공개]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106756</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 20 Dec 2024 05:13:53 GMT</pubDate>
             <content:encoded><![CDATA[기획리포트]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/017/6764fc4865e3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴욕] 아무도 모르게 개봉한 거장의 신작, 클린트 이스트우드의 신작 <배심원 #2>와 워너브러더스의 파행]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106587</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106587</guid>
-            <pubDate>Mon, 16 Dec 2024 05:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/941/675fb65c4f5fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
