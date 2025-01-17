@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 06:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 07:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 퇴마록]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106799</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106799</guid>
+            <pubDate>Fri, 17 Jan 2025 07:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/814/678a025eda314.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국영상자료원 ‘재팬 파운데이션 무비 페스티벌’ 개최]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106803</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 20 Dec 2024 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/890/6765186015ea4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“계엄은 잘못된 것”, 사과했지만… - 유인촌 문체부 장관 지시로 한예종 출입문 폐쇄했나, 내년 1월 임기 종료될 문체부 산하 문화예술 공공기관의 임원 선임은]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106629</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106629</guid>
-            <pubDate>Fri, 20 Dec 2024 06:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/307/67650a760d297.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
