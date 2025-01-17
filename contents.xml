@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 05:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 06:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국영상자료원 ‘재팬 파운데이션 무비 페스티벌’ 개최]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106803</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106803</guid>
+            <pubDate>Fri, 17 Jan 2025 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/486/6789f43b426ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포커스] 2025년, 어떤 세계관으로 떠나볼까?, <은혼> <하이큐!!>… 올해의 에스엠지홀딩스 라인업을 즐기는 세 가지 키워드]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106804</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 20 Dec 2024 06:18:34 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/307/67650a760d297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Masters’ Talk] ‘디즈니의 기술력에 연출자의 목소리를 실어’, <무파사: 라이온 킹> 배리 젱킨스 감독, <부산행> <반도> 연상호 감독 대담]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106631</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106631</guid>
-            <pubDate>Fri, 20 Dec 2024 05:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[마스터스 토크]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/820/6764fc4d1572d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
