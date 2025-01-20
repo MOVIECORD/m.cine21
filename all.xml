@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 04:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 05:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 누가 춘절의 승자가 될 것인가, 2025년 춘절 연휴를 강타할 신작 라인업과 이에 따른 우려는? (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106798</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106798</guid>
+            <pubDate>Mon, 20 Jan 2025 05:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/526/678ddae146494.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[coming soon] 퇴마록 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106799</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 23 Dec 2024 05:13:51 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/834/6768f0d861974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] <동화지만 청불입니다> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106633</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106633</guid>
-            <pubDate>Fri, 20 Dec 2024 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/890/6765186015ea4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
