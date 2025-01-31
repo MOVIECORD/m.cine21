@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 04:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 05:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포커스] “잘 죽고 내일 보자!”… 미리 본 <미키 17> 푸티지 시사회, <미키 17> 봉준호 감독, 배우 로버트 패틴슨 내한 기자회견 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106865</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106865</guid>
+            <pubDate>Fri, 31 Jan 2025 05:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/730/679c5b4233260.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베이징] 누가 춘절의 승자가 될 것인가, 2025년 춘절 연휴를 강타할 신작 라인업과 이에 따른 우려는? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106798</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 Dec 2024 06:18:18 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/860/676e44d66d790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파리] X세대와 Z세대 모두를 사로잡은 사랑영화, 배우 겸 감독 질 를루슈의 신작 <비팅 하츠> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106630</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106630</guid>
-            <pubDate>Mon, 23 Dec 2024 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/834/6768f0d861974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
