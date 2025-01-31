@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중급 영화에 주목 연말 고비 넘긴 극장가… 영진위 중예산 한국영화 지원에 적극 나선다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106862</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106862</guid>
+            <pubDate>Fri, 31 Jan 2025 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/797/679c696103be2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포커스] “잘 죽고 내일 보자!”… 미리 본 <미키 17> 푸티지 시사회, <미키 17> 봉준호 감독, 배우 로버트 패틴슨 내한 기자회견 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106865</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 Dec 2024 06:18:18 GMT</pubDate>
             <content:encoded><![CDATA[obituary]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/575/676e44d8d9884.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이틀 만에 125만 관객, <하얼빈>의 흥행 추이는? 2024 연말 극장가 현황 분석 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106677</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106677</guid>
-            <pubDate>Fri, 27 Dec 2024 06:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/860/676e44d66d790.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
