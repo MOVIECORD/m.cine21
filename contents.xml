@@ -4,9 +4,25 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 05:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 06:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 오후 5시의 넷플릭스를 본방 사수하라]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106908</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106908</guid>
+            <pubDate>Fri, 07 Feb 2025 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/334/67a5a3ed12b76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산업부터 살린다, 2025 정부 영화 정책의 방향성과 독립영화계 우려]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106907</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106907</guid>
+            <pubDate>Fri, 07 Feb 2025 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/477/67a5a3e6831e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포커스] 최선의 수비는 공격! 차별화된 액션의 새 경지, <캡틴 아메리카: 브레이브 뉴 월드> 줄리어스 오너 감독, 배우 앤서니 매키]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106909</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 03 Jan 2025 07:12:34 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/922/67778d685fef7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 2025년의 넷플릭스를 규정하는 네 가지 키워드는?]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106716</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106716</guid>
-            <pubDate>Fri, 03 Jan 2025 06:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/167/67777f5a9f9d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[델리] 인도 액션영화는 프랜차이즈의 꿈을 꾸는가, <싱감 어게인> <푸쉬파: 더 룰 - 파트2> 등 잇달아 속편 공개… 평은 갈려]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106680</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106680</guid>
-            <pubDate>Mon, 30 Dec 2024 06:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/788/677239615f558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
