@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 04:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포커스] 최선의 수비는 공격! 차별화된 액션의 새 경지, <캡틴 아메리카: 브레이브 뉴 월드> 줄리어스 오너 감독, 배우 앤서니 매키]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=106909</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=106909</guid>
+            <pubDate>Fri, 07 Feb 2025 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/526/67a595b747bd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[로마] 코미디 흥행보증수표의 귀환, 젠나로 눈치안테 감독의 신작 <나는 세상의 끝이다>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106863</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 Dec 2024 06:19:23 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/788/677239615f558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] 말할 수 없는 비밀]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106681</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106681</guid>
-            <pubDate>Fri, 27 Dec 2024 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/373/676e52fdd0a13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
