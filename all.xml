@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 04:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 05:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴욕] 무섭고 낯선 원숭이가 온다, <롱레그스> 만든 오즈 퍼킨스 감독의 신작 <더 몽키> (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107004</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107004</guid>
+            <pubDate>Mon, 24 Feb 2025 05:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/523/67bbff55b2b7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<미키17> 시사 첫반응 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=106982</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 17 Jan 2025 06:18:32 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/486/6789f43b426ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] 2025년, 어떤 세계관으로 떠나볼까?, <은혼> <하이큐!!>… 올해의 에스엠지홀딩스 라인업을 즐기는 세 가지 키워드 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106804</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106804</guid>
-            <pubDate>Fri, 17 Jan 2025 05:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/097/6789e65a1aaf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
