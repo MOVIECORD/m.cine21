@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 06:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화관 부과금 두달 만에 부활, 오늘 국회 ‘영화 및 비디오물의 진흥에 관한 법률’ 개정안 통과]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107039</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107039</guid>
+            <pubDate>Thu, 27 Feb 2025 07:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/416/67c00e7e84429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴욕] 무섭고 낯선 원숭이가 온다, <롱레그스> 만든 오즈 퍼킨스 감독의 신작 <더 몽키>]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107004</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 17 Jan 2025 07:12:39 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/814/678a025eda314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국영상자료원 ‘재팬 파운데이션 무비 페스티벌’ 개최]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106803</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106803</guid>
-            <pubDate>Fri, 17 Jan 2025 06:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/486/6789f43b426ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
