@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 04:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포커스] 불안한 토대 위 영화제, 언제까지 지속될까, 서울독립영화제의 영화진흥위원회 사업 보이콧과 영화제 지원사업 현황 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107044</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107044</guid>
+            <pubDate>Fri, 28 Feb 2025 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[기획리포트]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/743/67c145481ae46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화관 부과금 두달 만에 부활, 오늘 국회 ‘영화 및 비디오물의 진흥에 관한 법률’ 개정안 통과 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107039</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 20 Jan 2025 05:14:07 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/526/678ddae146494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] 퇴마록 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106799</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106799</guid>
-            <pubDate>Fri, 17 Jan 2025 07:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/814/678a025eda314.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
