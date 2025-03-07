@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 08:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집] <씨네21>이 선정한 2025 라이징스타, 김지안, 신재휘, 오예주, 장규리, 진호은, 최민영 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107066</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107066</guid>
+            <pubDate>Fri, 07 Mar 2025 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/171/67cab87b06f51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[obituary] 그 존재의 무게, 진 해크먼(1930~2025) (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107083</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 07 Feb 2025 06:19:24 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/334/67a5a3ed12b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부터 살린다, 2025 정부 영화 정책의 방향성과 독립영화계 우려 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106907</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106907</guid>
-            <pubDate>Fri, 07 Feb 2025 06:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/477/67a5a3e6831e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
