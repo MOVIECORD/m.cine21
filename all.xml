@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 05:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 06:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[obituary] 그 존재의 무게, 진 해크먼(1930~2025) (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107083</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107083</guid>
+            <pubDate>Fri, 07 Mar 2025 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[obituary]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/004/67ca8dc610ba5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6년 만의 봉준호 신작, <미키 17>의 흥행 추이는?, 2월 극장가 현황 분석 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107081</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107081</guid>
+            <pubDate>Fri, 07 Mar 2025 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/308/67ca8dc360a27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파리] 공교육에 거는 희망과 기대, 클레르 시몽 감독의 신작 다큐멘터리 <수업> (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107046</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 07 Feb 2025 06:19:24 GMT</pubDate>
             <content:encoded><![CDATA[국내뉴스]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/477/67a5a3e6831e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포커스] 최선의 수비는 공격! 차별화된 액션의 새 경지, <캡틴 아메리카: 브레이브 뉴 월드> 줄리어스 오너 감독, 배우 앤서니 매키 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106909</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106909</guid>
-            <pubDate>Fri, 07 Feb 2025 05:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[기획리포트]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/526/67a595b747bd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로마] 코미디 흥행보증수표의 귀환, 젠나로 눈치안테 감독의 신작 <나는 세상의 끝이다> (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106863</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106863</guid>
-            <pubDate>Mon, 03 Feb 2025 05:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/864/67a04fd576d88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
