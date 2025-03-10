@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[델리] 영웅, “독립”을 외치다, 액션 블록버스터 <차바>, 인도 극장가에서 화제 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107082</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107082</guid>
+            <pubDate>Mon, 10 Mar 2025 05:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[해외통신원]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/101/67ce744cd3172.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집] <씨네21>이 선정한 2025 라이징스타, 김지안, 신재휘, 오예주, 장규리, 진호은, 최민영 (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107066</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 07 Feb 2025 07:13:04 GMT</pubDate>
             <content:encoded><![CDATA[Coming Soon]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/508/67a5b1d5d815b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김조한의 OTT 인사이트] 오후 5시의 넷플릭스를 본방 사수하라 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106908</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106908</guid>
-            <pubDate>Fri, 07 Feb 2025 06:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/334/67a5a3ed12b76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
