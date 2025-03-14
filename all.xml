@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 06:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 07:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[coming soon] 미스터 로봇 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107126</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107126</guid>
+            <pubDate>Fri, 14 Mar 2025 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/885/67d3d663ef3db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨네스코프] 영화로운 신인 감독들의 출발을 알리다, 2025 한국영화아카데미 졸업영화제 개막식을 가다 (씨네21 모바일)]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107125</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107125</guid>
+            <pubDate>Fri, 14 Mar 2025 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[씨네스코프]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/912/67d3d667c2fb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김조한의 OTT 인사이트] 투비에 주목하라, AVOD 플랫폼의 새 지평을 연 투비, 그 전망은? (씨네21 모바일)]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107124</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 24 Feb 2025 05:14:05 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/523/67bbff55b2b7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<미키17> 시사 첫반응 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106982</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106982</guid>
-            <pubDate>Mon, 17 Feb 2025 11:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/470/67b30d935aaf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LA] 화마와 잿더미 속에 신음하는 할리우드, LA 전역을 덮친 산불… 그래미상과 아카데미 시상식은 예정대로 열려 (씨네21 모바일)]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106950</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106950</guid>
-            <pubDate>Mon, 17 Feb 2025 05:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[해외통신원]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/102/67b2c4be18458.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
