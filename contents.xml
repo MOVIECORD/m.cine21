@@ -4,9 +4,17 @@
         <title>씨네21 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 04:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 05:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김조한의 OTT 인사이트] 투비에 주목하라, AVOD 플랫폼의 새 지평을 연 투비, 그 전망은?]]></title>
+            <link>http://m.cine21.com/news/view/?mag_id=107124</link>
+            <guid>http://m.cine21.com/news/view/?mag_id=107124</guid>
+            <pubDate>Fri, 14 Mar 2025 05:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내뉴스]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/640/67d3ba545ce54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기획] 혁명, SF, 정치의 교차점에서 - <미키 17>에 던지는 세 가지 질문]]></title>
             <link>http://m.cine21.com/news/view/?mag_id=107096</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 17 Feb 2025 05:15:07 GMT</pubDate>
             <content:encoded><![CDATA[해외통신원]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/102/67b2c4be18458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[coming soon] 콘클라베]]></title>
-            <link>http://m.cine21.com/news/view/?mag_id=106951</link>
-            <guid>http://m.cine21.com/news/view/?mag_id=106951</guid>
-            <pubDate>Fri, 14 Feb 2025 07:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[Coming Soon]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/939/67aeec66e9094.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
